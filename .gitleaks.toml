@@ -1,0 +1,19 @@
+# Gitleaks configuration for this repo.
+# Extends gitleaks' built-in default ruleset (AWS keys, GitHub/GitLab
+# tokens, private keys, generic high-entropy secrets, etc.) and only
+# adds repo-specific allowlisting on top.
+title = "chem-ecology-course gitleaks config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Ignore Quarto-generated build output"
+# docs/ is the rendered site output (`quarto render`), rebuilt from the
+# .qmd/.yml sources on every build and containing vendored third-party
+# JS libraries. Any real secret would originate in a source file, which
+# is still scanned in full — excluding the generated copy just avoids
+# duplicate hits and false positives from minified vendor code.
+paths = [
+  '''^docs/.*''',
+]
