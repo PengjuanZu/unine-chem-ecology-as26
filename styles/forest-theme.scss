@@ -1,0 +1,65 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #1c2b22;
+$link-color: #1B4332;
+$selection-bg: #E3A857;
+
+$presentation-heading-font: Cambria, Georgia, "Times New Roman", serif;
+$presentation-font-size-root: 32px;
+$presentation-line-height: 1.35;
+
+$presentation-h1-font-size: 2.4em;
+$presentation-h2-font-size: 1.7em;
+$presentation-h3-font-size: 1.2em;
+
+/*-- scss:rules --*/
+.reveal .slide-background {
+  background-color: #ffffff;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #1B4332;
+  font-weight: 700;
+}
+
+// Section / story-title slides: give them a dark-green background via
+// {background-color="#1B4332"} in the .qmd and let text auto-invert here.
+.reveal section[data-background-color="#1B4332"] h1,
+.reveal section[data-background-color="#1B4332"] h2,
+.reveal section[data-background-color="#1B4332"] h3,
+.reveal section[data-background-color="#1B4332"] p,
+.reveal section[data-background-color="#1B4332"] li {
+  color: #ffffff;
+}
+
+// "Hook" slides: the pause/question card
+.reveal .hook blockquote {
+  background-color: #F7E7C6;
+  border-left: none;
+  padding: 0.6em 1em;
+  border-radius: 10px;
+  color: #1c2b22;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.reveal .hook blockquote em {
+  font-weight: 400;
+  opacity: 0.75;
+  font-size: 0.75em;
+}
+
+// Big stat / year slides
+.reveal .stat-slide h1 {
+  color: #E3A857;
+  font-size: 3.2em;
+}
+
+// Callout-style closing lines ("The plant doesn't just defend itself...")
+.reveal strong {
+  color: #1B4332;
+}
+
+.reveal section[data-background-color="#1B4332"] strong {
+  color: #E3A857;
+}

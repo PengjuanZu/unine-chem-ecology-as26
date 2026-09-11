@@ -1,0 +1,77 @@
+## Story 3 · Histoire 3 {background-color="#1B4332"}
+
+### When a Flower Lies
+*Quand une fleur ment*
+
+::: {.notes}
+Transition, ~5 sec. Timing target for Story 3: ~9 minutes.
+:::
+
+## 1927 · Australia {.hook}
+
+An amateur naturalist, Edith Coleman, notices something strange about the
+orchids in her garden.
+
+> **What if a flower didn't need nectar or bright color — what if it could impersonate an insect instead?**
+>
+> *Et si une fleur pouvait imiter un insecte, plutôt que d'offrir du nectar ?*
+
+⏳ Think, 45 seconds — talk to your neighbor.
+
+::: {.notes}
+Let a few guesses land before revealing — "impersonate" is the key word
+to plant in their minds.
+:::
+
+## Edith Coleman, 1927
+
+- *Cryptostylis* orchids, in Australia, are pollinated by only one
+  visitor: male ichneumonid wasps
+- The males attempt to mate with the flower itself
+- No reward is offered — the flower is simply mistaken for a mate
+
+::: {.notes}
+Coleman was an amateur naturalist, not an academic scientist — nice
+detail for who gets to make discoveries.
+:::
+
+## Bertil Kullenberg, from 1948
+
+- Spends over a decade studying Mediterranean *Ophrys* orchids
+- Shows the flowers chemically mimic a female bee's own sex pheromone
+- Males attempt to mate with the flower — and carry pollen away in the
+  process
+
+**This is chemical mimicry, not just visual disguise.**
+
+::: {.notes}
+Ophrys = the bee orchid genus. Distinguish from Story 1's Bombyx moth
+pheromone — same concept, opposite direction (flower faking insect, not
+insect faking insect).
+:::
+
+## Quick pause {.hook}
+
+> **If you were a flower faking a pheromone, how close would the copy need to be to actually fool the insect?**
+>
+> *À quel point la copie chimique devrait-elle être fidèle pour tromper l'insecte ?*
+
+⏳ 30 seconds.
+
+::: {.notes}
+Push toward "nearly identical, compound-for-compound" as the intuition,
+then confirm it on the next slide.
+:::
+
+## GC-MS confirms it
+
+- Modern chemical analysis compares orchid scent blends to the real
+  insect pheromone
+- In several species, the match is nearly compound-for-compound
+
+**Deception, written in chemistry.**
+
+::: {.notes}
+Same analytical toolkit as Story 1 — start planting the seed that all
+three stories share this technology. End of Story 3 (~9 min total).
+:::

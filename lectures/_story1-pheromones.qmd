@@ -1,0 +1,98 @@
+## Story 1 · Histoire 1 {background-color="#1B4332"}
+
+### The Scent No One Could See
+*L'odeur invisible*
+
+::: {.notes}
+Transition, ~5 sec. Timing target for Story 1: ~9 minutes.
+:::
+
+## 1879 · Sérignan, France {.hook}
+
+A naturalist keeps a newly-emerged female moth caged in his study. That
+night, dozens of males pour in through the open window.
+
+> **How does a male moth find a female — kilometers away, in total darkness?**
+>
+> *Comment un papillon mâle trouve-t-il une femelle, à des kilomètres, dans le noir total ?*
+
+⏳ Think, 60 seconds — talk to your neighbor.
+
+::: {.notes}
+Read the setting, then the question, then actually pause ~60 sec. Let a
+couple of students guess before revealing. This naturalist is Jean-Henri
+Fabre — save the name for the reveal.
+:::
+
+## Jean-Henri Fabre rules out sight and sound
+
+- The night was heavily overcast and pitch dark, and the female made no
+  sound — ruling out sight and hearing
+- He moved her into a sealed, airtight box → **no males arrived**, even
+  with the box left in plain view — his cleanest result
+- He surrounded her with naphthalene (mothballs) to mask her scent → the
+  males found her anyway
+- His antennae-removal test was murkier: clipped and unclipped "control"
+  males *both* stopped returning after a night or two — most likely
+  because adult moths only live 2–3 days, not because of the antennae
+
+> "It must be an odor — one we cannot perceive."
+
+::: {.notes}
+Fabre, French naturalist, working at his home. The sealed-box result is
+the strongest evidence — lead with that if time is short. The antennae
+story is a nice honesty-in-science moment: even Fabre's own experiment
+was ambiguous, and he said so himself. Bonus fact if there's time: he
+first wondered if the female used a kind of "wireless telegraphy"
+(electromagnetic waves) before the smell explanation.
+:::
+
+## 80 years later, a Nobel laureate takes the case
+
+- 1939 — Adolf Butenandt wins the Nobel Prize in Chemistry, for isolating
+  **human** sex hormones. Nothing to do with insects — yet.
+- He turns to Fabre's 80-year-old puzzle: what exactly is the female
+  silkworm moth's scent?
+- It takes his team 20 years to gather enough material to identify it.
+
+**20 years · over 500,000 moths — for a few milligrams of pure substance**
+
+::: {.notes}
+Nice twist: he already had science's highest prize, for completely
+different work, before starting this 20-year side quest.
+:::
+
+## 1959 {background-color="#1B4332" .stat-slide}
+
+# 1959
+
+### Bombykol — the first pheromone ever chemically identified.
+
+*The word "pheromone" is coined that same year.*
+
+::: {.notes}
+Big payoff moment — let it sit for a second before moving on.
+:::
+
+## Quick pause {.hook}
+
+> **Today, could we do this with just one moth?**
+>
+> *Aujourd'hui, pourrait-on le faire avec un seul papillon ?*
+
+⏳ 30 seconds.
+
+## From 500,000 moths to one living antenna
+
+- GC-EAD (1975) — invented in Switzerland — wires a living insect antenna
+  up as a detector on a gas chromatograph
+- The insect itself "tells you" which compound it can smell, peak by peak
+- Paired with GC-MS to confirm the exact molecular structure, from a
+  trace air sample
+
+**What took Butenandt 20 years now takes an afternoon.**
+
+::: {.notes}
+GC-EAD = gas chromatography-electroantennographic detection, invented by
+Arn, Städler & Rauscher. End of Story 1 (~9 min total).
+:::

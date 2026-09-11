@@ -1,0 +1,87 @@
+## Story 2 · Histoire 2 {background-color="#1B4332"}
+
+### Why Would a Plant Call for Help?
+*Pourquoi une plante appellerait-elle à l'aide ?*
+
+::: {.notes}
+Transition, ~5 sec. Can callback to an opening "you are a plant" activity
+if used. Timing target for Story 2: ~9 minutes.
+:::
+
+## Remember being a plant? {.hook}
+
+For a century, scientists looked at plant chemicals like nicotine,
+caffeine, and morphine, and mostly called them one thing: waste.
+
+> **Why might they have thought that?**
+>
+> *Pourquoi le pensaient-ils, selon vous ?*
+
+⏳ Think, 45 seconds — talk to your neighbor.
+
+::: {.notes}
+Let students guess — common answers: "they don't help the plant grow,"
+"random byproducts of metabolism." Both reasonable, both wrong — that's
+the point.
+:::
+
+## The "waste" assumption
+
+- Plants make thousands of chemically odd compounds
+- None seemed necessary for growth, photosynthesis, or reproduction
+- Biochemists' default explanation: leftover metabolic "junk"
+
+::: {.notes}
+Set up the wrong idea clearly before knocking it down — that's the whole
+rhetorical structure of this story.
+:::
+
+## 1959 {background-color="#1B4332" .stat-slide}
+
+# 1959
+
+### Gottfried Fraenkel reframes plant chemistry: not waste — weapons.
+
+*"The Raison d'Être of Secondary Plant Substances," Science, 1959 — the
+same year as bombykol.*
+
+::: {.notes}
+Point out the same-year coincidence with Story 1 explicitly — students
+often catch it themselves, let them.
+:::
+
+## Quick pause {.hook}
+
+Deterring a herbivore is passive defense — make yourself less tasty and
+wait.
+
+> **What would ACTIVE defense look like — a plant that fights back by calling in help?**
+>
+> *À quoi ressemblerait une défense active — une plante qui appelle à l'aide ?*
+
+⏳ 45 seconds.
+
+## Turlings, Tumlinson & Lewis, 1990
+
+- A caterpillar bites into a maize seedling
+- Within hours, the plant releases a specific blend of terpenoid volatiles
+- A parasitic wasp (*Cotesia*) follows that scent straight to the
+  caterpillar — and lays its eggs inside it
+
+**The plant doesn't just defend itself — it recruits a bodyguard.**
+
+::: {.notes}
+This is the HIPV (herbivore-induced plant volatile) discovery — the
+foundational tritrophic-interaction paper.
+:::
+
+## A tradition built right here
+
+This discovery became the HIPV research tradition — herbivore-induced
+plant volatiles and tritrophic interactions — that Ted Turlings later
+built at the University of Neuchâtel.
+
+::: {.notes}
+Local pride moment — UniNE is where this research tradition lives on.
+Good bridge into Story 3. End of Story 2 (~9 min total).
+:::

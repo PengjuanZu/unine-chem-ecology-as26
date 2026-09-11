@@ -1,0 +1,32 @@
+---
+title: "Three Mysteries in Chemical Ecology"
+subtitle: "Trois mystères de l'écologie chimique"
+author: "Prof. Pengjuan Zu · University of Neuchâtel"
+format:
+  revealjs:
+    theme: [default, ../styles/forest-theme.scss]
+    slide-number: c/t
+    transition: fade
+    chalkboard: false
+    embed-resources: true
+---
+
+## Three Mysteries in Chemical Ecology {background-color="#1B4332"}
+
+### Trois mystères de l'écologie chimique
+
+Prof. Pengjuan Zu · University of Neuchâtel
+
+::: {.notes}
+Title slide. ~5 sec.
+:::
+
+{{< include _intro.qmd >}}
+
+{{< include _story1-pheromones.qmd >}}
+
+{{< include _story2-hipv.qmd >}}
+
+{{< include _story3-flower-deception.qmd >}}
+
+{{< include _synthesis.qmd >}}

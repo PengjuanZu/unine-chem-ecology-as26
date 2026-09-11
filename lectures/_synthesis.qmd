@@ -1,0 +1,51 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+# Notice something?
+
+::: columns
+::: {.column width="50%"}
+### 1959
+Bombykol identified (Story 1)
+:::
+
+::: {.column width="50%"}
+### 1959
+Fraenkel's paper published (Story 2)
+:::
+:::
+
+*Two completely unrelated mysteries. The same year science cracked them
+both.*
+
+::: {.notes}
+Let this land — it's a genuine coincidence worth pausing on. ~1 min.
+:::
+
+## All three stories — unlocked by the same tools
+
+- GC-MS separates and identifies compounds from tiny, complex mixtures
+- GC-EAD lets an insect's own antenna point to the biologically relevant
+  ones
+- From Fabre's moths, to Turlings' maize, to Kullenberg's orchids — the
+  same chemistry toolkit cracked every case
+
+::: {.notes}
+Explicit callback tying the technology thread across all three stories.
+~1 min.
+:::
+
+## Your turn {background-color="#1B4332"}
+
+### What do you think is still a mystery today?
+
+⏳ Quick share — a few volunteers.
+
+*Merci — welcome to the course.*
+
+Prof. Pengjuan Zu
+
+::: {.notes}
+Genuine open question, let a few students answer, no need to resolve it.
+Then close: "Merci — welcome to the course." ~2-3 min.
+Total session: ~30 min.
+:::

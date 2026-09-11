@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Écologie Chimique · BSc S5"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lectures/history-of-chemical-ecology.qmd
+        text: "Lecture 1 — History"
+  page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
+
+format:
+  html:
+    theme: cosmo
+    css: styles/site.css
+    toc: false
