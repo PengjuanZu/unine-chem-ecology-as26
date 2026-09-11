@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Écologie Chimique — BSc S5",
-    "section": "",
-    "text": "Course materials for Chemical Ecology, BSc S5, University of Neuchâtel. Taught by Prof. Pengjuan Zu."
-  },
-  {
-    "objectID": "index.html#lectures",
-    "href": "index.html#lectures",
-    "title": "Écologie Chimique — BSc S5",
-    "section": "Lectures",
-    "text": "Lectures\n\nLecture 1 — Three Mysteries in Chemical Ecology A ~30-minute interactive history of pheromone discovery, plant defense signaling, and floral deception, with built-in discussion pauses.\n\n(Add new lectures here as the course grows — see README.md for the workflow.)"
-  },
-  {
     "objectID": "lectures/history-of-chemical-ecology.html#three-mysteries-in-chemical-ecology",
     "href": "lectures/history-of-chemical-ecology.html#three-mysteries-in-chemical-ecology",
     "title": "Three Mysteries in Chemical Ecology",
@@ -194,5 +180,19 @@
     "title": "Three Mysteries in Chemical Ecology",
     "section": "Your turn",
     "text": "Your turn\nWhat do you think is still a mystery today?\n⏳ Quick share — a few volunteers.\nMerci — welcome to the course.\nProf. Pengjuan Zu\n\nGenuine open question, let a few students answer, no need to resolve it. Then close: “Merci — welcome to the course.” ~2-3 min. Total session: ~30 min."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Écologie Chimique — BSc S5",
+    "section": "",
+    "text": "Course materials for Chemical Ecology, BSc S5, University of Neuchâtel. Taught by Prof. Pengjuan Zu."
+  },
+  {
+    "objectID": "index.html#lectures",
+    "href": "index.html#lectures",
+    "title": "Écologie Chimique — BSc S5",
+    "section": "Lectures",
+    "text": "Lectures\n\nLecture 1 — Three Mysteries in Chemical Ecology A ~30-minute interactive history of pheromone discovery, plant defense signaling, and floral deception, with built-in discussion pauses.\n\n(Add new lectures here as the course grows — see README.md for the workflow.)"
   }
 ]
