@@ -77,7 +77,7 @@ $presentation-h3-font-size: 1.2em;
   left: 0;
   right: 0;
   text-align: center;
-  font-size: 0.8em;
+  font-size: 0.6em;
   letter-spacing: 0.08em;
   font-weight: 700;
   color: #E3A857;
@@ -97,6 +97,7 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal .title-slide-logo-right {
   right: 0.7em;
+  height: 3.2em;
 }
 
 .reveal .title-slide-body {
@@ -121,7 +122,8 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal .title-slide-text .title {
   color: #ffffff;
-  font-size: 1.7em;
+  font-size: 1.3em;
+  white-space: nowrap;
   margin-bottom: 0.2em;
 }
 
