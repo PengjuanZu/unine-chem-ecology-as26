@@ -10,6 +10,8 @@ website:
         text: Home
       - href: lectures/week01-history-of-chemical-ecology/index.qmd
         text: "Week 1 — History"
+      - href: lectures/week02-infochemicals/index.qmd
+        text: "Week 2 — Infochemicals"
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
 metadata:

@@ -1,0 +1,17 @@
+---
+title: "Three Mysteries in Chemical Ecology"
+subtitle: "Trois mystères de l'écologie chimique"
+format:
+  revealjs:
+    theme: [default, ../../styles/forest-theme.scss]
+    slide-number: c/t
+    transition: fade
+    chalkboard: false
+    embed-resources: true
+    template-partials:
+      - ../../title-slide.html
+    title-slide-attributes:
+      data-background-color: "#1B4332"
+---
+
+{{< include _learninggoals.qmd >}}

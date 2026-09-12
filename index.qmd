@@ -11,4 +11,6 @@ Taught by Prof. Pengjuan Zu.
   A ~30-minute interactive history of pheromone discovery, plant defense signaling,
   and floral deception, with built-in discussion pauses.
 
+- [**Week 2 — Infochemicals**](lectures/week02-infochemicals/index.qmd)
+
 *(Add new weeks here as the course grows — see `README.md` for the workflow.)*
