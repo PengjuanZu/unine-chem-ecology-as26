@@ -1,6 +1,6 @@
 ---
-title: "Three Mysteries in Chemical Ecology"
-subtitle: "Trois mystères de l'écologie chimique"
+title: "Infochemicals"
+subtitle: "Infochimiques"
 format:
   revealjs:
     theme: [default, ../../styles/forest-theme.scss]
