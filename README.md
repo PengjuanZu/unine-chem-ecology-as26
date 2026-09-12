@@ -11,10 +11,11 @@ with Git.
   before you start revising for next year, so you can always get back to
   what you taught this year.
 - **Reusable** — each story/topic lives in its own file
-  (`lectures/_story1-pheromones.qmd`, etc.) and is pulled into the full
-  lecture with `{{< include ... >}}`. Reuse a story in a different
-  lecture, or a different year, by including it there too — edit the
-  source once, every lecture that includes it updates.
+  (`lectures/week01-history-of-chemical-ecology/_story1-pheromones.qmd`,
+  etc.) and is pulled into the full lecture with `{{< include ... >}}`.
+  Reuse a story in a different week, or a different year, by including
+  it there too — edit the source once, every lecture that includes it
+  updates.
 - **Easy to edit** — everything is plain Markdown. No PowerPoint,
   no fighting text boxes. Speaker notes live in `::: {.notes} ... :::`
   blocks right next to the slide they belong to.
@@ -33,13 +34,21 @@ chem-ecology-course/
 │   ├── forest-theme.scss       # revealjs theme (forest green / amber)
 │   └── site.css                # styling for the non-slide website pages
 └── lectures/
-    ├── history-of-chemical-ecology.qmd   # the actual lecture (composes partials below)
-    ├── _intro.qmd                        # shared framing slides
-    ├── _story1-pheromones.qmd
-    ├── _story2-hipv.qmd
-    ├── _story3-flower-deception.qmd
-    └── _synthesis.qmd
+    └── week01-history-of-chemical-ecology/
+        ├── index.qmd            # the actual lecture (composes partials below)
+        ├── _intro.qmd           # shared framing slides
+        ├── _story1-pheromones.qmd
+        ├── _story2-hipv.qmd
+        ├── _story3-flower-deception.qmd
+        ├── _synthesis.qmd
+        └── images/              # pictures used by this week's slides
 ```
+
+Each week gets its own folder under `lectures/`, named
+`weekNN-<topic>` (zero-padded so they sort correctly: `week01`,
+`week02`, ... `week10`). That keeps every week's slides, partials, and
+images self-contained and makes it obvious at a glance which week
+something belongs to.
 
 Files starting with `_` are **partials** — Quarto won't render them as
 standalone pages, only as includes inside another file. That's what
@@ -59,7 +68,7 @@ makes them reusable building blocks.
 **Preview while editing** (auto-refreshes in your browser as you type):
 
 ```bash
-quarto preview lectures/history-of-chemical-ecology.qmd
+quarto preview lectures/week01-history-of-chemical-ecology/index.qmd
 ```
 
 **Render the whole site** (writes to `docs/`, ready to publish):
@@ -91,32 +100,58 @@ git tag 2026-edition
 git push --tags
 ```
 
-## Publishing to GitHub Pages (free, public web link)
+## Publishing to GitHub Pages
 
-1. Create an empty repository on GitHub (don't initialize it with a
-   README — this folder already has one).
-2. From this folder:
+The site publishes automatically via GitHub Actions
+(`.github/workflows/publish.yml`): every merge to `main` renders the
+site with Quarto and deploys it to Pages. You never need to run
+`quarto render` and commit the output — `docs/` is git-ignored and only
+exists as a CI build artifact.
+
+`main` is protected: you can't push to it directly, only merge a
+reviewed pull request. So publishing a new week means opening a PR (see
+below) and merging it.
+
+## Adding a new week
+
+1. Branch off `main`:
    ```bash
-   git remote add origin https://github.com/<your-username>/<repo-name>.git
-   git branch -M main
-   git push -u origin main
+   git checkout main
+   git pull
+   git checkout -b week02-<topic>
    ```
-3. On GitHub: **Settings → Pages → Source → Deploy from a branch →
-   `main` / `docs`**. Save.
-4. Your course site will be live at
-   `https://<your-username>.github.io/<repo-name>/` within a minute or
-   two. Re-run `quarto render`, commit, and push any time you want to
-   update the live site.
+2. Create `lectures/week02-<topic>/index.qmd` with its own YAML front
+   matter (`format: revealjs`, etc. — copy the header from
+   `lectures/week01-history-of-chemical-ecology/index.qmd` as a
+   starting point), plus an `images/` subfolder if it needs pictures.
+3. If a slide reuses content from an existing story (e.g. the pheromone
+   story again), add `{{< include ../week01-history-of-chemical-ecology/_story1-pheromones.qmd >}}`
+   there — or just copy the partial into the new week's folder if you
+   want it to evolve independently from week 1's version.
+4. Add the new week to the navbar in `_quarto.yml` and link it from
+   `index.qmd`.
+5. Preview locally (`quarto preview lectures/week02-<topic>/index.qmd`),
+   then commit, push the branch, and open a pull request into `main`.
+6. Merging the PR triggers the Actions workflow, which publishes the
+   updated site automatically.
 
-## Adding a new lecture next semester
+## Adding pictures to a slide
 
-1. Duplicate the pattern: create `lectures/lecture2-<topic>.qmd` with its
-   own YAML front matter (`format: revealjs`, etc.).
-2. If it shares content with an existing story (e.g. you reuse the
-   pheromone story in a different lecture), just add
-   `{{< include _story1-pheromones.qmd >}}` there too.
-3. Add a link to it from `index.qmd`.
-4. Commit as usual.
+1. Drop the image file into that week's `images/` folder, e.g.
+   `lectures/week01-history-of-chemical-ecology/images/moth-antenna.png`.
+2. Reference it from the slide with a normal Markdown image, using a
+   path relative to the `.qmd` file:
+   ```markdown
+   ![Caption text](images/moth-antenna.png)
+   ```
+3. To control size/placement in revealjs, use Quarto's fenced attribute
+   syntax:
+   ```markdown
+   ![Caption text](images/moth-antenna.png){width="60%" fig-align="center"}
+   ```
+4. Because the deck uses `embed-resources: true`, images are embedded
+   directly into the rendered HTML — the slide deck stays a single,
+   portable file with no separate image files to keep track of.
 
 ## A note on the content itself
 

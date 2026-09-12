@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: lectures/history-of-chemical-ecology.qmd
-        text: "Lecture 1 — History"
+      - href: lectures/week01-history-of-chemical-ecology/index.qmd
+        text: "Week 1 — History"
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
 format:
