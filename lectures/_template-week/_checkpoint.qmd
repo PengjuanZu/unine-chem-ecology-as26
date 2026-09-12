@@ -1,0 +1,18 @@
+## Quick check {.hook}
+
+TODO: a retrieval question on what's just been covered — not a new
+topic. Keep it answerable from what students already heard.
+
+> **TODO: question.**
+>
+> *TODO : en français.*
+
+⏳ Think-pair-share, 60-90 seconds.
+
+::: {.notes}
+Mid-session checkpoint. Attention drops sharply after ~15 min of
+straight content — this pause resets it and surfaces misconceptions
+while there's still time in the session to address them. If several
+pairs get it wrong, address it before moving on rather than pressing
+ahead.
+:::

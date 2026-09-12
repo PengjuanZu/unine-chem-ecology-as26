@@ -63,3 +63,89 @@ $presentation-h3-font-size: 1.2em;
 .reveal section[data-background-color="#1B4332"] strong {
   color: #E3A857;
 }
+
+// Custom title slide: corner logos, centered course header,
+// title/subtitle/author on the left, weekly topic image on the right.
+.reveal .slides section.title-slide-custom {
+  position: relative;
+  padding: 0;
+}
+
+.reveal .title-slide-header {
+  position: absolute;
+  top: 0.6em;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.5em;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #E3A857;
+}
+
+.reveal .title-slide-logo {
+  position: absolute;
+  top: 0.5em;
+  height: 2em;
+  width: auto;
+  max-width: none;
+}
+
+.reveal .title-slide-logo-left {
+  left: 0.7em;
+}
+
+.reveal .title-slide-logo-right {
+  right: 0.7em;
+}
+
+.reveal .title-slide-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5em;
+  height: 100%;
+  padding: 3.2em 1em 1em;
+}
+
+.reveal .title-slide-text {
+  flex: 1 1 50%;
+  text-align: left;
+}
+
+// No topic-image set yet for this week: let the text take the full width.
+.reveal .title-slide-body .title-slide-text:only-child {
+  flex: 1 1 100%;
+  text-align: center;
+}
+
+.reveal .title-slide-text .title {
+  color: #ffffff;
+  margin-bottom: 0.2em;
+}
+
+.reveal .title-slide-text .subtitle {
+  color: #ffffff;
+  opacity: 0.9;
+  font-weight: 400;
+}
+
+.reveal .title-slide-text .author {
+  color: #E3A857;
+  margin-top: 1em;
+}
+
+.reveal .title-slide-image {
+  flex: 1 1 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.reveal .title-slide-image img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}

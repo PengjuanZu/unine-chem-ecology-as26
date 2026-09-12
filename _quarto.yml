@@ -12,6 +12,9 @@ website:
         text: "Week 1 — History"
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
+metadata:
+  author_Zu: "Prof. Pengjuan Zu<br>Head of Laboratory of Network Information & Chemical Ecology (NICE)"
+
 format:
   html:
     theme: cosmo
