@@ -1,0 +1,23 @@
+## Activity · Activité {background-color="#1B4332"}
+
+### 🌿 🐛 Plants and insects
+*Plantes et insectes*
+
+<!-- TODO: replace this text placeholder with a real photo once you
+have one — drop the file into images/ and use:
+![Caption](images/your-file.jpg){width="70%" fig-align="center"}
+See README.md ("Adding pictures to a slide") for details. -->
+
+*[Photo of a plant and an insect interacting goes here]*
+
+> **How might a plant and an insect "talk" to each other without words?**
+>
+> *Comment une plante et un insecte pourraient-ils « se parler » sans mots ?*
+
+⏳ Think, 60 seconds — talk to your neighbor.
+
+::: {.notes}
+Discussion activity, ~3 min. Purpose: surface students' intuitions
+before any formal vocabulary — there are no wrong answers here, just
+collect a few out loud before moving on to the stories.
+:::

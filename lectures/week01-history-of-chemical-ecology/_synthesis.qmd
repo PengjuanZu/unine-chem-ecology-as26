@@ -31,21 +31,5 @@ Let this land — it's a genuine coincidence worth pausing on. ~1 min.
 
 ::: {.notes}
 Explicit callback tying the technology thread across all three stories.
-~1 min.
-:::
-
-## Your turn {background-color="#1B4332"}
-
-### What do you think is still a mystery today?
-
-⏳ Quick share — a few volunteers.
-
-*Merci — welcome to the course.*
-
-Prof. Pengjuan Zu
-
-::: {.notes}
-Genuine open question, let a few students answer, no need to resolve it.
-Then close: "Merci — welcome to the course." ~2-3 min.
-Total session: ~30 min.
+~1 min. Total time for the three-stories block: ~30 min.
 :::

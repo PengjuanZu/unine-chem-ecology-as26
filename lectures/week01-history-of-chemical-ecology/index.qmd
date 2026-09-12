@@ -21,6 +21,12 @@ format:
 
 {{< include _learninggoals.qmd >}}
 
+{{< include _agenda.qmd >}}
+
+{{< include _welcome.qmd >}}
+
+{{< include _activity.qmd >}}
+
 {{< include _intro.qmd >}}
 
 {{< include _story1-pheromones.qmd >}}
@@ -30,3 +36,7 @@ format:
 {{< include _story3-flower-deception.qmd >}}
 
 {{< include _synthesis.qmd >}}
+
+{{< include _chemecology.qmd >}}
+
+{{< include _courseoverview.qmd >}}

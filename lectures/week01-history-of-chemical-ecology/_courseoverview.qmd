@@ -1,0 +1,33 @@
+## Course Overview & Evaluation {background-color="#1B4332"}
+
+### Aperçu du cours et évaluation
+
+<!-- TODO: fill in with the real syllabus/evaluation details —
+schedule, grading breakdown, key dates, contact info, etc. -->
+
+- **Schedule**: TODO — weekly topics / calendar
+- **Evaluation**: TODO — grading breakdown (e.g. exam %, project %,
+  participation %)
+- **Key dates**: TODO
+- **Contact & office hours**: TODO
+
+::: {.notes}
+~2 min. Replace the TODOs with this year's actual logistics before
+teaching. Keep it brief here — point to the full syllabus document
+rather than reproducing it slide-by-slide.
+:::
+
+## Your turn {background-color="#1B4332"}
+
+### What do you think is still a mystery today?
+
+⏳ Quick share — a few volunteers.
+
+*Merci — welcome to the course.*
+
+Prof. Pengjuan Zu
+
+::: {.notes}
+Genuine open question, let a few students answer, no need to resolve
+it. Then close: "Merci — welcome to the course." ~2-3 min.
+:::
