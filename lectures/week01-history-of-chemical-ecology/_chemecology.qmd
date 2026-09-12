@@ -23,16 +23,15 @@ saw are concrete instances of exactly this.
 ## A brief history
 
 - **1950s–1970s**: pioneering work in insect pheromones and plant
-  secondary metabolites
-- **1959**: identification of **bombykol**, the moth sex pheromone —
-  the same year Fraenkel's paper reframed plant "waste" compounds as
-  defenses (sound familiar? — that's Story 1 and Story 2)
+  secondary metabolites — you just saw two of its founding discoveries
+  first-hand in the stories above
 - Rise of **multidisciplinary research**, combining biology and
   chemistry into a single field
 
 ::: {.notes}
-~1 min. Explicit callback to the synthesis slide's 1959 coincidence —
-the class has already seen this pattern before we name it.
+~30 sec. Deliberately short — the two 1959 discoveries were already
+covered in detail in the stories and the synthesis slide, no need to
+repeat the specifics here.
 :::
 
 ## Resources: societies & journals
