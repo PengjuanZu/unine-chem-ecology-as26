@@ -1,6 +1,6 @@
 ---
-title: "Introduction: Chemical Ecology"
-subtitle: "Trois mystères de l'écologie chimique"
+title: "Chemical Ecology"
+subtitle: "Écologie chimique"
 topic-image: "images/objets_jean_henri_fabre.jpg"
 format:
   revealjs:
