@@ -83,9 +83,11 @@ $presentation-h3-font-size: 1.2em;
   color: #E3A857;
 }
 
+
 .reveal .title-slide-logo {
   position: absolute;
-  top: 0.5em;
+  top: 0.9em;
+  transform: translateY(-50%);
   height: 2em;
   width: auto;
   max-width: none;
@@ -97,6 +99,7 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal .title-slide-logo-right {
   right: 0.7em;
+  top: 0.5em;
   height: 3.2em;
 }
 

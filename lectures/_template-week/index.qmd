@@ -9,6 +9,8 @@ format:
     transition: fade
     chalkboard: false
     embed-resources: true
+    center: false
+    margin: 0.04
     template-partials:
       - ../../title-slide.html
     title-slide-attributes:
