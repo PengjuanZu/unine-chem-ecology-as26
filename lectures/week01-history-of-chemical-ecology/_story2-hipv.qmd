@@ -38,7 +38,9 @@ rhetorical structure of this story.
 
 ## 1959 {background-color="#1B4332" .stat-slide}
 
-# 1959
+::: {.stat-number}
+1959
+:::
 
 ### Gottfried Fraenkel reframes plant chemistry: not waste — weapons.
 

@@ -1,6 +1,8 @@
 ## Synthesis · Synthèse {background-color="#1B4332"}
 
-# Notice something?
+::: {.lead-in}
+Notice something?
+:::
 
 ::: columns
 ::: {.column width="50%"}

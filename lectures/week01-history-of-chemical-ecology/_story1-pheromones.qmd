@@ -67,7 +67,9 @@ different work, before starting this 20-year side quest.
 
 ## 1959 {background-color="#1B4332" .stat-slide}
 
-# 1959
+::: {.stat-number}
+1959
+:::
 
 ### Bombykol — the first pheromone ever chemically identified.
 
