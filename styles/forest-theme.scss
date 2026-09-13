@@ -43,7 +43,11 @@ $presentation-h3-font-size: 1.2em;
 }
 
 // Photo captions: small footnote-style text, ~50% transparent.
-.reveal .caption {
+// Quarto renders most figure captions as <figcaption> (inside a
+// <figure>) and only a few edge cases as <p class="caption"> - style
+// both so nothing slips through.
+.reveal .caption,
+.reveal figcaption {
   font-size: 0.55em;
   opacity: 0.5;
   text-align: center;
