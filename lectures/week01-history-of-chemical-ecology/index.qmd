@@ -15,7 +15,7 @@ format:
       - ../../title-slide.html
     title-slide-attributes:
       data-background-color: "#1B4332"
-    include-after-body: ../../progress-header.html
+    # include-after-body: ../../progress-header.html  # disabled for now - alignment + too many dots on long sections, revisit later
 ---
 
 {{< include _welcome.qmd >}}
