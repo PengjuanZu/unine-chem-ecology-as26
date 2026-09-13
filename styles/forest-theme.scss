@@ -49,10 +49,23 @@ $presentation-h3-font-size: 1.2em;
   font-size: 0.85em;
 }
 
-// Big stat / year slides
-.reveal .stat-slide h1 {
+// Big stat / year slides. Deliberately NOT an h1: this project's
+// slide-level is 2, so a bare "# " heading is shallower than a slide
+// and gets parsed as a whole new top-level SECTION (silently nesting
+// every following slide underneath it until the next "# " heading) -
+// use a fenced div instead, e.g. `::: {.stat-number}\n1959\n:::`.
+.reveal .stat-slide .stat-number {
   color: #E3A857;
   font-size: 3.2em;
+  font-weight: 700;
+  font-family: $presentation-heading-font;
+}
+
+// Large mid-slide lead-in statement — same "not a heading" reasoning
+// as .stat-number above.
+.reveal .lead-in {
+  font-size: 1.7em;
+  font-weight: 700;
 }
 
 // Callout-style closing lines ("The plant doesn't just defend itself...")
