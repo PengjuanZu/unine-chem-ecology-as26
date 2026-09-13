@@ -265,6 +265,32 @@ Right content
 ::::
 ```
 
+**Adding a link:**
+```markdown
+[link text](https://example.com)
+```
+Revealjs slides navigate in the *same* browser tab by default, so
+clicking an external link during a presentation takes you away from
+the deck. For anything you'd click while presenting (a poll, an
+external tool, a reference), open it in a new tab instead:
+```markdown
+[link text](https://example.com){target="_blank"}
+```
+To make a whole image clickable (e.g. a QR code linking to an
+external poll/survey tool), wrap the image markdown in link syntax:
+```markdown
+[![](images/qr-code.png){width="30%"}](https://example.com){target="_blank"}
+```
+A QR code itself is just a picture — generate one for your target URL
+with any QR generator, save it into that week's `images/` folder, and
+treat it like any other image (see "Adding pictures to a slide"
+above). We looked at building a live in-deck survey with results
+this session and set it aside for now (the `db` capability needed for
+shared/live data on a Claude Artifact is organization-internal only —
+students without an account in the same org can't write to it), but
+an external poll tool (Mentimeter, Slido, Google Forms, ...) linked in
+this way works for anyone.
+
 **Citing a shared value** (e.g. the instructor's `author_Zu` metadata
 from `_quarto.yml`) — only works in body text, never in front matter:
 ```markdown
