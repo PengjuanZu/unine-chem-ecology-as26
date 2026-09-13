@@ -1,6 +1,6 @@
 ## Learning Goals {background-color="#1B4332"}
 
-### Objectifs d'apprentissage
+*Objectifs d'apprentissage*
 
 By the end of today, you can:
 
