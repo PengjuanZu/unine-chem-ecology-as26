@@ -153,6 +153,124 @@ below) and merging it.
    directly into the rendered HTML — the slide deck stays a single,
    portable file with no separate image files to keep track of.
 
+## Slide editing cheatsheet
+
+Quick reference for common edits. This project uses `slide-level: 2`,
+so headings behave like this:
+
+| Heading | Effect |
+|---|---|
+| `#` | Starts a new **section** (a group of slides) — rarely needed directly |
+| `##` | Starts a **new slide** — the main tool you'll use |
+| `###` and deeper | Just a heading *inside* the current slide, not a new one |
+
+**Hide or remove a slide.** Wrap the *entire* block — the `##` heading
+through everything under it, down to (not including) the next heading
+— in one HTML comment:
+```markdown
+<!--
+## Slide to hide
+
+Its content, notes, everything.
+-->
+```
+Commenting out only the heading line is a common mistake: the content
+below has nowhere to start a new slide, so it silently merges into the
+*previous* slide instead of disappearing. If you're removing it for
+good rather than temporarily, it's cleaner to just delete the block.
+
+**Section-title slides** (dark green full-bleed background, used for
+story/topic transitions):
+```markdown
+## My Section Title {background-color="#1B4332"}
+```
+
+**A "hook" pause slide** (amber question card + think-pair-share):
+```markdown
+## A question {.hook}
+
+> **Your question here?**
+>
+> *La même question en français.*
+
+⏳ Think, 45-60 seconds — talk to your neighbor.
+```
+
+**A big single-number/word reveal** ("stat slide"):
+```markdown
+## 1959 {background-color="#1B4332" .stat-slide}
+
+# 1959
+```
+
+**Bilingual titles** — this course's convention is English title, then
+an italic or `###` French line right under it:
+```markdown
+## Chemical Ecology · Écologie chimique {background-color="#1B4332"}
+```
+or, for a hero/title-style slide:
+```markdown
+## English Title
+
+### Sous-titre en français
+```
+
+**Line break within one block** (e.g. a name + role on two lines):
+use `<br>`, not a trailing backslash — backslash-newline only works in
+plain Markdown body text, and even there a `<br>` is more reliable
+since it survives editors that trim trailing whitespace:
+```markdown
+Pengjuan Zu<br>
+Head of NICE group
+```
+This does **not** work inside YAML front matter (e.g. a `title:` or
+`author:` field) — YAML doesn't expand shortcodes or interpret `<br>`,
+and an unquoted value starting with `{` (like a shortcode) will break
+YAML parsing entirely.
+
+**Speaker notes** (visible only in Speaker View, never on the
+projected slide):
+```markdown
+::: {.notes}
+What to say that isn't on the slide, plus a timing target.
+:::
+```
+Press **`S`** during the slideshow to open Speaker View in a second
+window — see "Speaker notes on a second screen" below for the full
+dual-screen setup.
+
+**Image size and position** — standard Quarto attribute syntax:
+```markdown
+![Caption](images/file.jpg){width="60%" fig-align="center"}
+```
+For a full-slide background image instead of an inline one:
+```markdown
+## {background-image="images/file.jpg" background-size="contain" background-color="#1B4332"}
+```
+`background-size` can be `contain` (show the whole image, may
+letterbox), `cover` (fill the slide, may crop), or a percentage like
+`"70%"` (scaled, centered). For the title slide's `topic-image`
+specifically, see the one-line `topic-image-style` override documented
+in `styles/forest-theme.scss`.
+
+**Two-column layout:**
+```markdown
+:::: {.columns}
+::: {.column width="50%"}
+Left content
+:::
+::: {.column width="50%"}
+Right content
+:::
+::::
+```
+
+**Citing a shared value** (e.g. the instructor's `author_Zu` metadata
+from `_quarto.yml`) — only works in body text, never in front matter:
+```markdown
+{{< meta author_Zu >}}
+```
+
 ## A note on the content itself
 
 The Fabre antennae-removal bullet in Story 1 was deliberately corrected
