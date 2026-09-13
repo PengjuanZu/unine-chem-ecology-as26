@@ -22,6 +22,26 @@ $presentation-h3-font-size: 1.2em;
   font-weight: 700;
 }
 
+.reveal a {
+  text-decoration: underline;
+}
+
+// Wrap any block in one of these to control its alignment, e.g.:
+//   ::: {.text-center}
+//   [NICE group](https://www.unine.ch/chemical-ecology/)
+//   :::
+.reveal .text-left {
+  text-align: left;
+}
+
+.reveal .text-center {
+  text-align: center;
+}
+
+.reveal .text-right {
+  text-align: right;
+}
+
 // Photo captions: small footnote-style text, ~50% transparent.
 .reveal .caption {
   font-size: 0.55em;

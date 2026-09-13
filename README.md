@@ -291,6 +291,19 @@ students without an account in the same org can't write to it), but
 an external poll tool (Mentimeter, Slido, Google Forms, ...) linked in
 this way works for anyone.
 
+Links render underlined by default in this theme (`.reveal a`) so
+they're clearly distinguishable from plain text.
+
+**Positioning text (left/center/right)** — wrap any block (a link, a
+paragraph, anything) in one of three utility classes:
+```markdown
+::: {.text-center}
+[NICE group](https://www.unine.ch/chemical-ecology/)
+:::
+```
+`.text-left`, `.text-center`, and `.text-right` all work the same way;
+default alignment (no wrapper) is left.
+
 **Citing a shared value** (e.g. the instructor's `author_Zu` metadata
 from `_quarto.yml`) — only works in body text, never in front matter:
 ```markdown
