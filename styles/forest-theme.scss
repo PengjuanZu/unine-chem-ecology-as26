@@ -68,6 +68,18 @@ $presentation-h3-font-size: 1.2em;
   font-weight: 700;
 }
 
+// French translation lines: this deck's convention is a standalone
+// *italic* line right under its English counterpart. Render it a
+// touch lighter so English stays visually primary. Matches (and
+// generalizes) the .hook blockquote rule below - a lone <em> filling
+// an entire paragraph/cell is always a French line here, never
+// inline emphasis (that's used mid-sentence, e.g. journal titles).
+.reveal p > em:only-child,
+.reveal td > em:only-child,
+.reveal th > em:only-child {
+  opacity: 0.7;
+}
+
 // Callout-style closing lines ("The plant doesn't just defend itself...")
 .reveal strong {
   color: #1B4332;
@@ -145,7 +157,7 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal .title-slide-text .subtitle {
   color: #ffffff;
-  opacity: 0.9;
+  opacity: 0.75;
   font-weight: 400;
   font-size: 1.1em;
 }
