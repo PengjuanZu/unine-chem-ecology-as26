@@ -22,6 +22,16 @@ $presentation-h3-font-size: 1.2em;
   font-weight: 700;
 }
 
+// Photo captions: small footnote-style text, ~50% transparent.
+.reveal .caption {
+  font-size: 0.55em;
+  opacity: 0.5;
+}
+
+.reveal section[data-background-color="#1B4332"] .caption {
+  color: #ffffff;
+}
+
 // Section / story-title slides: give them a dark-green background via
 // {background-color="#1B4332"} in the .qmd and let text auto-invert here.
 .reveal section[data-background-color="#1B4332"] h1,
@@ -187,4 +197,54 @@ $presentation-h3-font-size: 1.2em;
   object-fit: cover;
   object-position: center;
   border-radius: 10px;
+}
+
+// Agenda progress header (injected by progress-header.html): one line
+// per slide, section name + a row of dots showing how far into that
+// section the audience is. Hidden on the title slide by the script.
+#agenda-progress-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em 1em;
+  pointer-events: none;
+}
+
+.agenda-progress-section {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.agenda-progress-label {
+  font-size: 0.45em;
+  font-weight: 700;
+  color: #b9c2bd;
+  white-space: nowrap;
+}
+
+.agenda-progress-section.active .agenda-progress-label {
+  color: #1B4332;
+}
+
+.agenda-progress-dots {
+  display: flex;
+  gap: 0.2em;
+}
+
+.agenda-progress-dot {
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  border: 1.5px solid #b9c2bd;
+  box-sizing: border-box;
+}
+
+.agenda-progress-dot.filled {
+  background-color: #1B4332;
+  border-color: #1B4332;
 }

@@ -25,6 +25,21 @@ Then, in `lectures/weekNN-topic/`:
 3. Drop images into `images/` and reference them as `images/file.png`.
 4. Add the week to the navbar in `_quarto.yml` and to the list in the
    top-level `index.qmd`.
+5. Optional: a live progress header (one line, section name + dots that
+   fill in as you present) can show on every slide except the title.
+   Tag the *first* heading of each top-level part of your session with
+   `data-agenda-section="Some Name"`, e.g.:
+   ```markdown
+   ## Welcome {background-color="#1B4332" data-agenda-section="Welcome"}
+   ```
+   Every slide from that heading up to the next `data-agenda-section`
+   marker counts as belonging to "Some Name" - no need to tag every
+   slide, just where each new part starts. See
+   `lectures/week01-history-of-chemical-ecology/` for five worked
+   examples. The header itself (`progress-header.html` +
+   `#agenda-progress-header` in `styles/forest-theme.scss`) is already
+   wired in via `include-after-body` above — it just does nothing until
+   you add at least one marker.
 
 See `lectures/week01-history-of-chemical-ecology/` for a filled-in
 example of this same structure.
