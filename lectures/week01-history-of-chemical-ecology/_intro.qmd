@@ -1,8 +1,7 @@
-## Today: three true detective stories {background-color="#1B4332"}
+## Three detective stories {background-color="#1B4332" data-agenda-section="Three detective stories"}
 
-*Aujourd'hui : trois vraies histoires de détective*
+*Trois histoires de détective*
 
-Each story starts with a question — think before I reveal the answer.
 
 ::: {.notes}
 Frame the session. Three short history stories, ~9 min each, each with a

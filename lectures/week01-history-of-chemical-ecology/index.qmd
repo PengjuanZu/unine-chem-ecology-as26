@@ -15,15 +15,17 @@ format:
       - ../../title-slide.html
     title-slide-attributes:
       data-background-color: "#1B4332"
+    include-after-body: ../../progress-header.html
 ---
+
+{{< include _welcome.qmd >}}
 
 {{< include _selfintro.qmd >}}
 
-{{< include _learninggoals.qmd >}}
+<!-- {{< include _learninggoals.qmd >}}
+-->
 
 {{< include _agenda.qmd >}}
-
-{{< include _welcome.qmd >}}
 
 {{< include _activity.qmd >}}
 

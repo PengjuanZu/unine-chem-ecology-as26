@@ -1,4 +1,4 @@
-## {background-image="images/Zu_selfIntro.png" background-size="70%" background-color="#1B4332"}
+## {background-image="images/Zu_selfIntro.png" background-size="80%" background-color="#1B4332"}
 
 ::: {.notes}
 Self-introduction slide, full-size image. ~30 sec.

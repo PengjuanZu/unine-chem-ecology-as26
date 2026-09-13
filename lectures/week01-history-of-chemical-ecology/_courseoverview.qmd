@@ -1,4 +1,4 @@
-## Course Overview & Evaluation {background-color="#1B4332"}
+## Course Overview & Evaluation {background-color="#1B4332" data-agenda-section="Course Overview & Evaluation"}
 
 ### Aperçu du cours et évaluation
 
