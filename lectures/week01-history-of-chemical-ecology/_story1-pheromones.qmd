@@ -52,7 +52,7 @@ first wondered if the female used a kind of "wireless telegraphy"
 
 ## 80 years later, a Nobel laureate takes the case
 
-- 1939 — Adolf Butenandt wins the Nobel Prize in Chemistry, for isolating
+- 1939 — **Adolf Butenandt** wins the Nobel Prize in Chemistry, for isolating
   **human** sex hormones. Nothing to do with insects — yet.
 - He turns to Fabre's 80-year-old puzzle: what exactly is the female
   silkworm moth's scent?
@@ -77,6 +77,7 @@ different work, before starting this 20-year side quest.
 Big payoff moment — let it sit for a second before moving on.
 :::
 
+<!--
 ## Quick pause {.hook}
 
 > **Today, could we do this with just one moth?**
@@ -84,6 +85,7 @@ Big payoff moment — let it sit for a second before moving on.
 > *Aujourd'hui, pourrait-on le faire avec un seul papillon ?*
 
 ⏳ 30 seconds.
+-->
 
 ## From 500,000 moths to one living antenna
 
