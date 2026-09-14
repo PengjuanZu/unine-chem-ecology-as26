@@ -1,0 +1,127 @@
+## Course Overview & Evaluation {background-color="#1B4332" data-agenda-section="Course Overview & Evaluation"}
+
+### Aperçu du cours et évaluation
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## Course format
+
+*Format du cours*
+
+- **2 × 45 min per week**
+- A mix of: main lecture, in-class activity, discussion, guest
+  lecture, and a few homework assignments
+
+::: {.notes}
+~30 sec. Set expectations for the rhythm of the course before
+showing the week-by-week topics.
+:::
+
+## Weekly schedule
+
+<!-- TODO: you listed 15 topics but said 14 weeks - check whether
+"Group discussion I" and/or "Group discussion II" should instead be
+folded into the Friday of an adjacent topic week rather than getting
+their own row, then delete/merge as needed. Also fill in real dates
+in the Deadline column (only evaluated items are pre-filled, from
+the breakdown on the Evaluation slide - everything else is a TODO
+placeholder). -->
+
+::: {.compact-table}
+| Week | Topic | Deadline |
+|---|---|---|
+| 1 | Introduction to Chemical Ecology | |
+| 2 | Infochemicals (Semiochemicals) | |
+| 3 | Plant–herbivore interactions |Individual assignment announcement |
+| 4 | Tri-trophic interactions | |
+| 5 | Plant–pollinator interactions | |
+| 6 | Evolution & below-ground interactions | |
+| 7 | Group discussion I | Discussion 1 (20%) — Fri 17:00 of this week |
+| 8 | Natural ecosystems | |
+| 9 | Agroecosystems | |
+| 10 | Urban ecosystems |**Deadline to submit your Individual assignment: Friday 17:00 this week ** |
+| 11 | Climate change & chemical ecology | |
+| 12 | Overview of technologies | |
+| 13 | **In-class quiz**; Group discussion II | Quiz (30%); Discussion 2 (20%) — Fri 17:00 of this week |
+| 14 | Student presentations | |
+:::
+
+*Individual assignment (30%) — Will be annouced in Week3*
+
+*Bonus points: enagagement in the class (extra 10 points out of 100)*
+
+::: {.notes}
+~1 min. Don't read every row out loud - just orient students to the
+shape of the semester and point out where the graded milestones fall.
+:::
+
+## Evaluation
+
+### Forme de l'évaluation
+
+*Contrôle continu noté reposant sur : Continuous graded assessment
+based on:*
+
+> **Individual assignment — 30%**<br> *Devoir individuel*
+> **Discussion session 1 — 20%**<br> *Séance de discussion 1*
+> **Discussion session 2 — 20%**<br> *Séance de discussion 2*
+> **Quiz (individual) — 30%**<br> *Quiz (individuel)*
+
+::: {.notes}
+~1 min. Both languages given in full since this is graded/binding
+information - students should be able to check it in whichever
+language they're more comfortable with.
+:::
+
+<!-- ## Individual Homework: Chemical Ecology Poster
+
+*Devoir : Affiche d'écologie chimique*
+
+- **Task**: Choose one chemical ecology topic that interests you, and
+  turn it into a poster explaining it to the **general public** — not
+  to other scientists
+- Explain **both** the chemistry and the ecology: what compound(s) are
+  involved, and its(their) roles in ecological context.
+- Understand the background and the significance/impact 
+- Write for a curious non-specialist: minimal jargon, one strong
+  visual, a clear takeaway message
+- Cite your sources
+
+TODO: fill in poster size/format (e.g. A1/A0, digital PDF vs.
+printed), submission method, and any grading rubric details.
+
+**Due: Week 10, Friday 17:00 · 30% of your grade**
+
+::: {.notes}
+~1 min. Emphasize "for the public," not a mini scientific paper -
+that's the main way this differs from a typical term paper, and the
+main thing students tend to get wrong on a first draft.
+:::
+-->
+
+## Learning Goals {background-color="#1B4332"}
+
+*Objectifs d'apprentissage*
+
+By the end of today, you can:
+
+- Explain what chemical ecology is and why it's interdisciplinary
+- Describe the history of the field through three real discoveries
+- Start your chemical ecology observations
+
+## Your turn {background-color="#1B4332"}
+
+### What do you think is still a mystery today?
+
+![](images/FutureScientists.jpg){width="90%" fig-align="center"}
+
+
+*Merci — welcome to the course.*
+
+
+::: {.notes}
+Genuine open question, let a few students answer, no need to resolve
+it. Then close: "Merci — welcome to the course." ~2-3 min.
+:::

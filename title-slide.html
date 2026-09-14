@@ -1,0 +1,25 @@
+<section id="$idprefix$title-slide" class="title-slide-custom"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
+
+  <div class="title-slide-header">ÉCOLOGIE CHIMIQUE · BSc S5</div>
+
+  <img class="title-slide-logo title-slide-logo-left" src="../../styles/logos/UNINE_white.png">
+  <img class="title-slide-logo title-slide-logo-right" src="../../styles/logos/NICE_white.png">
+
+  <div class="title-slide-body">
+    <div class="title-slide-text">
+      <h1 class="title">$title$</h1>
+$if(subtitle)$
+      <p class="subtitle">$subtitle$</p>
+$endif$
+$if(author_Zu)$
+      <p class="author">$author_Zu$</p>
+$endif$
+    </div>
+$if(topic-image)$
+    <div class="title-slide-image">
+      <img src="$topic-image$"$if(topic-image-style)$ style="$topic-image-style$"$endif$>
+    </div>
+$endif$
+  </div>
+
+</section>

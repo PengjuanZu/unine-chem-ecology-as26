@@ -1,0 +1,94 @@
+<script>
+(function () {
+  function init() {
+    if (!window.Reveal) {
+      setTimeout(init, 100);
+      return;
+    }
+    if (Reveal.isReady()) {
+      build();
+    } else {
+      Reveal.on('ready', build);
+    }
+  }
+
+  function build() {
+    var slides = Reveal.getSlides();
+
+    // Group slides into sections based on data-agenda-section markers.
+    // Any slide before the first marker (title, self-intro, learning
+    // goals, agenda) is not part of any section and is skipped.
+    var sections = [];
+    var current = null;
+    slides.forEach(function (slide) {
+      var name = slide.getAttribute('data-agenda-section');
+      if (name) {
+        current = { name: name, slides: [] };
+        sections.push(current);
+      }
+      if (current) current.slides.push(slide);
+    });
+    if (sections.length === 0) return;
+
+    var header = document.createElement('div');
+    header.id = 'agenda-progress-header';
+
+    sections.forEach(function (section) {
+      var secEl = document.createElement('div');
+      secEl.className = 'agenda-progress-section';
+
+      var label = document.createElement('span');
+      label.className = 'agenda-progress-label';
+      label.textContent = section.name;
+      secEl.appendChild(label);
+
+      var dots = document.createElement('span');
+      dots.className = 'agenda-progress-dots';
+      section.slides.forEach(function () {
+        var dot = document.createElement('span');
+        dot.className = 'agenda-progress-dot';
+        dots.appendChild(dot);
+      });
+      secEl.appendChild(dots);
+
+      header.appendChild(secEl);
+    });
+
+    // Appended to .slides (not .reveal) because that's the element
+    // reveal.js applies its responsive scale-transform to - anchoring
+    // here keeps the header aligned with the actual slide canvas at
+    // any window size, instead of the unscaled full viewport.
+    document.querySelector('.reveal .slides').appendChild(header);
+
+    var sectionEls = header.querySelectorAll('.agenda-progress-section');
+
+    function update(currentSlide) {
+      if (!currentSlide) return;
+      var currentIndex = slides.indexOf(currentSlide);
+      var onTitleSlide = currentSlide.id === 'title-slide';
+      header.style.display = onTitleSlide ? 'none' : 'flex';
+
+      sections.forEach(function (section, si) {
+        var isActive = section.slides.indexOf(currentSlide) !== -1;
+        sectionEls[si].classList.toggle('active', isActive);
+        var dotEls = sectionEls[si].querySelectorAll('.agenda-progress-dot');
+        section.slides.forEach(function (slide, di) {
+          var slideIndex = slides.indexOf(slide);
+          dotEls[di].classList.toggle('filled', slideIndex <= currentIndex);
+        });
+      });
+    }
+
+    Reveal.on('slidechanged', function (event) {
+      update(event.currentSlide);
+    });
+    update(Reveal.getCurrentSlide());
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

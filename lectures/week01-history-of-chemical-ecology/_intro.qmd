@@ -1,15 +1,15 @@
-## Today: three true detective stories {background-color="#1B4332"}
+## Three detective stories {background-color="#1B4332" data-agenda-section="Three detective stories"}
 
-*Aujourd'hui : trois vraies histoires de détective*
+*Trois histoires de détective*
 
-Each story starts with a question — think before I reveal the answer.
 
 ::: {.notes}
-Frame the session. Three short history stories, ~9 min each, each with a
-pause where students think before the reveal. Total session ~30 min.
+Let's take the detective roles now to discover how chemical ecology provide the toolkit to solve misteries and puzzeles
 :::
 
-## A preview
+![(Jean-Henri Fabre's study objects)](images/objets_jean_henri_fabre.jpg){width="70%" fig-align="center"}
+
+<!-- ## A preview
 
 | Story | Question | Years |
 |---|---|---|
@@ -20,3 +20,4 @@ pause where students think before the reveal. Total session ~30 min.
 ::: {.notes}
 ~1.5–2 min total for the two intro slides.
 :::
+-->

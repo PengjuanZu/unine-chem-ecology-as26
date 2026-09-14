@@ -1,0 +1,13 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+| | |
+|---|---|
+| 👋 Welcome | *Bienvenue* |
+| 🌿 Activity | *Activité* |
+| 🔍 Three detective stories | *Trois histoires de détective* |
+| 🧪 What is Chemical Ecology | *Qu'est-ce que l'écologie chimique* |
+| 📋 Course overview & evaluation | *Aperçu du cours et évaluation* |
+
+::: {.notes}
+Roadmap slide — one line per block, no detail yet. ~30 sec.
+:::

@@ -1,0 +1,21 @@
+## Today {background-color="#1B4332"}
+
+*Aujourd'hui*
+
+TODO: 1-2 sentences framing the session — what problem or question ties
+the content together.
+
+## A preview
+
+TODO: signpost the structure so students know where this is going —
+e.g. a short table of stories/sections and the question each answers,
+like week 1's story preview.
+
+| Section | Question | ~min |
+|---|---|---|
+| TODO | TODO | TODO |
+
+::: {.notes}
+Frame the session. Give the roadmap so students can follow the
+structure as it unfolds. ~1-2 min.
+:::

@@ -1,0 +1,13 @@
+## Learning Goals {background-color="#1B4332"}
+
+# By the end of today, you can:
+
+- TODO: goal 1 (use an action verb — explain, predict, compare, design...)
+- TODO: goal 2
+- TODO: goal 3
+
+::: {.notes}
+Read these goals out loud. Come back to them explicitly in the
+synthesis slide at the end — "we said you'd be able to X, can you now?"
+~1 min.
+:::

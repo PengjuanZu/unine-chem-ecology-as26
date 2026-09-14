@@ -1,0 +1,16 @@
+## TODO: A hook {.hook}
+
+TODO: a concrete scenario, puzzle, or surprising observation that makes
+students want to know the answer — like Fabre's caged moth or "remember
+being a plant?" in week 1.
+
+> **TODO: pose the question directly.**
+>
+> *TODO : la même question en français.*
+
+⏳ Think, 45-60 seconds — talk to your neighbor.
+
+::: {.notes}
+Let the pause run the full time before revealing anything. The hook's
+job is to activate curiosity/prior knowledge before you give content.
+:::
