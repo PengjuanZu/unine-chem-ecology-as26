@@ -6,24 +6,7 @@
 ![](images/Moths.png){width="40%" fig-align="center"}
 
 ::: {.notes}
-Transition, ~5 sec. Timing target for Story 1: ~9 minutes.
-:::
-
-## 1879 · Sérignan, France {.hook}
-
-A naturalist keeps a newly-emerged female moth caged in his study. That
-night, dozens of males pour in through the open window.
-
-> **How does a male moth find a female — kilometers away, in total darkness?**
->
-> *Comment un papillon mâle trouve-t-il une femelle, à des kilomètres, dans le noir total ?*
-
-⏳ Think and discuss with your neighbors.
-
-::: {.notes}
-Read the setting, then the question, then actually pause ~60 sec. Let a
-couple of students guess before revealing. This naturalist is Jean-Henri
-Fabre — save the name for the reveal.
+the first one is about insects 
 :::
 
 ## Fabre & His Great Peacock Day
@@ -36,6 +19,28 @@ Fabre — save the name for the reveal.
 ![](images/GreatPeacock){width="80%" fig-align="center"}
 :::
 ::::
+
+::: {.notes}
+How many of you have heard of Jean-Henri Fabre? and his famous Souvenier entomologique?
+There is one story he named it "Great Peacock day" 
+:::
+
+
+## 1879 · Sérignan, France {.hook}
+
+Fabre keeps a newly-emerged female moth caged in his study. That
+night, dozens of males pour in through the open window.
+
+> **How does a male moth find a female — kilometers away, in total darkness?**
+>
+> *Comment un papillon mâle trouve-t-il une femelle, à des kilomètres, dans le noir total ?*
+
+
+::: {.notes}
+It happened to be that he kept the moth in a cage with mesh covers. it happened that he left the windwon open.
+:::
+
+
 
 
 ## Manipulated experiments
@@ -75,7 +80,7 @@ first wondered if the female used a kind of "wireless telegraphy"
 - It takes his team **20** years to gather enough material to identify it.
 :::
 ::: {.column width="30%"}
-![Adolph Butenandt (1903-1995)](images/Butenandt.png){width="100%" fig-align="center"}
+![Adolf Butenandt (1903-1995)](images/Butenandt.png){width="100%" fig-align="center"}
 :::
 ::::
 
@@ -116,19 +121,10 @@ He used a "wing-beat" bioassay to determine the biological activity of the extra
 Big payoff moment — let it sit for a second before moving on.
 :::
 
-<!--
-## Quick pause {.hook}
-
-> **Today, could we do this with just one moth?**
->
-> *Aujourd'hui, pourrait-on le faire avec un seul papillon ?*
-
-⏳ 30 seconds.
--->
 
 ## Modern technology
 **GC-EAD** (Gas Chromatography-Electro Antennographic Detection)  
-— the breakthrough made in Switzerland <br>
+— the breakthrough made in Switzerland by Arn, Städler & Rauscher <br>
 — wires a living insect antenna up as a detector on a gas chromatograph
 
 :::: {.columns}

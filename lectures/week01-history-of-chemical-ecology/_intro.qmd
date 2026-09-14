@@ -4,8 +4,7 @@
 
 
 ::: {.notes}
-Frame the session. Three short history stories, ~9 min each, each with a
-pause where students think before the reveal. Total session ~30 min.
+Let's take the detective roles now to discover how chemical ecology provide the toolkit to solve misteries and puzzeles
 :::
 
 ![(Jean-Henri Fabre's study objects)](images/objets_jean_henri_fabre.jpg){width="70%" fig-align="center"}

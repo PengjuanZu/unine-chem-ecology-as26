@@ -7,8 +7,8 @@
 
 
 ::: {.notes}
-Transition, ~5 sec. Can callback to an opening "you are a plant" activity
-if used. Timing target for Story 2: ~9 minutes.
+Remember our opening "you are a plant" activity
+our 2nd story is about plant, their enemy, and their enemy's enemy.
 :::
 
 ## Plant metabolic waste? {.hook}
