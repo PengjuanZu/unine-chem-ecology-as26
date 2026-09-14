@@ -22,6 +22,58 @@ $presentation-h3-font-size: 1.2em;
   font-weight: 700;
 }
 
+.reveal a {
+  text-decoration: underline;
+}
+
+// Wrap any block in one of these to control its alignment, e.g.:
+//   ::: {.text-center}
+//   [NICE group](https://www.unine.ch/chemical-ecology/)
+//   :::
+.reveal .text-left {
+  text-align: left;
+}
+
+.reveal .text-center {
+  text-align: center;
+}
+
+.reveal .text-right {
+  text-align: right;
+}
+
+// Wrap a long/wide table in this to shrink it to fit one slide, e.g.
+// a full-semester schedule:
+//   ::: {.compact-table}
+//   | Week | Topic | Deadline |
+//   |---|---|---|
+//   ...
+//   :::
+.reveal .compact-table table {
+  font-size: 0.42em;
+  width: 100%;
+}
+
+.reveal .compact-table th,
+.reveal .compact-table td {
+  padding: 0.15em 0.5em;
+}
+
+// Photo captions: small footnote-style text, ~50% transparent.
+// Quarto renders most figure captions as <figcaption> (inside a
+// <figure>) and only a few edge cases as <p class="caption"> - style
+// both so nothing slips through.
+.reveal .caption,
+.reveal figcaption {
+  font-size: 0.55em;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.reveal section[data-background-color="#1B4332"] .caption {
+  color: #ffffff;
+}
+
 // Section / story-title slides: give them a dark-green background via
 // {background-color="#1B4332"} in the .qmd and let text auto-invert here.
 .reveal section[data-background-color="#1B4332"] h1,
@@ -46,13 +98,38 @@ $presentation-h3-font-size: 1.2em;
 .reveal .hook blockquote em {
   font-weight: 400;
   opacity: 0.75;
-  font-size: 0.75em;
+  font-size: 0.85em;
 }
 
-// Big stat / year slides
-.reveal .stat-slide h1 {
+// Big stat / year slides. Deliberately NOT an h1: this project's
+// slide-level is 2, so a bare "# " heading is shallower than a slide
+// and gets parsed as a whole new top-level SECTION (silently nesting
+// every following slide underneath it until the next "# " heading) -
+// use a fenced div instead, e.g. `::: {.stat-number}\n1959\n:::`.
+.reveal .stat-slide .stat-number {
   color: #E3A857;
   font-size: 3.2em;
+  font-weight: 700;
+  font-family: $presentation-heading-font;
+}
+
+// Large mid-slide lead-in statement — same "not a heading" reasoning
+// as .stat-number above.
+.reveal .lead-in {
+  font-size: 1.7em;
+  font-weight: 700;
+}
+
+// French translation lines: this deck's convention is a standalone
+// *italic* line right under its English counterpart. Render it a
+// touch lighter so English stays visually primary. Matches (and
+// generalizes) the .hook blockquote rule below - a lone <em> filling
+// an entire paragraph/cell is always a French line here, never
+// inline emphasis (that's used mid-sentence, e.g. journal titles).
+.reveal p > em:only-child,
+.reveal td > em:only-child,
+.reveal th > em:only-child {
+  opacity: 0.7;
 }
 
 // Callout-style closing lines ("The plant doesn't just defend itself...")
@@ -62,4 +139,179 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal section[data-background-color="#1B4332"] strong {
   color: #E3A857;
+}
+
+// Custom title slide: corner logos, centered course header,
+// title/subtitle/author on the left, weekly topic image on the right.
+.reveal .slides section.title-slide-custom {
+  position: relative;
+  padding: 0;
+}
+
+.reveal .title-slide-header {
+  position: absolute;
+  top: 0.6em;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.6em;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #E3A857;
+}
+
+
+.reveal .title-slide-logo {
+  position: absolute;
+  top: 0.9em;
+  transform: translateY(-50%);
+  height: 2em;
+  width: auto;
+  max-width: none;
+}
+
+.reveal .title-slide-logo-left {
+  left: 0.7em;
+}
+
+.reveal .title-slide-logo-right {
+  right: 0.7em;
+  top: 0.5em;
+  height: 3.2em;
+}
+
+.reveal .title-slide-body {
+  position: relative;
+  height: 100%;
+  padding: 3.2em 1em 1em;
+  box-sizing: border-box;
+}
+
+// Deliberately not flexbox here: a percentage *height* on a flex
+// item only resolves reliably when every ancestor in the chain has
+// an unambiguous definite height, and that kept silently collapsing
+// this box to content-size instead of actually filling most of the
+// slide. Absolute positioning against title-slide-body (a definite,
+// padded box) is simpler and doesn't depend on that chain at all.
+.reveal .title-slide-text {
+  position: relative;
+  max-width: 40%;
+  text-align: left;
+}
+
+// No topic-image set yet for this week: let the text take the full width.
+.reveal .title-slide-body .title-slide-text:only-child {
+  max-width: 100%;
+  text-align: center;
+}
+
+.reveal .title-slide-text .title {
+  color: #ffffff;
+  font-size: 1.3em;
+  white-space: nowrap;
+  margin-bottom: 0.2em;
+}
+
+.reveal .title-slide-text .subtitle {
+  color: #ffffff;
+  opacity: 0.75;
+  font-weight: 400;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.reveal .title-slide-text .author {
+  color: #E3A857;
+  font-size: 0.65em;
+  line-height: 1.5;
+  margin-top: 1em;
+}
+
+// A lighter yellow than the rest of the author block, so the name
+// stands out. Wrap it in <span class="author-name">...</span> in
+// author_Zu (in _quarto.yml) to use it.
+.reveal .title-slide-text .author-name {
+  color: #efec91;
+}
+
+.reveal .title-slide-text .author a {
+  color: #E3A857;
+}
+
+// Size/position of the weekly topic-image: tweak the defaults below to
+// change every week at once, or override per-week from a single line in
+// that week's index.qmd front matter, e.g.:
+//   topic-image-style: "object-position: top;"
+//   topic-image-style: "width: 60%; object-fit: contain;"
+.reveal .title-slide-image {
+  position: absolute;
+  top: 6.2em;
+  left: 15em;
+  right: 0.8em;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// width/height: 100% (not max-width/max-height) is what actually
+// makes object-fit: cover fill the whole box - max- alone just caps
+// the image at its own natural aspect ratio, leaving it looking
+// small inside a differently-shaped box.
+.reveal .title-slide-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+
+// Agenda progress header (injected by progress-header.html): one line
+// per slide, section name + a row of dots showing how far into that
+// section the audience is. Hidden on the title slide by the script.
+#agenda-progress-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em 1em;
+  pointer-events: none;
+}
+
+.agenda-progress-section {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.agenda-progress-label {
+  font-size: 0.45em;
+  font-weight: 700;
+  color: #b9c2bd;
+  white-space: nowrap;
+}
+
+.agenda-progress-section.active .agenda-progress-label {
+  color: #1B4332;
+}
+
+.agenda-progress-dots {
+  display: flex;
+  gap: 0.2em;
+}
+
+.agenda-progress-dot {
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 50%;
+  border: 1.5px solid #b9c2bd;
+  box-sizing: border-box;
+}
+
+.agenda-progress-dot.filled {
+  background-color: #1B4332;
+  border-color: #1B4332;
 }
