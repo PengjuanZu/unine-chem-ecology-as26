@@ -2,19 +2,77 @@
 
 ### Aperçu du cours et évaluation
 
-<!-- TODO: fill in with the real syllabus/evaluation details —
-schedule, grading breakdown, key dates, contact info, etc. -->
+::: {.notes}
+Transition, ~5 sec.
+:::
 
-- **Schedule**: TODO — weekly topics / calendar
-- **Evaluation**: TODO — grading breakdown (e.g. exam %, project %,
-  participation %)
-- **Key dates**: TODO
-- **Contact & office hours**: TODO
+## Course format
+
+*Format du cours*
+
+- **2 × 45 min per week**
+- A mix of: main lecture, in-class activity, discussion, guest
+  lecture, and a few homework assignments
 
 ::: {.notes}
-~2 min. Replace the TODOs with this year's actual logistics before
-teaching. Keep it brief here — point to the full syllabus document
-rather than reproducing it slide-by-slide.
+~30 sec. Set expectations for the rhythm of the course before
+showing the week-by-week topics.
+:::
+
+## Weekly schedule
+
+<!-- TODO: you listed 15 topics but said 14 weeks - check whether
+"Group discussion I" and/or "Group discussion II" should instead be
+folded into the Friday of an adjacent topic week rather than getting
+their own row, then delete/merge as needed. Also fill in real dates
+in the Deadline column (only evaluated items are pre-filled, from
+the breakdown on the Evaluation slide - everything else is a TODO
+placeholder). -->
+
+::: {.compact-table}
+| Week | Topic | Deadline |
+|---|---|---|
+| 1 | Introduction to Chemical Ecology | |
+| 2 | Infochemicals (Semiochemicals) | |
+| 3 | Plant–herbivore interactions | |
+| 4 | Tri-trophic interactions | |
+| 5 | Plant–pollinator interactions | |
+| 6 | Evolution & below-ground interactions | |
+| 7 | Group discussion I | Discussion 1 (20%) — Fri 17:00, TODO date |
+| 8 | Natural ecosystems | |
+| 9 | Agroecosystems | |
+| 10 | Urban ecosystems | |
+| 11 | Climate change & chemical ecology | |
+| 12 | Overview of technologies | |
+| 13 | In-class quiz | Quiz (30%) — TODO date |
+| 14 | Group discussion II | Discussion 2 (20%) — Fri 17:00, TODO date |
+| 15 | Student presentations | |
+:::
+
+*Individual assignment (30%) — TODO: due date, not yet tied to a
+specific week above.*
+
+::: {.notes}
+~1 min. Don't read every row out loud - just orient students to the
+shape of the semester and point out where the graded milestones fall.
+:::
+
+## Evaluation
+
+### Forme de l'évaluation
+
+*Contrôle continu noté reposant sur : Continuous graded assessment
+based on:*
+
+1. Individual assignment — 30%<br>*Devoir individuel — 30 %*
+2. Discussion session 1 — 20%<br>*Séance de discussion 1 — 20 %*
+3. Discussion session 2 — 20%<br>*Séance de discussion 2 — 20 %*
+4. Quiz (individual) — 30%<br>*Quiz (individuel) — 30 %*
+
+::: {.notes}
+~1 min. Both languages given in full since this is graded/binding
+information - students should be able to check it in whichever
+language they're more comfortable with.
 :::
 
 ## Your turn {background-color="#1B4332"}
