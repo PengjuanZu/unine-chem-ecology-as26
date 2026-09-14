@@ -181,22 +181,27 @@ $presentation-h3-font-size: 1.2em;
 }
 
 .reveal .title-slide-body {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1.5em;
+  position: relative;
   height: 100%;
   padding: 3.2em 1em 1em;
+  box-sizing: border-box;
 }
 
+// Deliberately not flexbox here: a percentage *height* on a flex
+// item only resolves reliably when every ancestor in the chain has
+// an unambiguous definite height, and that kept silently collapsing
+// this box to content-size instead of actually filling most of the
+// slide. Absolute positioning against title-slide-body (a definite,
+// padded box) is simpler and doesn't depend on that chain at all.
 .reveal .title-slide-text {
-  flex: 1 1 35%;
+  position: relative;
+  max-width: 40%;
   text-align: left;
 }
 
 // No topic-image set yet for this week: let the text take the full width.
 .reveal .title-slide-body .title-slide-text:only-child {
-  flex: 1 1 100%;
+  max-width: 100%;
   text-align: center;
 }
 
@@ -231,11 +236,14 @@ $presentation-h3-font-size: 1.2em;
 //   topic-image-style: "object-position: top;"
 //   topic-image-style: "width: 60%; object-fit: contain;"
 .reveal .title-slide-image {
-  flex: 1 1 65%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 55%;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 92%;
 }
 
 // width/height: 100% (not max-width/max-height) is what actually
