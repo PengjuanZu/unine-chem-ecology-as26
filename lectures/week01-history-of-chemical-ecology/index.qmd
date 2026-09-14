@@ -1,7 +1,7 @@
 ---
-title: "Chemical Ecology"
-subtitle: "Écologie chimique"
-topic-image: "images/objets_jean_henri_fabre.jpg"
+title: "Introduction to Chemical Ecology"
+subtitle: "Introduction à l'écologie chimique"
+topic-image: "images/Plant-Insect_communication.png"
 format:
   revealjs:
     theme: [default, ../../styles/forest-theme.scss]
