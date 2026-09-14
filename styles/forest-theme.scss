@@ -190,7 +190,7 @@ $presentation-h3-font-size: 1.2em;
 }
 
 .reveal .title-slide-text {
-  flex: 1 1 42%;
+  flex: 1 1 35%;
   text-align: left;
 }
 
@@ -216,8 +216,13 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal .title-slide-text .author {
   color: #E3A857;
-  font-size: 0.8em;
+  font-size: 0.65em;
+  line-height: 1.5;
   margin-top: 1em;
+}
+
+.reveal .title-slide-text .author a {
+  color: #E3A857;
 }
 
 // Size/position of the weekly topic-image: tweak the defaults below to
@@ -226,16 +231,20 @@ $presentation-h3-font-size: 1.2em;
 //   topic-image-style: "object-position: top;"
 //   topic-image-style: "width: 60%; object-fit: contain;"
 .reveal .title-slide-image {
-  flex: 1 1 58%;
+  flex: 1 1 65%;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 70%;
+  height: 92%;
 }
 
+// width/height: 100% (not max-width/max-height) is what actually
+// makes object-fit: cover fill the whole box - max- alone just caps
+// the image at its own natural aspect ratio, leaving it looking
+// small inside a differently-shaped box.
 .reveal .title-slide-image img {
-  max-height: 100%;
-  max-width: 100%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   object-position: center;
   border-radius: 10px;
