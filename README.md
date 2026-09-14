@@ -310,11 +310,4 @@ from `_quarto.yml`) — only works in body text, never in front matter:
 {{< meta author_Zu >}}
 ```
 
-## A note on the content itself
 
-The Fabre antennae-removal bullet in Story 1 was deliberately corrected
-here from a more commonly popularized (but slightly inaccurate) version:
-Fabre's own account shows the antennae experiment was inconclusive by
-his own admission, since intact "control" males also failed to return.
-The sealed-box experiment is his cleanest, best-supported result. See the
-commit history on `lectures/_story1-pheromones.qmd` for the full note.

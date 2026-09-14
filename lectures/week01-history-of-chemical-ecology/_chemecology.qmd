@@ -23,57 +23,11 @@ saw are concrete instances of exactly this.
 ## A brief history
 
 - **1950s–1970s**: pioneering work in insect pheromones and plant
-  secondary metabolites — you just saw two of its founding discoveries
-  first-hand in the stories above
+  secondary metabolites — you just saw some founding discoveries
+  in the stories above
 - Rise of **multidisciplinary research**, combining biology and
   chemistry into a single field
 
-::: {.notes}
-~30 sec. Deliberately short — the two 1959 discoveries were already
-covered in detail in the stories and the synthesis slide, no need to
-repeat the specifics here.
-:::
-
-## Resources: societies & journals
-
-*Ressources : sociétés savantes et revues*
-
-- **International Society of Chemical Ecology (ISCE)** — founded 1983,
-  publishes the *Journal of Chemical Ecology*; annual meetings rotate
-  globally
-- Regional societies: **APACE** (Asia-Pacific), **ALAEQ** (Latin
-  America), **ECE** (Europe)
-- Chemical ecology research also regularly appears in general ecology
-  and evolution journals (*Ecology Letters*, *Trends in Ecology &
-  Evolution*, *Nature Ecology & Evolution*, and others)
-
-::: {.notes}
-~1 min. Point out these exist mainly so students know where to look
-later (e.g. for a term paper), not to memorize.
-:::
-
-## Resources: Neuchâtel as a hub
-
-*Neuchâtel, un pôle de l'écologie chimique*
-
-- A global hub for chemical ecology, founded by **Prof. Ted Turlings**
-  and others in the 1990s
-- Focus: insect–plant interactions, volatiles, biological control
-- Home of the **Laboratory of Fundamental and Applied Research in
-  Chemical Ecology (FARCE)**
-- Home of the **Laboratory of Information & Chemical Ecology (ICE)** —
-  [informationecology.github.io/research](https://informationecology.github.io/research/)
-- [**NPAC**](https://www.unine.ch/npac/), the Neuchâtel Platform for
-  Analytical Chemistry (GC-MS, NMR, and more)
-- See the [**C3E newsletter**](https://www.unine.ch/centres-of-excellence/home/ecologiechimique/c3e-newsletter.html)
-  for what the group has been publishing
-
-**You are part of a living tradition that shaped the global field.**
-
-::: {.notes}
-~1-1.5 min. This is meant to be motivating, not just informational —
-they're studying this in the actual place a lot of it was built.
-:::
 
 ## Interdisciplinary core
 
@@ -96,11 +50,57 @@ GC-MS/GC-EAD (chemistry + neurophysiology) is literally this list in
 miniature.
 :::
 
-## Recap
 
-- Chemical ecology links molecules to ecosystems
-- It's deeply interdisciplinary, rooted in ecology and chemistry
-- Neuchâtel is a leading center for this research
+
+## Resources: societies & journals
+
+*Ressources : sociétés savantes et revues*
+
+- **International Society of Chemical Ecology (ISCE)** — founded 1983,
+  publishes the **Journal of Chemical Ecology**; annual meetings rotate
+  globally
+- Regional societies: **APACE** (Asia-Pacific), **ALAEQ** (Latin
+  America), **ECE** (Europe)
+- Chemical ecology research also regularly appears in general ecology
+  and evolution journals (*Ecology Letters*, *Trends in Ecology &
+  Evolution*, *Nature Ecology & Evolution*, and others)
+
+![](images/Society.png){width="90%" fig-align="center"}
+
+
+::: {.notes}
+~1 min. Point out these exist mainly so students know where to look
+later (e.g. for a term paper), not to memorize.
+:::
+
+## Neuchâtel as a hub
+
+*Neuchâtel, un pôle de l'écologie chimique*
+
+- A global hub for chemical ecology, founded by **Prof. Ted Turlings**
+  and others in the 1990s (Focus: insect–plant interactions, volatiles, biological control)
+- **FARCE**: Home of the Laboratory of Fundamental and Applied Research in
+  Chemical Ecology
+- **NICE**: Home of the Laboratory of Network, Information & Chemical Ecology (NICE) —
+  [informationecology.github.io/research](https://informationecology.github.io/research/)
+- [**NPAC**](https://www.unine.ch/npac/), the Neuchâtel Platform for
+  Analytical Chemistry (LC-MS, NMR, and more)
+
+
+**You are part of a living tradition that shaped the global field.**
+
+::: {.notes}
+~1-1.5 min. This is meant to be motivating, not just informational —
+they're studying this in the actual place a lot of it was built.
+:::
+
+
+
+## Today's learning goals: {background-color="#1B4332"}
+
+- Explain what chemical ecology is and why it's interdisciplinary
+- Describe the history of the field through three real discoveries
+- Start your chemical ecology observations
 
 ::: {.notes}
 ~30 sec. Short, punchy recap before moving into course logistics.
