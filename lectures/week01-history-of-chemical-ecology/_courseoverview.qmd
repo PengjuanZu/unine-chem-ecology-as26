@@ -32,7 +32,7 @@ placeholder). -->
 ::: {.compact-table}
 | Week | Topic | Deadline |
 |---|---|---|
-| 1 | Introduction to Chemical Ecology | |
+| 1 | Introduction to Chemical Ecology | Homework: My Chemical Ecology Poster (30%) - Friday 17:00 in Week 10|
 | 2 | Infochemicals (Semiochemicals) | |
 | 3 | Plant–herbivore interactions | |
 | 4 | Tri-trophic interactions | |
@@ -44,9 +44,8 @@ placeholder). -->
 | 10 | Urban ecosystems | |
 | 11 | Climate change & chemical ecology | |
 | 12 | Overview of technologies | |
-| 13 | In-class quiz | Quiz (30%) — TODO date |
-| 14 | Group discussion II | Discussion 2 (20%) — Fri 17:00, TODO date |
-| 15 | Student presentations | |
+| 13 | In-class quiz; Group discussion II | Quiz (30%); Discussion 2 (20%) — Fri 17:00 |
+| 14 | Student presentations | |
 :::
 
 *Individual assignment (30%) — TODO: due date, not yet tied to a
@@ -73,6 +72,32 @@ based on:*
 ~1 min. Both languages given in full since this is graded/binding
 information - students should be able to check it in whichever
 language they're more comfortable with.
+:::
+
+## Homework 1: Chemical Ecology Poster
+
+*Devoir 1 : Affiche d'écologie chimique*
+
+- **Task**: Choose any chemical ecology topic that interests you, and
+  turn it into a poster explaining it to the **general public** — not
+  to other scientists
+- Pick one specific system or phenomenon (a real species interaction,
+  study, or discovery) — don't try to cover the whole field
+- Explain **both** the chemistry and the ecology: what compound(s) are
+  involved, and what they actually do in that organism's life
+- Write for a curious non-specialist: minimal jargon, one strong
+  visual, a clear takeaway message
+- Cite your sources
+
+<!-- TODO: fill in poster size/format (e.g. A1/A0, digital PDF vs.
+printed), submission method, and any grading rubric details. -->
+
+**Due: Week 10, Friday 17:00 · Worth 30% of your grade**
+
+::: {.notes}
+~1 min. Emphasize "for the public," not a mini scientific paper -
+that's the main way this differs from a typical term paper, and the
+main thing students tend to get wrong on a first draft.
 :::
 
 ## Your turn {background-color="#1B4332"}
