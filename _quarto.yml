@@ -13,7 +13,7 @@ website:
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
 metadata:
-  author_Zu: 'Prof. Pengjuan Zu<br>(<a class="author-email" href="mailto:pengjuan.zu@unine.ch">pengjuan.zu@unine.ch</a>)<br>Head of Laboratory of <a href="https://www.unine.ch/chemical-ecology" target="_blank">NICE</a><br>(Network, Information & Chemical Ecology)<br>Institute of Biology<br>University of Neuchâtel'
+  author_Zu: '<span class="author-name">Prof. Pengjuan Zu</span><br>(<a href="mailto:pengjuan.zu@unine.ch">pengjuan.zu@unine.ch</a>)<br>Head of Laboratory of <a href="https://www.unine.ch/chemical-ecology" target="_blank">NICE</a><br>(Network, Information & Chemical Ecology)<br>Institute of Biology<br>University of Neuchâtel'
 
 format:
   html:
