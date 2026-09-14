@@ -2,14 +2,15 @@
 
 ### When a Flower Lies
 *Quand une fleur ment*
-![(Wong et. al. 2022)](images/SexualDeceptive.png){width="80%" fig-align="center"}
+
+![(Wong et. al. 2022)](images/SexualDeceptive.png){width="70%" fig-align="center"}
 
 
 ::: {.notes}
 Transition, ~5 sec. Timing target for Story 3: ~9 minutes.
 :::
 
-## 1862 · Kent, England {.hook}
+## 1862 · England · Darwin {.hook}
 
 Charles Darwin studies orchids growing near his home — including the
 fly orchid (*Ophrys insectifera*), which produces no nectar and is
@@ -19,6 +20,9 @@ almost never visited by insects.
 Ophrys/fly orchid flower. Drop files into images/ and use:
 ![Caption](images/your-file.jpg){width="50%" fig-align="center"} -->
 
+:::: {.columns}
+::: {.column width="70%"}
+
 > "Something seems to be out of joint in the machinery of [the Fly
 > orchid's] life."
 >
@@ -27,8 +31,14 @@ Ophrys/fly orchid flower. Drop files into images/ and use:
 > **How could a flower with no reward still get pollinated?**
 >
 > *Comment une fleur sans récompense peut-elle quand même être pollinisée ?*
+:::
 
-⏳ 45 seconds.
+::: {.column width="30%"}
+![Charles Darwin](images/Darwin.jpg){width="35%" fig-align="center"}
+
+![*Ophrys*](images/flyOrchid.jpg){width="35%" fig-align="center"}
+:::
+::::
 
 ::: {.notes}
 Darwin was genuinely disturbed by this — he suspected "an organized
@@ -70,24 +80,28 @@ to plant in their minds.
 :::
 -->
 
-## The mechanism, revealed — twice, independently
+## The mechanism, revealed 
 
-*Le mécanisme, révélé — deux fois, indépendamment*
+*Le mécanisme, révélé *
 
 - **1916, Algeria** — Correvon & Pouyanne describe male wasps
   attempting to mate with *Ophrys* flowers: pseudocopulation
 - **1927, Australia** — Edith Coleman independently documents the same
   behavior on the opposite side of the planet, in a completely
   different orchid (*Cryptostylis*) and a different wasp
+
+:::: {.columns}
+::: {.column width="70%"}
+
 - No reward is offered — the flower is simply mistaken for a mate
+> **How could the insect be fooled so completely?**
 
-<!-- TODO: add images here — an Ophrys/wasp pseudocopulation photo,
-a Cryptostylis orchid, a portrait of Edith Coleman. The commented-out
-block above still has the original file references
-(images/Cryptostylis.png, images/EdithColeman.png) if you want to
-reuse those images here. -->
+:::
+::: {.column width="30%"}
+![*Cryptostylis*](images/Cryptostylis.png){width="70%" fig-align="center"}
+:::
+::::
 
-**The same trick, evolved twice on opposite sides of the planet.**
 
 ::: {.notes}
 ~1-1.5 min. The point is convergent evolution: two unrelated
@@ -95,7 +109,8 @@ lineages, oceans apart, arrived at the identical strategy
 independently — that's more surprising than either discovery alone.
 :::
 
-## Bertil Kullenberg, from 1948
+## Kullenberg, from 1948
+
 
 - Spends over a decade studying Mediterranean *Ophrys* orchids
 - Shows the flowers chemically mimic a female bee's own sex pheromone
@@ -103,6 +118,8 @@ independently — that's more surprising than either discovery alone.
   process
 
 **This is chemical mimicry, not just visual disguise.**
+
+![](images/Correvon_Kullenberg.png){width="70%" fig-align="center"}
 
 ::: {.notes}
 Ophrys = the bee orchid genus. Distinguish from Story 1's Bombyx moth
@@ -113,11 +130,14 @@ insect faking insect).
 
 ## GC-MS confirms it
 
+
 - Modern chemical analysis compares orchid scent blends to the real
   insect pheromone
 - In several species, the match is nearly compound-for-compound
 
 **Deception, written in chemistry.**
+
+![GC-MS (Gas chromatography–mass spectrometry)](images/GCMS.png){width="70%" fig-align="center"}
 
 ::: {.notes}
 Same analytical toolkit as Story 1 — start planting the seed that all

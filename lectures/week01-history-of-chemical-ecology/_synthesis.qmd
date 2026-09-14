@@ -1,14 +1,21 @@
 ## Synthesis · Synthèse {background-color="#1B4332"}
 
+What are in common among these stories?
+
+::: {.fragment}
 > Observations --> Questions --> Experimental tests
 
 > Technology helps
+::: 
+
+::: {.fragment}
 
 - GC-MS separates and identifies compounds from tiny, complex mixtures
 - GC-EAD lets an insect's own antenna point to the biologically relevant
   ones
 - From Fabre's moths, to Turlings' maize, to Kullenberg's orchids — the
   same chemistry toolkit cracked ecological questions
+:::
 
 ::: {.notes}
 Explicit callback tying the technology thread across all three stories.

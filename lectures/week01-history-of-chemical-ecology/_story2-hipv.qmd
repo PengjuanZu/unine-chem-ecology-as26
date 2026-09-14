@@ -44,11 +44,21 @@ rhetorical structure of this story.
 same year as bombykol.*
 
 :::: {.columns}
-::: {.column width="50%"}
-![](images/Raison.png){width="70%" fig-align="center"}
+::: {.column width="70%"}
+Reasoning:
+
+- Diverse and specific — not universal across plants, not universal in
+  their impact on insects
+- Metabolically costly to produce and maintain
+- **→ Functional hypothesis**: these are evolved functional traits (defense,
+  and — as you'll see next — attracting allies too), not waste
 :::
-::: {.column width="50%"}
+::: {.column width="30%"}
+
 ![(Gottfried S. Fraenkel)](images/Fraenkel.jpg){width="50%" fig-align="center"}
+
+![](images/Raison.png){width="80%" fig-align="center"}
+
 :::
 ::::
 

@@ -96,12 +96,3 @@ they're studying this in the actual place a lot of it was built.
 
 
 
-## Today's learning goals: {background-color="#1B4332"}
-
-- Explain what chemical ecology is and why it's interdisciplinary
-- Describe the history of the field through three real discoveries
-- Start your chemical ecology observations
-
-::: {.notes}
-~30 sec. Short, punchy recap before moving into course logistics.
-:::
