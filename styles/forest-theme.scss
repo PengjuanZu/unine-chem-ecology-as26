@@ -42,6 +42,23 @@ $presentation-h3-font-size: 1.2em;
   text-align: right;
 }
 
+// Wrap a long/wide table in this to shrink it to fit one slide, e.g.
+// a full-semester schedule:
+//   ::: {.compact-table}
+//   | Week | Topic | Deadline |
+//   |---|---|---|
+//   ...
+//   :::
+.reveal .compact-table table {
+  font-size: 0.42em;
+  width: 100%;
+}
+
+.reveal .compact-table th,
+.reveal .compact-table td {
+  padding: 0.15em 0.5em;
+}
+
 // Photo captions: small footnote-style text, ~50% transparent.
 // Quarto renders most figure captions as <figcaption> (inside a
 // <figure>) and only a few edge cases as <p class="caption"> - style
