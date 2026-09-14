@@ -216,7 +216,8 @@ $presentation-h3-font-size: 1.2em;
   color: #ffffff;
   opacity: 0.75;
   font-weight: 400;
-  font-size: 1.1em;
+  font-size: 0.8em;
+  white-space: nowrap;
 }
 
 .reveal .title-slide-text .author {
@@ -224,6 +225,13 @@ $presentation-h3-font-size: 1.2em;
   font-size: 0.65em;
   line-height: 1.5;
   margin-top: 1em;
+}
+
+// A brighter/lighter yellow than the rest of the author block, so
+// the email visually stands out. Add class="author-email" to that
+// one <a> in author_Zu (in _quarto.yml) to use it.
+.reveal .title-slide-text .author-email {
+  color: #F6DE94;
 }
 
 .reveal .title-slide-text .author a {
@@ -237,10 +245,10 @@ $presentation-h3-font-size: 1.2em;
 //   topic-image-style: "width: 60%; object-fit: contain;"
 .reveal .title-slide-image {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 8.2em;
+  left: 15em;
+  right: 0.4em;
   bottom: 0;
-  width: 55%;
   display: flex;
   justify-content: center;
   align-items: center;
