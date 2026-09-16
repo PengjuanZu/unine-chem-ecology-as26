@@ -77,6 +77,15 @@ quarto preview lectures/week01-history-of-chemical-ecology/index.qmd
 quarto render
 ```
 
+**Speaker notes on a second screen while presenting:** press **`S`**
+during the slideshow to pop out a Speaker View window — current slide,
+next slide, your `::: {.notes}` content, and a timer. Drag that window
+to your laptop screen and keep the main window fullscreen on the
+projector (use *extended*, not *mirrored*, display mode). Works best
+served via `quarto preview` rather than opening the rendered HTML file
+directly — some browsers restrict the window-sync messaging on `file://`
+URLs. Allow popups for the page if the browser blocks the window.
+
 **Save your changes to history** (do this whenever you finish a useful
 chunk of editing — a sentence, a slide, a whole story):
 
@@ -314,11 +323,4 @@ from `_quarto.yml`) — only works in body text, never in front matter:
 {{< meta author_Zu >}}
 ```
 
-## A note on the content itself
 
-The Fabre antennae-removal bullet in Story 1 was deliberately corrected
-here from a more commonly popularized (but slightly inaccurate) version:
-Fabre's own account shows the antennae experiment was inconclusive by
-his own admission, since intact "control" males also failed to return.
-The sealed-box experiment is his cleanest, best-supported result. See the
-commit history on `lectures/_story1-pheromones.qmd` for the full note.

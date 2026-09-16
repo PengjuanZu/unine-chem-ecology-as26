@@ -1,0 +1,16 @@
+## {background-image="images/Zu_selfIntro.png" background-size="80%" background-color="#1B4332"}
+
+::: {.notes}
+Bonjour tout le monde. Comment ça va ? Ça va bien, ça va mal, comme ci, comme ça. 
+Bienvenue à l'écologie chimique!
+
+FR: Je m'appelle Pengjuan Zu. Je suis professeure ici, à l'Université de Neuchâtel. Je dirige un groupe de recherche : NICE — Network, Information and Chemical Ecology. Nous étudions comment les plantes parlent aux insectes, avec un langage chimique.
+
+FR: Avant Neuchâtel, mon chemin passe par Beijing, puis Uppsala, un doctorat à Zurich, recherche postdoctorale à Kew Gardens et au MIT, puis un retour en Suisse, à l'ETH Zurich — avant de venir à Neuchâtel l'année dernière.
+
+FR: J'ai commencé à apprendre le français à zéro. Alors, comme vous voyez, mon français est limité…très limité.
+
+FR: Mais j'apprends, petit à petit.
+
+FR: Donc, ce cours sera en anglais, parce que l'anglais est la langue de la science — et vous êtes en troisième année de bachelor, en route pour devenir des scientifiques. C'est pratique pour moi aussi, bien sûr ! Je vais quand même essayer d'ajouter un peu de français, ici et là.
+:::

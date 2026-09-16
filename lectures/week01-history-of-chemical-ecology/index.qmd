@@ -1,7 +1,7 @@
 ---
-title: "Three Mysteries in Chemical Ecology"
-subtitle: "Trois mystères de l'écologie chimique"
-author: "Prof. Pengjuan Zu · University of Neuchâtel"
+title: "Introduction to Chemical Ecology"
+subtitle: "Introduction à l'écologie chimique"
+topic-image: "images/Plant-Insect_communication.png"
 format:
   revealjs:
     theme: [default, ../../styles/forest-theme.scss]
@@ -9,17 +9,25 @@ format:
     transition: fade
     chalkboard: false
     embed-resources: true
+    center: false
+    margin: 0.04
+    template-partials:
+      - ../../title-slide.html
+    title-slide-attributes:
+      data-background-color: "#1B4332"
+    # include-after-body: ../../progress-header.html  # disabled for now - alignment + too many dots on long sections, revisit later
 ---
 
-## Three Mysteries in Chemical Ecology {background-color="#1B4332"}
+{{< include _welcome.qmd >}}
 
-### Trois mystères de l'écologie chimique
+{{< include _selfintro.qmd >}}
 
-Prof. Pengjuan Zu · University of Neuchâtel
+<!-- {{< include _learninggoals.qmd >}}
+-->
 
-::: {.notes}
-Title slide. ~5 sec.
-:::
+{{< include _agenda.qmd >}}
+
+{{< include _activity.qmd >}}
 
 {{< include _intro.qmd >}}
 
@@ -30,3 +38,7 @@ Title slide. ~5 sec.
 {{< include _story3-flower-deception.qmd >}}
 
 {{< include _synthesis.qmd >}}
+
+{{< include _chemecology.qmd >}}
+
+{{< include _courseoverview.qmd >}}
