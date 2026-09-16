@@ -77,6 +77,15 @@ quarto preview lectures/week01-history-of-chemical-ecology/index.qmd
 quarto render
 ```
 
+**Speaker notes on a second screen while presenting:** press **`S`**
+during the slideshow to pop out a Speaker View window — current slide,
+next slide, your `::: {.notes}` content, and a timer. Drag that window
+to your laptop screen and keep the main window fullscreen on the
+projector (use *extended*, not *mirrored*, display mode). Works best
+served via `quarto preview` rather than opening the rendered HTML file
+directly — some browsers restrict the window-sync messaging on `file://`
+URLs. Allow popups for the page if the browser blocks the window.
+
 **Save your changes to history** (do this whenever you finish a useful
 chunk of editing — a sentence, a slide, a whole story):
 
