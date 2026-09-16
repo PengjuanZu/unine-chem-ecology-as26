@@ -1,0 +1,55 @@
+## How Animals Sense Their World {background-color="#1B4332"}
+
+*Comment les animaux perçoivent le monde*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## The senses animals have
+
+- Vision, hearing/vibration, touch, taste, **smell** — most animals
+  combine several
+- Chemical senses (taste + smell) are the **oldest and most universal**:
+  even single-celled organisms and bacteria sense and respond to
+  chemicals (e.g. quorum sensing)
+- Insects lean heavily on smell: **antennae** (primary olfactory organ)
+
+::: {.notes}
+~1.5 min. Set up the contrast: humans are vision-dominant, most of the
+animal kingdom is chemically-dominant. Callback opportunity to Story 1
+(Week 1) — Fabre's moths finding a mate in total darkness, "it must be
+an odor."
+:::
+
+## Why chemical communication? {.hook}
+
+> **Why might a species evolve to "talk" with molecules instead of
+> sound or light?**
+>
+> *Pourquoi une espèce évoluerait-elle pour « parler » avec des
+> molécules plutôt qu'avec du son ou de la lumière ?*
+
+
+::: {.notes}
+Let a few guesses land. Push toward: works in total darkness, doesn't
+need line-of-sight, travels around obstacles, can persist after the
+sender has left (a trail, a mark), can be extremely specific (exact
+blend and ratio), cheap to produce compared to sound/light displays.
+~2 min including the reveal below.
+:::
+
+## Chemical communication: 
+
+- Ancient and ubiquitous
+- Functional in the dark, underground, or underwater
+- Flexible in distance (compare to gustatory and visual signals)
+- Can **persist** after the sender is gone (a scent mark, a trail)
+- Extremely specific and diverse: <br>
+    - exact compound + ratio + concentration <br>
+    - small modification will turn one compound to another 
+
+::: {.notes}
+~1 min. This sets up "information" as a concept we'll return to at the
+end of today.
+:::

@@ -1,0 +1,34 @@
+---
+title: "Infochemicals"
+subtitle: "Infochimiques"
+topic-image: "images/Infochemical.png"
+topic-image-style: "object-fit: contain;"
+
+format:
+  revealjs:
+    theme: [default, ../../styles/forest-theme.scss]
+    slide-number: c/t
+    transition: fade
+    chalkboard: false
+    embed-resources: true
+    center: false
+    margin: 0.04
+    template-partials:
+      - ../../title-slide.html
+    title-slide-attributes:
+      data-background-color: "#1B4332"
+---
+
+{{< include _learninggoals.qmd >}}
+
+{{< include _agenda.qmd >}}
+
+{{< include _intro.qmd >}}
+
+{{< include _infochemicals.qmd >}}
+
+{{< include _smelltest.qmd >}}
+
+{{< include _olfactory.qmd >}}
+
+{{< include _infotheory.qmd >}}

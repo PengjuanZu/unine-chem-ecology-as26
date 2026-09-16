@@ -129,10 +129,14 @@ below) and merging it.
    git pull
    git checkout -b week02-<topic>
    ```
-2. Create `lectures/week02-<topic>/index.qmd` with its own YAML front
-   matter (`format: revealjs`, etc. — copy the header from
-   `lectures/week01-history-of-chemical-ecology/index.qmd` as a
-   starting point), plus an `images/` subfolder if it needs pictures.
+2. Copy the template folder instead of starting from scratch:
+   ```bash
+   cp -r lectures/_template-week lectures/week02-<topic>
+   ```
+   It already includes a learning-goals slide, an agenda/roadmap slide,
+   a hook question, a mid-session checkpoint, a synthesis that closes
+   the loop on the goals, and an `images/` folder — just work through
+   the `TODO`s (see `lectures/_template-week/README.md`).
 3. If a slide reuses content from an existing story (e.g. the pheromone
    story again), add `{{< include ../week01-history-of-chemical-ecology/_story1-pheromones.qmd >}}`
    there — or just copy the partial into the new week's folder if you
