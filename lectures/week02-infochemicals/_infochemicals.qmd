@@ -6,11 +6,12 @@
 Transition, ~5 sec.
 :::
 
-## Definition
+### Definition
 
-> An **infochemical** is a chemical that carries **information**
-> between organisms — it changes the behavior or physiology of
-> whoever receives it.
+> An **infochemical** (or semiochemical) is a chemical substance or mixture released by an organism that affects the behaviors of other individuals.
+
+*Signaux (ou médiateur) chimiques émis par un organisme et modifiant le comportement et/ou la physiologie d'autres organismes
+*
 
 Every story from Week 1 was really about one of these.
 
@@ -20,7 +21,7 @@ Every story from Week 1 was really about one of these.
 benefits*.
 :::
 
-## Two big categories
+## Infochemical categories
 
 - **Pheromone** — signal *within* the same species
 - **Allelochemical** — signal *between* different species

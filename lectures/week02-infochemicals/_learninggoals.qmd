@@ -4,7 +4,10 @@
 
 By the end of today, you can:
 
-- Define "infochemical" and classify a signal by who benefits from it
-- Explain why chemical communication evolved alongside other senses
-- Describe how olfactory receptors work, and why the same compound can
-  be perceived differently by different individuals or species
+- Understand the senses of insects
+- Define "infochemical" and classify infochemical types (pheromone
+  subtypes; allomone, kairomone, synomone) from concrete examples 
+- Explain sensory evolution<br>
+  -Provide evolutionary explanations for why certain species have highly developed senses<br>
+  -Discuss trade-offs of sensory specialization
+- Frame chemical communication as an information-transfer process
