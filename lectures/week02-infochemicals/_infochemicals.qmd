@@ -23,51 +23,16 @@ benefits*.
 
 ## Infochemical categories
 
-- **Pheromone** — signal *within* the same species
-- **Allelochemical** — signal *between* different species
+![](images/InfoChemical_types.png){width="40%" fig-align="center"}
+
+- **Pheromone** — signal *within* the same species (intra-specific)
+- **Allelochemical** — signal *between* different species (inter-specific)
 
 The second category splits further by **who benefits**: the sender,
 the receiver, or both.
 
 ::: {.notes}
 ~30 sec. Set up the tree before filling in the leaves.
-:::
-
-## Pheromones: talking to your own species
-
-*Phéromones : communiquer au sein de son espèce*
-
-- **Sex** — attracts a mate (bombykol, Week 1 Story 1)
-- **Alarm** — warns nearby individuals of danger (aphids release
-  (E)-β-farnesene when attacked; bees release an alarm pheromone at a
-  sting site to recruit defenders)
-- **Aggregation** — draws others to gather (bark beetles mass-attack
-  one tree together, overwhelming its defenses)
-- **Trail** — marks a path for others to follow (ants laying a scent
-  trail from food back to the nest)
-
-::: {.notes}
-~1.5 min. Bombykol callback grounds this immediately in something
-students already know well.
-:::
-
-## Allelochemicals: talking between species
-
-*Substances allélochimiques : communiquer entre espèces*
-
-::: {.compact-table}
-| Type | Who benefits | Example |
-|---|---|---|
-| **Allomone** | Sender only | Plant defense toxins (Fraenkel, Week 1 Story 2) |
-| **Kairomone** | Receiver only | An herbivore using plant volatiles to find its host |
-| **Synomone** | Both | HIPVs recruiting a parasitoid wasp (Turlings, Week 1 Story 2) |
-:::
-
-::: {.notes}
-~2 min. The allomone and synomone rows are direct Week 1 callbacks —
-point them out explicitly. Kairomone is the one genuinely new idea:
-a signal evolved for one purpose gets *exploited* by someone it wasn't
-"meant" for.
 :::
 
 ## More examples
