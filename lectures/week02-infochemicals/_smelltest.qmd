@@ -76,5 +76,25 @@ Let intuitions surface: genetics (some people are "blind" to specific
 compounds — specific anosmia), prior experience/memory, cultural
 association, concentration/context. Don't resolve fully here - the
 next section (olfactory receptors) gives the mechanism. ~4 min.
-Total activity: ~15 min.
+:::
+
+## Reveal: what were strips 1–4?
+
+*Révélation : quelles étaient les 4 odeurs ?*
+
+::: {.compact-table}
+| # | Oil | Scientific name | Tissue used | Main compound(s) | Use |
+|---|---|---|---|---|---|
+| 1 | Lavender | *Lavandula angustifolia* | Flowers | Linalool, linalyl acetate | Aromatherapy, cosmetics, mild antiseptic |
+| 2 | Clove | *Syzygium aromaticum* | Flower buds | Eugenol | Insect repellent, dental analgesic, spice |
+| 3 | Patchouli | *Pogostemon cablin* | Leaves (dried, fermented) | Patchoulol | Perfume fixative/base note, insect repellent |
+| 4 | Ylang-ylang | *Cananga odorata* | Flowers | Linalool, germacrene D, benzyl acetate | Perfumery, aromatherapy, traditional hair care |
+:::
+
+::: {.notes}
+~1 min. Now that reactions are already on the table, reveal identity
+and a bit of real chemistry/botany - satisfying "answer key" moment.
+Note clove's eugenol is the same compound behind its documented
+insect-repellent activity - a nice bridge back to the allomone
+concept from Part 1. Total activity: ~16 min.
 :::
