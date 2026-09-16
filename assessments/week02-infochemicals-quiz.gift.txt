@@ -1,0 +1,88 @@
+// Chemical Ecology - Week 2: Infochemicals
+// Moodle question bank - GIFT format
+// Import: Moodle > Question bank > Import > GIFT format > select this file
+// 10 questions: 3 pheromone, 2 synomone, 2 allomone, 2 kairomone, 1 matching (concepts)
+// Examples deliberately echo Week 1 (Bombykol, Turlings/HIPV, Ophrys orchid) and
+// Week 2 (clove eugenol) so the quiz reinforces stories already told in class.
+
+$CATEGORY: $course$/Week 02 - Infochemicals
+
+// ---------- PHEROMONE ----------
+
+::Q1 - Bombykol::In 1959, researchers identified bombykol, the molecule the female silkworm moth (Bombyx mori) releases to attract males of the *same species* from long distances. This chemical signal is a:{
+=Pheromone#Correct - the emitter and receiver are the same species (intraspecific), which defines a pheromone.
+~Synomone#Synomone describes signals between different species that benefit both sides - bombykol is intraspecific.
+~Allomone#Allomone describes signals between different species that benefit only the emitter - bombykol is intraspecific.
+~Kairomone#Kairomone describes signals between different species that benefit only the receiver - bombykol is intraspecific.
+}
+
+::Q2 - Aphid alarm signal::When attacked by a predator, an aphid releases (E)-beta-farnesene, causing nearby aphids of the *same colony* to disperse or drop off the plant. This chemical signal is a:{
+=Pheromone#Correct - this is an alarm pheromone: emitter and receiver are the same species.
+~Synomone#Synomone is an interspecific (different-species) signal that benefits both parties.
+~Allomone#Allomone is an interspecific signal that benefits only the emitter.
+~Kairomone#Kairomone is an interspecific signal that benefits only the receiver.
+}
+
+::Q3 - Bark beetle aggregation::Bark beetles that successfully colonize a tree release a chemical blend that attracts many more beetles of the *same species*, so they can overwhelm the tree's defenses together. This is an example of a(n):{
+=Pheromone#Correct - an aggregation pheromone, coordinating individuals of the same species.
+~Synomone#Synomones act between different species - this signal is beetle-to-beetle.
+~Allomone#Allomones act between different species - this signal is beetle-to-beetle.
+~Kairomone#Kairomones act between different species - this signal is beetle-to-beetle.
+}
+
+// ---------- SYNOMONE (benefits both emitter and receiver) ----------
+
+::Q4 - HIPV and parasitoid wasps::When caterpillars feed on a maize plant, the plant releases herbivore-induced volatiles that attract parasitic wasps, which then lay their eggs inside the caterpillars. The plant benefits (fewer herbivores) AND the wasp benefits (finds a host). This interspecific signal is a:{
+=Synomone#Correct - both the emitting plant and the receiving wasp benefit, which defines a synomone.
+~Pheromone#Pheromones are signals within the same species - here the plant and wasp are different species.
+~Allomone#Allomone would mean only the plant benefits - but the wasp benefits too.
+~Kairomone#Kairomone would mean only the wasp benefits - but the plant benefits too.
+}
+
+::Q5 - Flower scent and pollination::A flower's scent advertises the location of nectar to a bee; the bee finds food and the plant gets pollinated in return. Because both the emitting plant and the receiving bee benefit, this chemical signal is classified as a:{
+=Synomone#Correct - a mutually beneficial interspecific signal is a synomone.
+~Pheromone#Pheromones are signals within the same species - flower and bee are different species.
+~Allomone#Allomone would mean only the plant benefits - but the bee benefits too (it gets food).
+~Kairomone#Kairomone would mean only the bee benefits - but the plant benefits too (pollination).
+}
+
+// ---------- ALLOMONE (benefits only the emitter) ----------
+
+::Q6 - Ophrys orchid deception::Ophrys orchids produce a scent that mimics the sex pheromone of a female wasp, tricking male wasps into attempting to mate with the flower (pseudocopulation) and picking up pollen in the process. The orchid benefits; the deceived male wasp wastes time and energy and gains nothing. This is an example of a(n):{
+=Allomone#Correct - only the emitter (the orchid) benefits, at the receiver's expense - the defining feature of an allomone.
+~Pheromone#The orchid and the wasp are different species, so this is not a pheromone (even though it mimics one).
+~Synomone#Synomone requires benefit to both sides - the wasp gains nothing here.
+~Kairomone#Kairomone requires benefit to the receiver - the wasp is deceived, not benefited.
+}
+
+::Q7 - Clove eugenol::Eugenol, the main compound in clove (Syzygium aromaticum) essential oil, deters insects from feeding on the plant that produces it. The plant benefits from reduced herbivory; the insect receiving the signal gains no benefit. This chemical is acting as a(n):{
+=Allomone#Correct - a defensive compound that benefits only the emitter (the plant) is an allomone.
+~Pheromone#Pheromones signal within the same species - plant and insect are different species.
+~Synomone#Synomone requires mutual benefit - the deterred insect does not benefit.
+~Kairomone#Kairomone requires benefit to the receiver - here the receiver is repelled, not benefited.
+}
+
+// ---------- KAIROMONE (benefits only the receiver) ----------
+
+::Q8 - Mosquitoes and CO2::Female mosquitoes use carbon dioxide and skin odor released by humans to locate a blood meal. The mosquito benefits by finding a host; the human gains nothing from emitting these cues (and is harmed by the bite). This signal is a:{
+=Kairomone#Correct - only the receiver (the mosquito) benefits, at the emitter's expense - the defining feature of a kairomone.
+~Pheromone#Human and mosquito are different species, so this is not a pheromone.
+~Synomone#Synomone requires mutual benefit - the human does not benefit from being bitten.
+~Allomone#Allomone would mean only the emitter (human) benefits - here it is the receiver (mosquito) that benefits.
+}
+
+::Q9 - Eavesdropping parasitoid::Some parasitoid wasps locate their host insect by "eavesdropping" on the sex pheromone that host insect releases to attract its own mates. The wasp benefits by finding a host to parasitize; the host insect is harmed by this eavesdropping. From the wasp's perspective, the host's pheromone is functioning as a:{
+=Kairomone#Correct - the signal was "meant" for another member of the host's species, but the wasp (a different species) intercepts it for its own benefit - a classic kairomone.
+~Pheromone#From the eavesdropping wasp's perspective the signal crosses species lines, which is not a pheromone relationship.
+~Synomone#Synomone requires mutual benefit - the host insect is harmed, not benefited.
+~Allomone#Allomone would mean only the emitter (the host insect) benefits - here the receiver (the wasp) is the one that benefits.
+}
+
+// ---------- SYNTHESIS: matching ----------
+
+::Q10 - Match the category to who benefits::Match each infochemical category to the correct description of who benefits from the chemical signal. {
+=Pheromone -> Emitter and receiver are the same species
+=Synomone -> Different species; both emitter and receiver benefit
+=Allomone -> Different species; only the emitter benefits
+=Kairomone -> Different species; only the receiver benefits
+}

@@ -1,0 +1,82 @@
+// Chemical Ecology - Week 2: Infochemicals - Batch 2
+// Moodle question bank - GIFT format
+// Import: Moodle > Question bank > Import > GIFT format > select this file
+// 10 questions, all examples drawn from NON-INSECT animals (mammal, fish,
+// amphibian, cephalopod) to complement Batch 1 (which leaned heavily on
+// insect examples: mosquito, wasp, aphid, beetle).
+// Spread: 3 pheromone, 2 synomone, 3 allomone, 2 kairomone.
+
+$CATEGORY: $course$/Week 02 - Infochemicals (Batch 2, non-insect)
+
+// ---------- PHEROMONE ----------
+
+::Q1 - Sea lamprey migration::Larval sea lampreys release a bile-acid-derived compound (petromyzonol sulfate) into the stream where they live. Adult sea lampreys of the *same species* detect it and migrate upstream toward it to spawn, since it signals good larval habitat. This chemical signal is a:{
+=Pheromone#Correct - emitter (larvae) and receiver (migrating adults) are the same species, which defines a pheromone.
+~Synomone#Synomone describes an interspecific (different-species) signal that benefits both sides - lampreys signaling to lampreys is intraspecific.
+~Allomone#Allomone describes an interspecific signal that benefits only the emitter - this signal is intraspecific.
+~Kairomone#Kairomone describes an interspecific signal that benefits only the receiver - this signal is intraspecific.
+}
+
+::Q2 - Fish alarm substance::When the skin of a minnow is damaged (e.g., by a predator's bite), it releases a compound sometimes called "Schreckstoff," which causes other minnows of the *same species* nearby to freeze or flee. This chemical signal is a:{
+=Pheromone#Correct - an alarm pheromone: emitter and receiver are the same species.
+~Synomone#Synomones act between different species - this alarm cue is minnow-to-minnow.
+~Allomone#Allomones act between different species - this alarm cue is minnow-to-minnow.
+~Kairomone#Kairomones act between different species - this alarm cue is minnow-to-minnow (though see a later question about who else might listen in).
+}
+
+::Q3 - Elephant musth::Male elephants entering "musth" (a period of heightened aggression and reproductive activity) secrete fluid from their temporal glands containing signaling compounds such as frontalin. Other elephants of the *same species* use this to assess the signaler's reproductive and social status. This is an example of a(n):{
+=Pheromone#Correct - a status/reproductive signal exchanged between members of the same species is a pheromone.
+~Synomone#Synomones are interspecific - this signal is elephant-to-elephant.
+~Allomone#Allomones are interspecific - this signal is elephant-to-elephant.
+~Kairomone#Kairomones are interspecific - this signal is elephant-to-elephant.
+}
+
+// ---------- SYNOMONE (benefits both emitter and receiver) ----------
+
+::Q4 - Bat-pollinated flowers::Some flowers that are pollinated by nectar-feeding bats open only at night and produce a strong, musty/fermented scent that bats find highly attractive. The bat gets a meal (nectar); the plant gets pollinated. This chemical signal is a:{
+=Synomone#Correct - both the emitting plant and the receiving bat benefit, which defines a synomone.
+~Pheromone#Pheromones are signals within the same species - the flower and the bat are different species (and different kingdoms).
+~Allomone#Allomone would mean only the plant benefits - but the bat benefits too (it gets food).
+~Kairomone#Kairomone would mean only the bat benefits - but the plant benefits too (it gets pollinated).
+}
+
+::Q5 - Fruit scent and seed dispersal::A ripening fruit releases a strong volatile scent that attracts a fruit-eating bird or bat. The animal gets food; the plant's seeds get carried away and dispersed, often germinating far from the parent plant. This chemical signal is a:{
+=Synomone#Correct - both the emitting plant and the receiving animal benefit, which defines a synomone.
+~Pheromone#Pheromones are signals within the same species - the plant and the animal are different species.
+~Allomone#Allomone would mean only the plant benefits - but the animal benefits too (it gets food).
+~Kairomone#Kairomone would mean only the animal benefits - but the plant benefits too (seed dispersal).
+}
+
+// ---------- ALLOMONE (benefits only the emitter) ----------
+
+::Q6 - Skunk spray::When threatened, a skunk (*moufette*, Mephitis mephitis) sprays a foul-smelling sulfur compound at a predator. The skunk benefits by escaping; the predator gains nothing and is simply repelled. This chemical signal is a(n):{
+=Allomone#Correct - only the emitter (the skunk) benefits, at the receiver's expense - the defining feature of an allomone.
+~Pheromone#The skunk and the predator (e.g., a dog or coyote) are different species, so this is not a pheromone.
+~Synomone#Synomone requires mutual benefit - the predator does not benefit from being sprayed.
+~Kairomone#Kairomone would mean only the receiver (the predator) benefits - here it is the emitter (the skunk) that benefits.
+}
+
+::Q7 - Octopus ink cloud::When attacked, an octopus releases a cloud of ink that also interferes with a predator's senses of smell and taste. The octopus benefits by escaping while the predator is confused; the predator gains no benefit at all.{T#Correct - only the emitter (the octopus) benefits, at the predator's expense, which is exactly what defines an allomone.#Incorrect - re-read the scenario: only the octopus benefits here, so this signal is classified as an allomone, not something else.}
+
+::Q8 - Poison dart frog toxin::Poison dart frogs (e.g., Phyllobates species) store potent toxins (such as batrachotoxin) in their skin. A predator that bites or eats one is harmed or deterred; the frog population benefits because predators learn to avoid them. From the frog's perspective, this defensive chemical is a(n):{
+=Allomone#Correct - only the emitter (the frog) benefits from this chemical defense; the predator is harmed, not benefited.
+~Pheromone#The frog and the predator are different species, so this is not a pheromone.
+~Synomone#Synomone requires mutual benefit - the predator does not benefit from being poisoned.
+~Kairomone#Kairomone would mean only the receiver (the predator) benefits - here it is the emitter (the frog population) that benefits.
+}
+
+// ---------- KAIROMONE (benefits only the receiver) ----------
+
+::Q9 - Vampire bats finding a host::Vampire bats (Desmodus rotundus) use several cues - including body odor and exhaled CO2 - from a sleeping mammal to locate a blood meal. The bat benefits by feeding; the host animal gains nothing from emitting these cues (and is harmed by the bite). This is an example of a:{
+=Kairomone#Correct - only the receiver (the bat) benefits, at the emitter's (the host's) expense - the defining feature of a kairomone.
+~Pheromone#The bat and its mammalian host are different species, so this is not a pheromone.
+~Synomone#Synomone requires mutual benefit - the host does not benefit from being fed on.
+~Allomone#Allomone would mean only the emitter (the host) benefits - here it is the receiver (the bat) that benefits.
+}
+
+::Q10 - Predatory fish eavesdropping::Recall Q2: minnows release an alarm substance when injured. Some predatory fish, such as pike, can detect this same alarm substance and use it to locate an already-injured, easy-to-catch prey fish nearby. From the pike's point of view, the minnow's alarm substance is now functioning as a:{
+=Kairomone#Correct - the signal was "meant" for other minnows, but the pike (a different species) intercepts and exploits it for its own benefit - a classic kairomone, and a nice example of how the SAME molecule can be a pheromone to one receiver and a kairomone to an eavesdropping one.
+~Pheromone#From the pike's perspective the signal crosses species lines - that is not a pheromone relationship (even though it IS a pheromone from one injured minnow to other minnows).
+~Synomone#Synomone requires mutual benefit - the injured minnow does not benefit from being found by a predator.
+~Allomone#Allomone would mean only the emitter (the minnow) benefits - here it is the receiver (the pike) that benefits.
+}
