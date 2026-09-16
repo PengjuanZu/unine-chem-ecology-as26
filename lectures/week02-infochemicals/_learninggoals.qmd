@@ -1,5 +1,10 @@
 ## Learning Goals {background-color="#1B4332"}
 
-# At the end of Today you can:
-- Understand history of Chemicale Ecology
-- What is Chemical Ecology
+*Objectifs d'apprentissage*
+
+By the end of today, you can:
+
+- Define "infochemical" and classify a signal by who benefits from it
+- Explain why chemical communication evolved alongside other senses
+- Describe how olfactory receptors work, and why the same compound can
+  be perceived differently by different individuals or species

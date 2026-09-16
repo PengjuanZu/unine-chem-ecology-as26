@@ -1,0 +1,80 @@
+## Smell Test {background-color="#1B4332"}
+
+*Test olfactif*
+
+::: {.notes}
+Transition into Part 2, ~5 sec. This opens Part 2 deliberately — a
+hands-on activity right after the break, before more theory.
+:::
+
+## Activity: 4 strips, 15 groups
+
+<!-- TODO: prep 15 sets of 4 labeled strips (or diffuser stations) -
+one clove, one lavender, one patchouli, one ylang-ylang per group of
+4 students. Don't reveal which oil is which until the debrief. -->
+
+- **Clove** — a real chemical deterrent (eugenol is a documented
+  natural insect repellent)
+- **Lavender** — broadly liked across cultures; a "consensus pleasant"
+  control
+- **Patchouli** & **Ylang-ylang** — both classic "love it or hate it"
+  scents, for different reasons (earthy/musty vs. intensely sweet)
+
+::: {.notes}
+~1 min setup/instructions. Keep labels hidden - "strip A/B/C/D" -
+until after the vote, so reactions aren't biased by expectation.
+:::
+
+## Step 1 — smell & rate, individually
+
+Each person in your group of 4 smells all 4 strips **on their own**
+and privately notes: 👍 like / 👎 dislike / 😐 neutral for each.
+
+⏳ 4 minutes.
+
+::: {.notes}
+Individual first, before any discussion — this is the step that
+generates real variance to talk about later. Walk the room with
+strips/stations if using a shared set per group.
+:::
+
+## Step 2 — compare within your group
+
+Share your ratings with your group of 4. Did you all react the same
+way to each strip?
+
+⏳ 3 minutes.
+
+::: {.notes}
+~3 min. Groups of 4 should already start noticing disagreement here,
+especially on patchouli/ylang-ylang.
+:::
+
+## Step 3 — whole-class show of hands
+
+For each strip: *raise your hand if your group had a genuine
+disagreement (at least one like AND at least one dislike).*
+
+::: {.notes}
+~3 min across all 4 strips. With 15 groups this is fast and visual -
+expect clove and lavender to show mostly consensus, patchouli/
+ylang-ylang to show many raised hands.
+:::
+
+## Debrief {.hook}
+
+> **Why might the exact same chemical signal be perceived so
+> differently by different people?**
+>
+> *Pourquoi un même signal chimique peut-il être perçu si
+> différemment selon les personnes ?*
+
+⏳ Open discussion, a few volunteers.
+
+::: {.notes}
+Let intuitions surface: genetics (some people are "blind" to specific
+compounds — specific anosmia), prior experience/memory, cultural
+association, concentration/context. Don't resolve fully here - the
+next section (olfactory receptors) gives the mechanism. ~4 min.
+Total activity: ~15 min.
+:::

@@ -1,6 +1,10 @@
 ---
 title: "Infochemicals"
 subtitle: "Infochimiques"
+# TODO: add topic-image: "images/your-file.jpg" once you have a photo
+# for this week's title slide (see README.md "Adding pictures to a
+# slide" for the convention). Without it, the title text just takes
+# the full width - that's an intentional, safe fallback.
 format:
   revealjs:
     theme: [default, ../../styles/forest-theme.scss]
@@ -17,3 +21,15 @@ format:
 ---
 
 {{< include _learninggoals.qmd >}}
+
+{{< include _agenda.qmd >}}
+
+{{< include _intro.qmd >}}
+
+{{< include _infochemicals.qmd >}}
+
+{{< include _smelltest.qmd >}}
+
+{{< include _olfactory.qmd >}}
+
+{{< include _infotheory.qmd >}}

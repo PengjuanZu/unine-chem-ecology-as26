@@ -1,0 +1,21 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+**Part 1**
+
+| | |
+|---|---|
+| 👃 How animals sense their world | *Comment les animaux perçoivent le monde* |
+| 🧪 Infochemicals: definition & categories | *Infochimiques : définition et catégories* |
+| ✅ Quiz: classify the examples | *Quiz : classez les exemples* |
+
+**Part 2**
+
+| | |
+|---|---|
+| 🌸 Smell test (group activity) | *Test olfactif (activité en groupe)* |
+| 🧠 Olfactory receptors — human & insect | *Récepteurs olfactifs — humain et insecte* |
+| 📡 Information & information theory | *Information et théorie de l'information* |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::

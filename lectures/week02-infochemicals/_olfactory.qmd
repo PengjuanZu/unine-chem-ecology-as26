@@ -1,0 +1,75 @@
+## Olfactory Receptors {background-color="#1B4332"}
+
+*Récepteurs olfactifs*
+
+::: {.notes}
+Transition, ~5 sec. Bridges directly from the smell test's unresolved
+question.
+:::
+
+## Human vs. insect olfaction
+
+- Humans: ~400 functional **olfactory receptor (OR)** genes,
+  expressed in the nose
+- Insects: a completely different OR gene family, expressed on the
+  **antennae** — often far more sensitive and specific to individual
+  compounds than human noses
+- Recall Week 1: **GC-EAD** works precisely because an insect's own
+  antenna can be wired up as an ultra-selective detector
+
+::: {.notes}
+~1.5 min. Direct callback to Story 1's "one living antenna."
+:::
+
+## Example: asparagus and the smell of urine {.hook}
+
+<!-- TODO: optional image here. -->
+
+> **Some people notice a strong odor in their urine after eating
+> asparagus — others notice nothing at all. Why?**
+>
+> *Certaines personnes remarquent une forte odeur dans leur urine
+> après avoir mangé des asperges — d'autres ne remarquent rien. Pourquoi ?*
+
+⏳ 45 seconds.
+
+::: {.notes}
+Let guesses land before the explanation. ~1.5 min.
+:::
+
+## Explanation
+
+- Asparagus contains a sulfur compound that some — not all — people's
+  bodies metabolize into odorous byproducts
+- Separately, **not everyone can smell those byproducts even when
+  they're present** — a specific olfactory receptor variant is needed
+- Two independent sources of variation stacked on top of each other
+
+**Same compound, same exposure — different genes, different
+perception.**
+
+::: {.notes}
+~1.5 min. This is the mechanistic answer to the smell-test debrief:
+specific anosmia is real, genetic, and well-documented (the classic
+example is being unable to smell androstenone, or perceiving cilantro
+as "soapy").
+:::
+
+## The canary in the coal mine {.hook}
+
+Coal miners once carried caged canaries underground. Canaries are far
+more sensitive to carbon monoxide than humans — if the canary showed
+distress or died, miners knew to get out **before** the gas reached a
+dangerous concentration for them.
+
+> **Humans can detect *tert*-butyl mercaptan — the odorant added to
+> natural gas as a safety warning — at concentrations of about
+> 0.3 parts per billion.**
+
+::: {.notes}
+~1.5 min. Two ideas in one slide: (1) species differ enormously in
+detection sensitivity to the same threat, (2) even human olfaction,
+generally unremarkable compared to other animals, can be exquisitely
+sensitive to specific compounds when it matters. Sets up the
+"detection threshold" idea for the information theory section.
+:::

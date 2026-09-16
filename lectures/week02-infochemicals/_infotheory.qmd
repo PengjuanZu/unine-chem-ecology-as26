@@ -1,0 +1,83 @@
+## Information & Information Theory {background-color="#1B4332"}
+
+*Information et théorie de l'information*
+
+::: {.notes}
+Transition, ~5 sec. This closes the session by zooming out - naming
+the formal lens underneath everything covered today.
+:::
+
+## What makes something "information"?
+
+- A signal only carries information if it **changes what the
+  receiver does**
+- It must first clear a **detection threshold** — recall: 0.3 ppb for
+  humans and mercaptan, but a level a canary reacts to far sooner for
+  carbon monoxide
+- Below threshold, or if the receiver can't decode it at all (no
+  matching receptor — recall the asparagus example), the exact same
+  molecule carries **zero** information
+
+::: {.notes}
+~1.5 min. Ties the smell test + olfactory receptor material directly
+into a formal definition.
+:::
+
+## Signal vs. noise
+
+- **Signal**: the part of a chemical blend that reliably predicts
+  something the receiver can act on
+- **Noise**: everything else — background compounds, other species'
+  emissions, wind-mixed odors
+- A receiver's whole olfactory system is, in effect, a filter tuned
+  by evolution to pull signal out of noise
+
+::: {.notes}
+~1 min.
+:::
+
+## Honest signals vs. exploited signals
+
+- **Honest signal**: reliably correlates with something real (a
+  sex pheromone that reliably indicates a real, receptive mate)
+- **Exploited/dishonest signal**: the receiver acts on it, but it
+  doesn't mean what they think it means — recall Week 1 Story 3:
+  *Ophrys* orchids chemically mimicking a female wasp's pheromone
+
+**Deception is only possible because the underlying system usually
+carries honest information — it's cheating a channel that normally
+works.**
+
+::: {.notes}
+~1.5 min. Nice full-circle moment back to Week 1's flower-deception
+story, now reframed in information-theoretic terms.
+:::
+
+## Back to the classification
+
+Every category from Part 1 is really a question about
+**information flow**:
+
+- **Pheromone vs. allelochemical** — who is the intended receiver?
+- **Allomone / kairomone / synomone** — who benefits from the
+  information being transferred?
+- **Honest vs. exploited** — is the signal reliable, or hijacked?
+
+::: {.notes}
+~1 min. Explicit synthesis, naming the unifying thread.
+:::
+
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+- Chemical communication is ancient, universal, and often more
+  important than vision or sound for the species that rely on it
+- "Infochemical" is the umbrella; the categories are all about **who
+  sends, who receives, and who benefits**
+- Individual variation in perception (today's smell test) has a real
+  genetic and physiological basis, not just personal taste
+
+**Next week: plant–herbivore interactions.**
+
+::: {.notes}
+~1-1.5 min. Close warmly, bridge to Week 3. End of session.
+:::
