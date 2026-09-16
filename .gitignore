@@ -5,4 +5,8 @@
 /.quarto/
 /docs/
 
+# Backup PDF exports (large, derived from the rendered deck - regenerate
+# rather than commit)
+*-BACKUP.pdf
+
 **/*.quarto_ipynb

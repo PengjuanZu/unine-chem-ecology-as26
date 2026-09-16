@@ -1,0 +1,17 @@
+## TODO: Core idea 1 {background-color="#1B4332"}
+
+TODO: one idea per slide where possible — avoid dense walls of text.
+
+::: {.notes}
+Speaker notes: what to say that isn't on the slide, timing target.
+:::
+
+## TODO: Core idea 2
+
+TODO
+
+![TODO: caption](images/TODO.png){width="70%" fig-align="center"}
+
+::: {.notes}
+TODO
+:::

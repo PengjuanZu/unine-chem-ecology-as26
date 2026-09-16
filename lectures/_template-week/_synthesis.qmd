@@ -1,0 +1,28 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+# Back to today's goals
+
+- TODO: goal 1 — how it was addressed
+- TODO: goal 2 — how it was addressed
+- TODO: goal 3 — how it was addressed
+
+::: {.notes}
+Explicitly close the loop on the learning-goals slide — say each goal
+out loud and point to the moment in the session that delivered it.
+~1-2 min.
+:::
+
+## Your turn {background-color="#1B4332"}
+
+### TODO: an open, reflective question — e.g. "what's still unresolved?"
+### or a one-line "muddiest point" prompt.
+
+⏳ Quick share — a few volunteers.
+
+*Merci!*
+
+::: {.notes}
+Genuine open question or exit-ticket style prompt — no need to resolve
+it live. Doubles as informal feedback on what did/didn't land. Close
+warmly. Total session target: TODO min.
+:::

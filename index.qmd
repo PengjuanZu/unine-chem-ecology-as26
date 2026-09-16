@@ -7,7 +7,7 @@ Taught by Prof. Pengjuan Zu.
 
 ## Lectures
 
-- [**Week 1 — Three Mysteries in Chemical Ecology**](lectures/week01-history-of-chemical-ecology/index.qmd)
+- [**Week 1 — Introduction to Chemical Ecology**](lectures/week01-history-of-chemical-ecology/index.qmd)
   A ~30-minute interactive history of pheromone discovery, plant defense signaling,
   and floral deception, with built-in discussion pauses.
 

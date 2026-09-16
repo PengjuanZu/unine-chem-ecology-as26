@@ -1,0 +1,31 @@
+---
+title: "TODO: Week Title"
+subtitle: "TODO : titre en français"
+topic-image: "images/TODO.jpg"
+format:
+  revealjs:
+    theme: [default, ../../styles/forest-theme.scss]
+    slide-number: c/t
+    transition: fade
+    chalkboard: false
+    embed-resources: true
+    center: false
+    margin: 0.04
+    template-partials:
+      - ../../title-slide.html
+    title-slide-attributes:
+      data-background-color: "#1B4332"
+    include-after-body: ../../progress-header.html
+---
+
+{{< include _agenda.qmd >}}
+
+{{< include _learninggoals.qmd >}}
+
+{{< include _hook.qmd >}}
+
+{{< include _content.qmd >}}
+
+{{< include _checkpoint.qmd >}}
+
+{{< include _synthesis.qmd >}}
