@@ -69,12 +69,10 @@ Every category from Part 1 is really a question about
 
 ## Synthesis · Synthèse {background-color="#1B4332"}
 
-- Chemical communication is ancient, universal, and often more
-  important than vision or sound for the species that rely on it
+- Chemical communication is ancient, universal, and important channel of communications.
 - "Infochemical" is the umbrella; the categories are all about **who
   sends, who receives, and who benefits**
-- Individual variation in perception (today's smell test) has a real
-  genetic and physiological basis, not just personal taste
+- Certain species evolved to highly developed senses, but with trade-offs
 
 **Next week: plant–herbivore interactions.**
 

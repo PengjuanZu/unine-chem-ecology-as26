@@ -13,6 +13,19 @@ $presentation-h2-font-size: 1.7em;
 $presentation-h3-font-size: 1.2em;
 
 /*-- scss:rules --*/
+// Reveal.js's own CSS gives html height:100vh, but never gives body a
+// definite height - and .reveal-viewport/.reveal both rely on
+// height:100% to fill the page. A percentage height only resolves
+// when every ancestor in the chain has a definite (non-percentage)
+// height, so without this, body silently falls back to auto (sized by
+// its content) and Reveal's own viewport-size math goes wrong -
+// visible live (wrong slide scale/position), invisible in PDF/print
+// export (a different, non-JS layout path). Same root cause as the
+// .title-slide-image fix below, just one level higher up the DOM.
+html, body {
+  height: 100%;
+}
+
 .reveal .slide-background {
   background-color: #ffffff;
 }
@@ -24,6 +37,59 @@ $presentation-h3-font-size: 1.2em;
 
 .reveal a {
   text-decoration: underline;
+}
+
+// Highlight just the heading text with a colored badge, instead of
+// the whole slide background (that's what {background-color="..."}
+// on a heading does - a slide-level attribute, not a text style).
+// Usage: ## Slide Title {.title-badge}
+.reveal .title-badge {
+  display: inline-block;
+  background-color: #1B4332;
+  color: #ffffff !important;
+  padding: 0.15em 0.5em;
+  border-radius: 6px;
+}
+
+// Shrink a block of text (e.g. a dense list, or a column next to a
+// wide image) without affecting the rest of the slide, e.g.:
+//   ::: {.small-text}
+//   - detail 1
+//   - detail 2
+//   :::
+.reveal .small-text {
+  font-size: 0.7em;
+}
+
+// Force every image in a row of .columns to the same height,
+// regardless of each photo's own aspect ratio (percentage widths
+// don't do this - a tall/narrow photo and a short/wide one at the
+// same % width still end up very different heights). Width is left
+// to scale automatically. Usage: wrap the {.columns} div itself, e.g.
+//   :::: {.columns .equal-height-row}
+//   ::: {.column width="25%"}
+//   ![](images/a.jpg){.nostretch}
+//   :::
+//   ...
+//   ::::
+// !important on width: Quarto auto-adds an inline width:80% style to
+// any image with no explicit width given, which otherwise beats this
+// rule (inline always outranks an external stylesheet for the same
+// property) - leaving width pinned to 80% AND height pinned to 12em
+// independently, with no regard for the image's own aspect ratio.
+.reveal .equal-height-row img {
+  height: 12em;
+  width: auto !important;
+  max-width: 100%;
+}
+
+// Nested bullets (sub-points under a top-level list item) render a
+// size smaller, so the hierarchy is visible at a glance.
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ul,
+.reveal ol ol {
+  font-size: 0.75em;
 }
 
 // Wrap any block in one of these to control its alignment, e.g.:
@@ -128,7 +194,12 @@ $presentation-h3-font-size: 1.2em;
 // inline emphasis (that's used mid-sentence, e.g. journal titles).
 .reveal p > em:only-child,
 .reveal td > em:only-child,
-.reveal th > em:only-child {
+.reveal th > em:only-child,
+// Same convention, but inside a list item as English<br>*French*
+// (used throughout this deck for per-bullet translations) rather than
+// as its own standalone paragraph - the <em> is the sibling right
+// after the <br>.
+.reveal li br + em {
   opacity: 0.7;
 }
 
@@ -143,9 +214,19 @@ $presentation-h3-font-size: 1.2em;
 
 // Custom title slide: corner logos, centered course header,
 // title/subtitle/author on the left, weekly topic image on the right.
+//
+// Background color is set directly here (not via each week's
+// title-slide-attributes YAML key) because title-slide-attributes +
+// embed-resources: true is a known, unfixed Quarto bug (quarto-dev/
+// quarto-cli#7221): it breaks slide separation and mis-positions the
+// deck's 2nd/3rd slides. Every other dark slide in this project uses
+// a per-slide {background-color="#1B4332"} Pandoc attribute instead
+// (a completely different, unaffected mechanism) - only the
+// auto-generated title slide was going through the buggy YAML path.
 .reveal .slides section.title-slide-custom {
   position: relative;
   padding: 0;
+  background-color: #1B4332;
 }
 
 .reveal .title-slide-header {

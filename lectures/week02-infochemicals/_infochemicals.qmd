@@ -13,7 +13,6 @@ Transition, ~5 sec.
 *Signaux (ou médiateur) chimiques émis par un organisme et modifiant le comportement et/ou la physiologie d'autres organismes
 *
 
-Every story from Week 1 was really about one of these.
 
 ::: {.notes}
 ~1 min. This is the umbrella term over pheromones AND allelochemicals
@@ -27,27 +26,64 @@ benefits*.
 
 - **Pheromone** — signal *within* the same species (intra-specific)
 - **Allelochemical** — signal *between* different species (inter-specific)
-
-The second category splits further by **who benefits**: the sender,
-the receiver, or both.
+  - further split by **who benefits**: the sender, the receiver, or both.
 
 ::: {.notes}
 ~30 sec. Set up the tree before filling in the leaves.
 :::
 
-## More examples
+## Examples: (1) Moths
+![Moths](images/Moths.png){width="50%" .nostretch}
 
-- A queen bee's pheromone suppresses worker ovary development
-- A moth "listens in" on a bat's echolocation calls to evade capture
-- Sagebrush releases volatiles after damage that "warn" — and prime the
+## (2) Turlings' maize (HIPV)
+![HIPV](images/HIPV_maize.png)
+
+## (3) Deceptive orchid
+:::: {.columns}
+::: {.column width="50%"}
+![*Ophrys*](images/flyOrchid.jpg){width="60%" .nostretch}
+:::
+::: {.column width="50%"}
+![*Cryptostylis*](images/Cryptostylis.jpg){width="87%" .nostretch}
+:::
+::::
+
+
+
+
+## (4) Honeybee sting
+Honeybees release Isoamyl acetate at a sting site to recruit other bees fight against invader 
+
+![Honeybee Sting](images/honeybeeSting.jpg)
+
+## (5) Aphid dropping
+
+Aphids can release (E)-β-farnesene when disturbed by natural enemies, inducing dropping behavior of other aphids
+ 
+![Aphid dropping](images/AphidDropping.jpg){width="50%" .nostretch}
+
+## (6) Millipede defense
+Some millipedes (Diplopoda: Polydesmida) secrete hydrogen cyanide for defense.
+
+![Millipede defense](images/miliped.png){width="30%" .nostretch}
+
+## A few more examples
+- **(7)**A queen bee's pheromone suppresses worker ovary development
+- **(8)**Clove eugenol: Eugenol, the main compound in clove (*Syzygium aromaticum*) essential oil, deters insects from feeding on the plant that produces it.
+- **(9)**Sagebrush releases volatiles after damage that "warn" — and prime the
   defenses of — neighboring sagebrush plants
+- **(10)**Hundreds of bark beetles converge on a single tree after the first arrivals release a chemical drawing others to join them.
 
 ::: {.notes}
 ~1 min. Don't over-explain these — they're here so the quiz that
 follows isn't limited to only the examples already discussed in
 depth.
+- A moth "listens in" on a bat's echolocation calls to evade capture
+
 :::
 
+
+<!--
 ## Quiz: classify it {.hook}
 
 **In your group** — is this a sex, alarm, aggregation, or trail
@@ -88,3 +124,16 @@ expense). ~1.5 min with reveal.
 Answer: aggregation pheromone (same species, mass-attack strategy).
 ~1.5 min with reveal. End of Part 1.
 :::
+
+-->
+
+## A few more examples:
+![](images/bonus.png){width="30%" .nostretch fig-align="center"}
+
+
+## Some cool things to watch
+- [Sexual deception of orchids](https://www.youtube.com/watch?v=hmI-rJuYAjw)
+
+- [Blister beetle larvae hitchhiking on bees](https://www.youtube.com/watch?v=ZQ8h1YBTSvE)
+
+- [Biocontrol on pest using Trichogramma (egg parasitoid)](https://www.youtube.com/watch?v=GdBKDTYR57o)

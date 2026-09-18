@@ -1,13 +1,12 @@
-## Learning Goals {background-color="#1B4332"}
+## Learning Goals
 
 *Objectifs d'apprentissage*
 
 By the end of today, you can:
 
-- Understand the senses of insects
-- Define "infochemical" and classify infochemical types (pheromone
-  subtypes; allomone, kairomone, synomone) from concrete examples 
-- Explain sensory evolution<br>
-  -Provide evolutionary explanations for why certain species have highly developed senses<br>
-  -Discuss trade-offs of sensory specialization
-- Frame chemical communication as an information-transfer process
+- Name the senses of animals
+- Define and classify infochemicals
+- Explain sensory evolution
+  - Provide evolutionary explanations for why certain species have highly developed senses
+  - Discuss trade-offs of sensory specialization
+ 

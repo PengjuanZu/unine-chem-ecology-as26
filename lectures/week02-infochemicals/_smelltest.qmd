@@ -1,17 +1,32 @@
-## Smell Test {background-color="#1B4332"}
-
+## [Smell Test]{.title-badge}
 *Test olfactif*
 
+:::: {.columns}
+::: {.column width="50%"}
+![](images/smellTest.png){width="100%" .nostretch fig-align="center"}
+:::
+::: {.column width="50%"}
+- Each person in your group of 4 smells all 4 strips **on their own**
+and privately notes: like / dislike / neutral for each.
+- Share your ratings with your group. Did you all react the same
+way to each strip?
+- Fill your ratings to Moodle --> Smell test
+:::
+::::
+
+
+
+<!--
 ::: {.notes}
-Transition into Part 2, ~5 sec. This opens Part 2 deliberately — a
-hands-on activity right after the break, before more theory.
+For each strip: *raise your hand if your group had a genuine
+disagreement (at least one like AND at least one dislike)
 :::
 
 ## Activity: 4 strips, 15 groups
 
-<!-- TODO: prep 15 sets of 4 labeled strips (or diffuser stations) -
+TODO: prep 15 sets of 4 labeled strips (or diffuser stations) -
 one clove, one lavender, one patchouli, one ylang-ylang per group of
-4 students. Don't reveal which oil is which until the debrief. -->
+4 students. Don't reveal which oil is which until the debrief.
 
 - **Clove** — a real chemical deterrent (eugenol is a documented
   natural insect repellent)
@@ -60,16 +75,19 @@ disagreement (at least one like AND at least one dislike).*
 expect clove and lavender to show mostly consensus, patchouli/
 ylang-ylang to show many raised hands.
 :::
+-->
 
-## Debrief {.hook}
+## Discussion {.hook}
 
-> **Why might the exact same chemical signal be perceived so
-> differently by different people?**
->
-> *Pourquoi un même signal chimique peut-il être perçu si
-> différemment selon les personnes ?*
+- Any ideas what they are? (clove, lavender, etc.?)<br>
+  *Une idée de ce que c'était ? (clou de girofle, lavande, etc. ?)*
+- **Why might the exact same chemical signal be perceived
+  differently by different people?**<br>
+  *Pourquoi un même signal chimique peut-il être perçu si
+  différemment selon les personnes ?*
+- Will insects be attracted or deterred by the smell?<br>
+  *Est-ce que les insectes seraient attirés ou repoussés par cette odeur ?*
 
-⏳ Open discussion, a few volunteers.
 
 ::: {.notes}
 Let intuitions surface: genetics (some people are "blind" to specific
@@ -90,6 +108,25 @@ next section (olfactory receptors) gives the mechanism. ~4 min.
 | 3 | Patchouli | *Pogostemon cablin* | Leaves (dried, fermented) | Patchoulol | Perfume fixative/base note, insect repellent |
 | 4 | Ylang-ylang | *Cananga odorata* | Flowers | Linalool, germacrene D, benzyl acetate | Perfumery, aromatherapy, traditional hair care |
 :::
+
+:::: {.columns}
+::: {.column width="25%"}
+![Lavender](images/Lavender_plant.webp){width="85%" .nostretch}
+
+:::
+::: {.column width="25%"}
+![Clove](images/Clove_plant.jpg){width="55%" .nostretch}
+:::
+
+::: {.column width="25%"}
+![Patchouli](images/patchouli.png){width="100%" .nostretch}
+
+:::
+::: {.column width="25%"}
+![Ylang-ylang](images/Ylang-ylang.png){width="65%" .nostretch}
+
+:::
+::::
 
 ::: {.notes}
 ~1 min. Now that reactions are already on the table, reveal identity

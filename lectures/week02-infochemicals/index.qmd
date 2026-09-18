@@ -1,6 +1,6 @@
 ---
-title: "Infochemicals"
-subtitle: "Infochimiques"
+title: "Infochemicals (Semiochemicals)"
+subtitle: "Infochimiques (Sémiochimiques)"
 topic-image: "images/Infochemical.png"
 topic-image-style: "object-fit: contain;"
 
@@ -15,8 +15,7 @@ format:
     margin: 0.04
     template-partials:
       - ../../title-slide.html
-    title-slide-attributes:
-      data-background-color: "#1B4332"
+    include-after-body: ../../layout-fix.html
 ---
 
 {{< include _learninggoals.qmd >}}
@@ -31,4 +30,3 @@ format:
 
 {{< include _olfactory.qmd >}}
 
-{{< include _infotheory.qmd >}}
