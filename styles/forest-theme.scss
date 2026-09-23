@@ -13,6 +13,14 @@ $presentation-h2-font-size: 1.7em;
 $presentation-h3-font-size: 1.2em;
 
 /*-- scss:rules --*/
+// Tell browsers this page is deliberately light-themed, so their own
+// "force dark mode on websites" features (common in Chrome, Safari's
+// Smart Invert, etc.) don't repaint transparent image regions black -
+// those features rewrite colors after rendering, ignoring our own
+// white slide-background CSS entirely unless we opt out like this.
+:root {
+  color-scheme: light;
+}
 // Reveal.js's own CSS gives html height:100vh, but never gives body a
 // definite height - and .reveal-viewport/.reveal both rely on
 // height:100% to fill the page. A percentage height only resolves
