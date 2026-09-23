@@ -1,0 +1,14 @@
+## Learning Goals {background-color="#1B4332"}
+
+*Objectifs d'apprentissage*
+
+By the end of today, you can:
+
+- Explain why plants cannot simply run away from herbivores, and what
+  that means for how they defend themselves
+- Distinguish plant **direct resistance** (physical, chemical,
+  constitutive, induced) from **tolerance**, with concrete examples
+  of each
+- Explain how herbivores counter plant direct resistance (behavioral
+  avoidance, detoxification, sequestration, hijacking host metabolism)
+- Preview **indirect resistance** as next week's third strategy

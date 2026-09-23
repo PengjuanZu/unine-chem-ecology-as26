@@ -1,0 +1,107 @@
+## Plant Direct Resistance {background-color="#1B4332"}
+
+*Résistance directe des plantes*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## What is "resistance"?
+
+> A plant trait that reduces herbivore **preference** (they choose it
+> less) and/or **performance** (they grow/survive/reproduce worse on
+> it) — the plant fights back directly, with its own tissues and
+> chemistry.
+
+Recall Week 2's classification: a defense that benefits only the
+emitter (the plant), at the herbivore's expense, is an **allomone**.
+
+::: {.notes}
+~1 min. Direct callback to Week 2's infochemical classification -
+resistance traits are the physical/chemical embodiment of what an
+allomone does at the whole-organism level.
+:::
+
+## Two independent axes
+
+Direct resistance varies along two separate dimensions at once:
+
+| | **Physical** | **Chemical** |
+|---|---|---|
+| **Constitutive** (always present) | thorns, trichomes, tough cuticle | baseline toxins, always "loaded" |
+| **Induced** (made/boosted after attack) | callus, extra trichomes after damage | toxin production ramps up on attack |
+
+::: {.notes}
+~1.5 min. Set up this 2x2 up front - the rest of the section just
+fills in examples for each cell. Physical vs. chemical is about *how*
+the plant defends; constitutive vs. induced is about *when*.
+:::
+
+## Physical resistance: constitutive examples
+
+- **Trichomes** (leaf/stem hairs) — physically impede small
+  insects, some are hooked or glandular (sticky, or chemical-tipped)
+- **Thorns and spines** — deter large vertebrate browsers
+- **Tough cuticle, high silica content** — wear down insect
+  mandibles (grasses are notoriously silica-rich for this reason)
+- **Latex and resin canals** — flood a wound with sticky, often
+  toxin-laden fluid the instant tissue is cut
+
+::: {.notes}
+~1.5 min. Latex/resin canals are a nice bridge slide - physically
+disabling AND chemically loaded at once, foreshadowing that the
+physical/chemical split is often blurry in practice.
+:::
+
+## Chemical resistance: constitutive examples
+
+- **Cyanogenic glycosides** in cassava, almond, sorghum — release
+  cyanide when tissue is crushed (by a chewing herbivore)
+- **Glucosinolates** in *Brassica* (broccoli, Brussels sprouts,
+  mustard) — the same bitter compounds behind human taste variation
+  (recall Week 2's TAS2R38 story) also deter many insect herbivores
+- **Nicotine** in tobacco — a baseline, constantly-present
+  neurotoxin, not something the plant has to "decide" to make
+
+::: {.notes}
+~1.5 min. Direct callback to the Brussels sprouts/broccoli TAS2R38
+conversation from Week 2 - same compounds, now viewed from the plant
+defense side instead of the human taste side.
+:::
+
+## Chemical resistance: induced examples
+
+- **Proteinase inhibitors** — tomato and potato leaves ramp up
+  production within hours of wounding, blocking a caterpillar's
+  ability to digest protein at all
+- **Herbivore-induced plant volatiles (HIPVs)** — recall Week 1's
+  Turlings story: damaged maize releases a volatile blend that also
+  happens to attract the herbivore's own enemies (a synomone, not
+  purely a direct defense — full story next week)
+- Regulated by the **jasmonic acid (JA)** signaling pathway — a
+  plant's internal "wound hormone"
+
+::: {.notes}
+~2 min. Explicit callback to Week 1 Story 2 (Fraenkel/Turlings) -
+students already know this example, now it's being reframed as one
+specific case (induced + volatile + indirect) inside the bigger
+resistance framework. Flag clearly that HIPV attraction of enemies is
+INDIRECT resistance (next week's topic) even though it's induced -
+induced/constitutive and direct/indirect are different axes too.
+:::
+
+## Why not just be maximally defended all the time?
+
+- Producing and storing defenses **costs resources** — energy and
+  nutrients not spent on growth or reproduction
+- **Constitutive** defense: always ready, but always paying the cost
+  — good when attack is frequent/predictable
+- **Induced** defense: cheaper when unattacked, but there's a delay
+  before it ramps up — good when attack is rare/unpredictable
+- Most plants run **both** at once, tuned to their own risk
+
+::: {.notes}
+~1.5 min. This is "optimal defense theory" in miniature, without
+needing the term. Ties the whole 2x2 back to a single economic logic
+- a nice synthesis moment before moving to tolerance.
+:::

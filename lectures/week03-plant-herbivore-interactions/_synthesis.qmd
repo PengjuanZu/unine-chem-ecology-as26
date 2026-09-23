@@ -1,0 +1,25 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+- Plants can't run from herbivores, so they defend in place — with
+  **direct resistance** (physical or chemical, constitutive or
+  induced) or **tolerance** (accept the damage, absorb the cost)<br>
+  *Les plantes ne peuvent pas fuir les herbivores : elles se défendent
+  sur place — par résistance directe (physique ou chimique,
+  constitutive ou induite) ou par tolérance*
+- Every defense strategy has a matching herbivore countermeasure —
+  behavioral avoidance, detoxification, sequestration, or hijacking
+  the plant's own metabolism<br>
+  *Chaque stratégie de défense a sa contre-mesure chez l'herbivore —
+  évitement comportemental, détoxification, séquestration, ou
+  détournement du métabolisme de la plante*
+- Coevolutionary history matters: a naive host facing a well-adapted
+  enemy for the first time (European grapevines vs. phylloxera) can
+  lose catastrophically<br>
+  *L'histoire coévolutive compte : un hôte naïf face à un ennemi bien
+  adapté peut subir des pertes catastrophiques*
+
+**Next week: indirect resistance — plants that call in outside help.**
+
+::: {.notes}
+~1.5 min. Close warmly, bridge to Week 4. End of session.
+:::

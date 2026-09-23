@@ -1,0 +1,99 @@
+## Herbivore Countermeasures {background-color="#1B4332"}
+
+*Contre-mesures des herbivores*
+
+::: {.notes}
+Transition, ~5 sec. Every plant defense in the last section has a
+matching herbivore counter-adaptation - this is the other side of the
+arms race, and it closes the loop back to the phylloxera story: an
+adapted enemy vs. a naive host is exactly what these countermeasures
+are for.
+:::
+
+## 1. Specialized behavior
+
+- **Vein-cutting / trenching**: monarch caterpillars sever the
+  latex-filled veins of milkweed leaves *before* feeding downstream —
+  draining the pressurized, toxic latex away from their meal first
+- **Selective feeding**: choosing younger or older leaves, or
+  specific tissue, based on where toxin concentration or trichome
+  density is lowest
+- **Timing**: some herbivores feed at night or feed briefly across
+  many plants, limiting how much induced defense they trigger in any
+  one spot
+
+::: {.notes}
+~1.5 min. Vein-cutting is a great visual/memorable example - it's
+literally a behavioral countermeasure engineered around one specific
+plant defense structure (latex canals).
+:::
+
+## 2. Detoxification
+
+- General xenobiotic-processing enzymes — **cytochrome P450s**,
+  glutathione S-transferases, esterases — break toxins down into
+  harmless (or less harmful) byproducts
+- Swallowtail butterfly caterpillars (*Papilio* spp.) carry
+  specialized P450 enzymes (CYP6B family) that specifically detoxify
+  furanocoumarins from their host plants
+- Some *Brassica* specialists neutralize glucosinolates by
+  redirecting their breakdown toward a less-toxic product instead of
+  the toxic one the plant "intends"
+
+::: {.notes}
+~1.5 min. The glucosinolate example ties back to the
+Brussels-sprouts/TAS2R38 story again - now from the insect's
+counter-adaptation side.
+:::
+
+## 3. Sequestration
+
+- Instead of breaking a toxin down, some herbivores **store it
+  unmodified** in their own tissues
+- Monarch caterpillars sequester milkweed **cardenolides** — the
+  adult butterfly stays toxic/emetic to bird predators for life
+- The plant's allomone (defends the plant, harms the herbivore)
+  becomes the **herbivore's own allomone** against its predators —
+  the exact same molecule, doing the same job, one trophic level up
+
+::: {.notes}
+~1.5 min. Direct callback to Week 2's infochemical classification -
+this is a clean example of a molecule's "who benefits" classification
+flipping depending on which relationship you're looking at.
+:::
+
+## 4. Hijacking host metabolism
+
+- **Gall-forming insects** manipulate the plant's own growth hormones
+  (cytokinins, auxins) to build a nutrient-rich, protective structure
+  — the plant's own developmental machinery, redirected for the
+  insect's benefit
+- Some caterpillars' saliva contains **effector molecules** (e.g.
+  glucose oxidase) that actively **suppress** the plant's induced
+  defense response while feeding — turning down the jasmonic-acid
+  alarm from the inside
+- Conceptually similar to how many plant pathogens use effector
+  proteins to disable host immunity
+
+::: {.notes}
+~1.5 min. This is the most sophisticated countermeasure category -
+not avoiding or neutralizing the defense, but disabling the plant's
+own signaling before it fully activates.
+:::
+
+## The arms race continues
+
+Every plant defense in this week's framework — physical, chemical,
+constitutive, induced, even tolerance — has been met with a herbivore
+counter-adaptation somewhere. Neither side "wins" permanently.
+
+**This is exactly what happened with phylloxera and European
+grapevines — except the vines had no counter-adaptation ready at
+all. Coevolution takes time; introduce a novel enemy (or a novel
+host) and that history simply isn't there yet.**
+
+::: {.notes}
+~1.5 min close. Full-circle callback to the opening story. Sets up
+next week's indirect resistance as yet another layer in the same
+ongoing arms race.
+:::

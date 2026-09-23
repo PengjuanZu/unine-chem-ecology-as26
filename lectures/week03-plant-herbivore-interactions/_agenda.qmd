@@ -1,0 +1,13 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+| | |
+|---|---|
+| 🍷 The Great French Wine Blight & the rise of absinthe | *Le phylloxéra et l'essor de l'absinthe* |
+| 🛡️ Plant direct resistance: physical, chemical, constitutive, induced | *Résistance directe des plantes* |
+| ⚖️ Tolerance (briefly) | *Tolérance (brièvement)* |
+| 🐛 Herbivore countermeasures | *Contre-mesures des herbivores* |
+| 🔜 Next week: indirect resistance | *La semaine prochaine : résistance indirecte* |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::
