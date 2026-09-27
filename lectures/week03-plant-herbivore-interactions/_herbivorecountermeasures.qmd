@@ -1,6 +1,8 @@
-## Herbivore Countermeasures {background-color="#1B4332"}
+## Insect Countermeasures {background-color="#1B4332"}
 
-*Contre-mesures des herbivores*
+*Contre-mesures des insectes*
+
+![](images/Herbivore.png){width="80%" fig-align="center"}
 
 ::: {.notes}
 Transition, ~5 sec. Every plant defense in the last section has a
@@ -10,17 +12,27 @@ adapted enemy vs. a naive host is exactly what these countermeasures
 are for.
 :::
 
-## 1. Specialized behavior
+## Evolutionary arms race
+![](images/coevolution.png){width="80%" fig-align="center"}
 
-- **Vein-cutting / trenching**: monarch caterpillars sever the
-  latex-filled veins of milkweed leaves *before* feeding downstream —
-  draining the pressurized, toxic latex away from their meal first
-- **Selective feeding**: choosing younger or older leaves, or
-  specific tissue, based on where toxin concentration or trichome
-  density is lowest
-- **Timing**: some herbivores feed at night or feed briefly across
-  many plants, limiting how much induced defense they trigger in any
-  one spot
+
+## Insect Countermeasures to plant direct resistance
+- Specialized behavior
+- Detoxification
+- Sequestration of toxic compounds
+- Hijacking host metabolism
+
+## Specialized behavior 
+**Vein-cutting / trenching**
+![(Dussourd 2017)](images/CuttingLatex.png){width="90%" fig-align="center"}
+
+
+
+## Specialized behavior
+Wandering larvae lay silk mats on the trichomes and remove their tips by biting
+
+![](images/silk_trichrome.png){width="100%" fig-align="center"}
+
 
 ::: {.notes}
 ~1.5 min. Vein-cutting is a great visual/memorable example - it's

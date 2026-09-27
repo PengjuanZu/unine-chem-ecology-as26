@@ -1,6 +1,10 @@
 ---
 title: "Plant–Herbivore Interactions"
 subtitle: "Interactions Plante–Herbivore"
+topic-image: "images/DirectResistance.png"
+topic-image-style: "object-fit: contain;"
+
+
 # TODO: add topic-image: "images/your-file.jpg" once you have a photo
 # for this week's title slide (see README.md "Adding pictures to a
 # slide" for the convention). Without it, the title text just takes
@@ -24,7 +28,7 @@ format:
 
 {{< include _agenda.qmd >}}
 
-{{< include _absinthe.qmd >}}
+{{< include _wineblight.qmd >}}
 
 {{< include _directresistance.qmd >}}
 

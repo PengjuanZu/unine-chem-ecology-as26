@@ -36,9 +36,10 @@ the two strategies aren't mutually exclusive.
   investment in tolerance tend to trade off — few plants do both to
   the maximum
 
-**Next week: a third strategy entirely — getting help. Indirect
-resistance recruits someone else (a predator, a parasitoid) to do the
-fighting.**
+
+## Resistance vs. Tolerance
+![](images/Tolerance_resistance.png){width="80%" fig-align="center"}
+
 
 ::: {.notes}
 ~2 min. Bridge cleanly into next week without covering indirect
