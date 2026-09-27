@@ -1,0 +1,19 @@
+<script>
+// Reveal.js appears to cache per-slide position for a small window of
+// slides near the very start of the deck during its first init pass
+// (before final viewport metrics settle), and never revisits that
+// cache for those specific slides afterwards - slides further into
+// the deck get computed fresh, later, correctly. Symptom: slides 2
+// and 3 render with wrong vertical position/scale live, regardless of
+// their content, while everything from slide 4 on is fine. Invisible
+// in PDF/print export since that uses a different, non-JS layout path.
+//
+// Reveal.layout() alone doesn't fix this - it only repositions the
+// currently active slide. Reveal.sync() force-resyncs every slide's
+// cached state, not just the current one.
+window.addEventListener("load", function () {
+  if (window.Reveal && typeof Reveal.sync === "function") {
+    Reveal.sync();
+  }
+});
+</script>

@@ -3,12 +3,20 @@
 
 | | |
 |---|---|
-| How animals sense their world | *Comment les animaux perçoivent le monde* |
+| Animal senses | *Les sens des animaux* |
 | Infochemicals: definition & categories | *Infochimiques : définition et catégories* |
-| Smell test (group activity) | *Test olfactif (activité en groupe)* |
-| Olfactory receptors — human & insect | *Récepteurs olfactifs — humain et insecte* |
-| Information & information theory | *Information et théorie de l'information* |
+| Smell test (activity) | *Test olfactif (activité)* |
+| Sensory evolution | *Évolution sensorielle* |
+
 
 ::: {.notes}
 Roadmap slide — one line per block. ~30 sec.
 :::
+
+## Warm-up questions
+
+
+![](images/warmup.png){width="50%" .nostretch fig-align="center"}
+
+>Login the course Moodle to answer some warm-up questions
+

@@ -24,11 +24,11 @@ an odor."
 
 ## Why chemical communication? {.hook}
 
-> **Why might a species evolve to "talk" with molecules instead of
+> **Why might a species evolve to "talk" with chemicals instead of
 > sound or light?**
 >
 > *Pourquoi une espèce évoluerait-elle pour « parler » avec des
-> molécules plutôt qu'avec du son ou de la lumière ?*
+> produits chimiques plutôt qu'avec du son ou de la lumière ?*
 
 
 ::: {.notes}
@@ -49,7 +49,14 @@ blend and ratio), cheap to produce compared to sound/light displays.
     - exact compound + ratio + concentration <br>
     - small modification will turn one compound to another 
 
+
+## Specificity 
+![](images/Reprisolation.png)
+
 ::: {.notes}
-~1 min. This sets up "information" as a concept we'll return to at the
-end of today.
+The two species studied are Adoxophyes orana (summer fruit tortrix) and Clepsis spectrana (carnation tortrix), two tortricid moths that are sympatric across much of Europe. The central question: how do the males of each species find the right female, given that they live in the same habitat?
+
+Males of each species responded strongly only to their own species' blend ratio. Adoxophyes orana males were attracted to Z9-dominant blends; Clepsis spectrana males to Z11-dominant blends. The other species' ratio was unattractive, and in some cases inhibitory. Two species, two pheromone systems, same two molecules.
+
+Minks et al. showed that ratio alone — not molecular identity — is sufficient to maintain complete reproductive isolation between two sympatric species.
 :::
