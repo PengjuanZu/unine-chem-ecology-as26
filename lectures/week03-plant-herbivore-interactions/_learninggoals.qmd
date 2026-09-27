@@ -1,0 +1,13 @@
+## Learning Goals {background-color="#1B4332"}
+
+*Objectifs d'apprentissage*
+
+By the end of today, you can:
+
+- Explain how plants defend themselves given that they cannot run away from their enemies
+- Give examples of plant direct resistance (physical, chemical,
+  constitutive, induced)
+- Distinguish plant **direct resistance** from **tolerance**
+- Explain how herbivores counter plant direct resistance (behavioral
+  avoidance, detoxification, sequestration, hijacking host metabolism)
+

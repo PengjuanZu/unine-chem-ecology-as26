@@ -12,6 +12,8 @@ website:
         text: "Week 1 — Introduction"
       - href: lectures/week02-infochemicals/index.qmd
         text: "Week 2 — Infochemicals"
+      - href: lectures/week03-plant-herbivore-interactions/index.qmd
+        text: "Week 3 — Plant-Herbivore Interactions"
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
 metadata:

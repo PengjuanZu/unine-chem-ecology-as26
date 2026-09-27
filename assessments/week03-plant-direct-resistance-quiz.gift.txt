@@ -1,0 +1,155 @@
+// Chemical Ecology - Week 3: Plant direct resistance
+// Moodle question bank - GIFT format
+// Import: Moodle > Question bank > Import > GIFT format > select this file
+// 20 questions: classify each example as physical or chemical AND constitutive or induced
+// (5 per cell of the 2x2 framework). Secretory defenses are classed as physical, following the course outline.
+
+$CATEGORY: $course$/Week 03 - Plant direct resistance
+
+// ---------- PHYSICAL - CONSTITUTIVE ----------
+
+::Q1 - Waxy holly cuticle::The thick, waxy cuticle on mature holly leaves that makes them hard for small herbivores to bite into or penetrate.{
+=Physical - constitutive#Correct. A structural barrier laid down during normal leaf development, present whether or not the plant is ever attacked.
+~Physical - induced#The mechanism is right, but this trait is constitutive, not induced.
+~Chemical - constitutive#The timing is right, but this trait works as a physical defense, not a chemical one.
+~Chemical - induced#Both axes are off - see the explanation on the correct answer.
+}
+
+::Q2 - Rose thorns::The thorns on a rose stem that deter browsing by large herbivores.{
+=Physical - constitutive#Correct. A permanent structure built during normal development - not triggered by an attack.
+~Physical - induced#The mechanism is right, but this trait is constitutive, not induced.
+~Chemical - constitutive#The timing is right, but this trait works as a physical defense, not a chemical one.
+~Chemical - induced#Both axes are off - see the explanation on the correct answer.
+}
+
+::Q3 - Mullein trichomes::The dense, non-glandular hairs (trichomes) covering the leaves of mullein (Verbascum) from the moment the leaves expand.{
+=Physical - constitutive#Correct. Trichomes are structural, and here they are part of the leaf's normal make-up rather than a response to damage.
+~Physical - induced#The mechanism is right, but this trait is constitutive, not induced.
+~Chemical - constitutive#The timing is right, but this trait works as a physical defense, not a chemical one.
+~Chemical - induced#Both axes are off - see the explanation on the correct answer.
+}
+
+::Q4 - Milkweed latex::Latex stored under pressure in the canals of milkweed (Asclepias) leaves, which floods out when a caterpillar bites through a vein.{
+=Physical - constitutive#Correct. A secretory defense that is produced and stored in advance. Release on damage is passive outflow, not induction - the defense was already in place (and it is exactly what monarch caterpillars sidestep by cutting veins). Following the course outline, secretory defenses count as physical, although latex also carries chemistry.
+~Physical - induced#The mechanism is right, but this trait is constitutive, not induced.
+~Chemical - constitutive#The timing is right, but this trait works as a physical defense, not a chemical one.
+~Chemical - induced#Both axes are off - see the explanation on the correct answer.
+}
+
+::Q5 - Calcium oxalate raphides::The needle-like calcium oxalate crystals (raphides) packed into the tissues of taro and Dieffenbachia that irritate and injure mouthparts.{
+=Physical - constitutive#Correct. Crystals act mechanically, and they are formed as part of normal tissue development.
+~Physical - induced#The mechanism is right, but this trait is constitutive, not induced.
+~Chemical - constitutive#The timing is right, but this trait works as a physical defense, not a chemical one.
+~Chemical - induced#Both axes are off - see the explanation on the correct answer.
+}
+
+// ---------- PHYSICAL - INDUCED ----------
+
+::Q6 - Induced trichomes::Leaves that emerge after caterpillar feeding on a young plant carry more trichomes than leaves on undamaged plants (as reported in Arabidopsis and Mimulus).{
+~Physical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Physical - induced#Correct. The barrier is a physical structure, but its density is boosted by prior damage, signalled through jasmonate - an induced physical defense.
+~Chemical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Chemical - induced#The timing is right, but this trait works as a physical defense, not a chemical one.
+}
+
+::Q7 - Wound periderm::A new layer of cork forms around a feeding wound on a root, walling off the damaged tissue from the rest of the organ.{
+~Physical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Physical - induced#Correct. A wound periderm is a localized physical seal that forms only in response to injury - the induced counterpart of the ordinary periderm (bark).
+~Chemical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Chemical - induced#The timing is right, but this trait works as a physical defense, not a chemical one.
+}
+
+::Q8 - Traumatic resin ducts::After bark beetle attack, Norway spruce forms new traumatic resin ducts in the wood around the wound.{
+~Physical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Physical - induced#Correct. New secretory structures are built only after attack. Per the course outline, secretory defenses are classed as physical, although the resin itself is chemically rich.
+~Chemical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Chemical - induced#The timing is right, but this trait works as a physical defense, not a chemical one.
+}
+
+::Q9 - Induced lignification::Cell walls around a wound thicken with extra lignin after feeding damage, making the tissue tougher to chew.{
+~Physical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Physical - induced#Correct. Lignin toughens tissue mechanically, and here it is deposited in response to damage.
+~Chemical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Chemical - induced#The timing is right, but this trait works as a physical defense, not a chemical one.
+}
+
+::Q10 - Grass silica::Grasses deposit more silica in their leaves after being grazed or cut, which wears down herbivore mandibles.{
+~Physical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Physical - induced#Correct. Silica acts as an abrasive physical barrier, and the extra deposition is triggered by damage.
+~Chemical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Chemical - induced#The timing is right, but this trait works as a physical defense, not a chemical one.
+}
+
+// ---------- CHEMICAL - CONSTITUTIVE ----------
+
+::Q11 - Cassava cyanogenic glycosides::The cyanogenic glycosides stored in intact cassava tissue, which release cyanide when the tissue is crushed.{
+~Physical - constitutive#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Physical - induced#Both axes are off - see the explanation on the correct answer.
+=Chemical - constitutive#Correct. The toxin precursors are already stored in undamaged tissue. Enzymatic release on crushing does not make them induced - the compound pool exists beforehand.
+~Chemical - induced#The mechanism is right, but this trait is constitutive, not induced.
+}
+
+::Q12 - Baseline glucosinolates::The glucosinolates stored in intact, undamaged Arabidopsis leaves.{
+~Physical - constitutive#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Physical - induced#Both axes are off - see the explanation on the correct answer.
+=Chemical - constitutive#Correct. A toxin pool present in undamaged plants, ready to be activated by myrosinase when tissue is disrupted.
+~Chemical - induced#The mechanism is right, but this trait is constitutive, not induced.
+}
+
+::Q13 - Maize DIMBOA-Glc::The benzoxazinoid DIMBOA-Glc stored in the tissues of unattacked maize seedlings.{
+~Physical - constitutive#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Physical - induced#Both axes are off - see the explanation on the correct answer.
+=Chemical - constitutive#Correct. A constitutive toxin - the glucoside is stored in advance in healthy tissue (a system studied extensively by Matthias Erb's group in Bern).
+~Chemical - induced#The mechanism is right, but this trait is constitutive, not induced.
+}
+
+::Q14 - Oak tannins::The high baseline content of condensed tannins in mature oak leaves, which binds proteins and lowers the leaf's digestibility.{
+~Physical - constitutive#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Physical - induced#Both axes are off - see the explanation on the correct answer.
+=Chemical - constitutive#Correct. Tannins act chemically by reducing digestibility, and this baseline level is present without any attack.
+~Chemical - induced#The mechanism is right, but this trait is constitutive, not induced.
+}
+
+::Q15 - Bean amylase inhibitors::The alpha-amylase inhibitors accumulated in common bean seeds, which block starch digestion in seed-feeding insects.{
+~Physical - constitutive#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Physical - induced#Both axes are off - see the explanation on the correct answer.
+=Chemical - constitutive#Correct. A chemical reduction of digestibility, stocked in the seed during development rather than triggered by feeding.
+~Chemical - induced#The mechanism is right, but this trait is constitutive, not induced.
+}
+
+// ---------- CHEMICAL - INDUCED ----------
+
+::Q16 - Tomato proteinase inhibitors::Proteinase inhibitors that build up in tomato leaves within hours of wounding, blocking digestive proteases in the caterpillar gut.{
+~Physical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Physical - induced#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Chemical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Chemical - induced#Correct. Chemical (they reduce digestibility) and induced (ramped up via the jasmonic acid pathway after damage) - a textbook induced chemical defense.
+}
+
+::Q17 - Nicotine surge::A rise in nicotine in Nicotiana attenuata leaves after caterpillar feeding triggers jasmonate signalling.{
+~Physical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Physical - induced#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Chemical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Chemical - induced#Correct. A toxin whose level is boosted by attack. Nicotine is an example of a compound that has a baseline but is strongly inducible - here the question is about the attack-triggered surge.
+}
+
+::Q18 - Induced glucosinolates::Arabidopsis leaves accumulate higher levels of indole glucosinolates after caterpillar feeding.{
+~Physical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Physical - induced#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Chemical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Chemical - induced#Correct. Same compound class as the constitutive pool, but this is the extra accumulation triggered by damage.
+}
+
+::Q19 - Maize HDMBOA-Glc::Maize converts DIMBOA-Glc into the more toxic HDMBOA-Glc after caterpillar feeding.{
+~Physical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Physical - induced#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Chemical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Chemical - induced#Correct. A toxin whose formation is boosted by attack - the induced layer sitting on top of the constitutive benzoxazinoid pool.
+}
+
+::Q20 - Tomato polyphenol oxidase::Polyphenol oxidase activity rises in tomato leaves after wounding, oxidizing phenolics and lowering the leaf's nutritive quality for herbivores.{
+~Physical - constitutive#Both axes are off - see the explanation on the correct answer.
+~Physical - induced#The timing is right, but this trait works as a chemical defense, not a physical one.
+~Chemical - constitutive#The mechanism is right, but this trait is induced, not constitutive.
+=Chemical - induced#Correct. Chemical (it degrades nutritive quality) and induced (activity rises after damage).
+}

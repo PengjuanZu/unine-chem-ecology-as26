@@ -13,4 +13,8 @@ Taught by Prof. Pengjuan Zu.
 
 - [**Week 2 — Infochemicals**](lectures/week02-infochemicals/index.qmd)
 
+- [**Week 3 — Plant-Herbivore Interactions**](lectures/week03-plant-herbivore-interactions/index.qmd)
+  The Great French Wine Blight, plant direct resistance (physical, chemical,
+  constitutive, induced) and tolerance, and how herbivores counter it.
+
 *(Add new weeks here as the course grows — see `README.md` for the workflow.)*

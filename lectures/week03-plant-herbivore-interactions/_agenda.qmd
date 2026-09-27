@@ -1,0 +1,12 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+| | |
+|---|---|
+| 🍷 The Great French Wine Blight | *la grande crise du phylloxéra* |
+| 🛡️ Plant direct resistance | *Résistance directe des plantes* |
+| 🐛 Herbivore countermeasures | *Contre-mesures des herbivores* |
+| ⚖️ Tolerance | *Tolérance* |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::
