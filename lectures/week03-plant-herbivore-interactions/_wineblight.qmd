@@ -33,13 +33,13 @@ underneath the fashion story. ~2 min including the reveal below.
 
 ## 
 :::: {.columns}
-::: {.column width="60%"}
+::: {.column width="50%"}
 ![Une coopération exemplaire entre entomologistes enançais et américains pendant la crise du Phylloxera en France (1868–1895) by Yves Carton​
-](images/Dying vineyard.png){width="70%" fig-align="center"}
+](images/Dying vineyard.png){width="70%" .nostretch fig-align="center"}
 
 :::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 The vines were dying
 
 - In the 1860s, French vineyards began mysteriously wilting and

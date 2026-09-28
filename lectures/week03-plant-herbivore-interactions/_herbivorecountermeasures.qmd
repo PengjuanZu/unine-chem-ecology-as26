@@ -13,7 +13,7 @@ are for.
 :::
 
 ## Evolutionary arms race
-![](images/coevolution.png){width="80%" .nostretch fig-align="center"}
+![](images/coevolution.png){width="70%" .nostretch fig-align="center"}
 
 
 ## Insect Countermeasures to plant direct resistance
