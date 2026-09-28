@@ -16,6 +16,7 @@
 
 ![](images/DirectResistance.png){width="80%" fig-align="center"}
 
+<!-- 
 ##
 
 - Physical resistance
@@ -33,7 +34,7 @@
 ::: {.notes}
 Transition, ~5 sec.
 :::
-
+-->
 
 ## Two independent axes
 
@@ -50,16 +51,24 @@ fills in examples for each cell. Physical vs. chemical is about *how*
 the plant defends; constitutive vs. induced is about *when*.
 :::
 
+## Activity · Activité {background-color="#1B4332" data-agenda-section="Activity"}
+
+
+- You will get some cards with examples
+- Discuss with your neighbors 
+
+> What types of plant resistance is it?
+
+
 
 ## Physical resistance
 
-- **Trichomes** (leaf/stem hairs) — physically impede small
-  insects, some are hooked or glandular (sticky, or chemical-tipped)
-- **Thorns and spines** — deter large vertebrate browsers
-- **Tough cuticle, high silica content** — wear down insect
-  mandibles (grasses are notoriously silica-rich for this reason)
-- **Latex and resin canals** — flood a wound with sticky, often
-  toxin-laden fluid the instant tissue is cut
+- Physical resistance
+  - Cuticle, wax, lignification
+  - Trichomes, spines, thorns
+  - Secretory defenses (resin, gum, latex)
+  - Calcium oxalate crystals
+
 
 ::: {.notes}
 ~1.5 min. Latex/resin canals are a nice bridge slide - physically
@@ -88,7 +97,7 @@ defense side instead of the human taste side.
 
 ## Chemical resistance: reduce digestibility 
 
-- **Proteinase inhibitors** (PIs) and *Threonine Deaminase* (TD)
+- Proteinase inhibitors (PIs) and Threonine Deaminase (TD)
 
   - Plant-derived compounds that bind to proteases in the insect gut
   - Insect gut proteases shuttle molecules into metabolic pathways

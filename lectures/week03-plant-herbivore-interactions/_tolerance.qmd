@@ -2,6 +2,8 @@
 
 *Tolérance*
 
+![](images/PlantResistance.png){width="80%" fig-align="center"}
+
 ::: {.notes}
 Transition, ~5 sec. Keep this section brief (~4 min total) - it's a
 deliberate contrast point, not a full topic like direct resistance.
@@ -11,8 +13,7 @@ deliberate contrast point, not a full topic like direct resistance.
 
 - **Resistance** = reduce how much damage happens
 - **Tolerance** = accept the damage, minimize its cost to fitness
-- A tolerant plant can be eaten just as much as a non-tolerant one —
-  it just suffers less for it
+
 
 **Mechanisms**: compensatory regrowth, extra branching/tillering
 after apical damage, reallocating stored reserves (roots,
@@ -26,6 +27,7 @@ without dying. Note grasses ALSO use physical resistance (silica) -
 the two strategies aren't mutually exclusive.
 :::
 
+<!--
 ## Why not just tolerate everything?
 
 - Regrowth still costs resources, redirected from growth or seed
@@ -36,8 +38,9 @@ the two strategies aren't mutually exclusive.
   investment in tolerance tend to trade off — few plants do both to
   the maximum
 
+-->
 
-## Resistance vs. Tolerance
+## Resistance & Tolerance: context dependent
 ![](images/Tolerance_resistance.png){width="80%" fig-align="center"}
 
 

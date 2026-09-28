@@ -10,3 +10,11 @@
 ::: {.notes}
 Roadmap slide — one line per block. ~30 sec.
 :::
+
+
+## Warm-up questions
+
+
+![](images/warmup.png){width="50%" .nostretch fig-align="center"}
+
+>Login the course Moodle to answer some warm-up questions
