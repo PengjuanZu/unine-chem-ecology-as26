@@ -17,4 +17,8 @@ Taught by Prof. Pengjuan Zu.
   The Great French Wine Blight, plant direct resistance (physical, chemical,
   constitutive, induced) and tolerance, and how herbivores counter it.
 
+- [**Week 4 — Tritrophic Interactions**](lectures/week04-tritrophic-interactions/index.qmd)
+  The cassava mealybug and Hans Rudolf Herren, natural enemy guilds, how
+  plants recruit them (reward vs. HIPV), and the HIPV discovery story.
+
 *(Add new weeks here as the course grows — see `README.md` for the workflow.)*

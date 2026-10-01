@@ -1,0 +1,70 @@
+## The HIPV Story {background-color="#1B4332"}
+
+*L'histoire des COPV (composés organiques volatils induits par les herbivores)*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## The discovery experiment
+
+- Turlings, Tumlinson & Lewis (1990, *Science*): maize seedlings,
+  caterpillars (*Spodoptera exigua*), and the parasitoid wasp
+  *Cotesia marginiventris*
+- In a wind tunnel, wasps were offered a choice of odor sources:
+  undamaged maize, mechanically damaged maize, and
+  caterpillar-damaged maize
+- Wasps flew overwhelmingly toward **caterpillar-damaged** plants —
+  mechanical damage alone wasn't enough to attract them
+
+**This is Week 1's Story 2 — now you have the actual experiment
+behind it.**
+
+::: {.notes}
+~2 min. Direct callback to Week 1's Fraenkel/Turlings story -
+students already know the headline result, this is the controlled
+experiment that established it as real science rather than anecdote.
+:::
+
+## How does the plant "know" it's a caterpillar?
+
+- The missing piece: caterpillar **oral secretions** (saliva) left
+  in the wound during feeding
+- Alborn, Turlings, Tumlinson et al. (1997, *Science*) identified the
+  specific elicitor: **volicitin**, a fatty acid-amino acid conjugate
+  in caterpillar saliva
+- Applying volicitin alone to a *mechanical* wound triggers the full
+  volatile blend — the plant is reading a specific chemical
+  signature, not just detecting damage
+
+::: {.notes}
+~1.5 min. This answers the "how" behind the Week 3 chemical-resistance
+discussion of herbivore-specific induction - it's not the wound, it's
+a molecule in the herbivore's own saliva that gives it away.
+:::
+
+## Where the research went next
+
+- **Priming**: plants exposed to HIPVs from a damaged *neighbor*
+  respond faster when they themselves are later attacked — the
+  signal can function as an early warning between plants, not just a
+  call for help
+- **Push-pull agriculture** (Zeyaur Khan, *icipe*, Kenya): smallholder
+  maize farmers intercrop a repellent plant (pushes pests away) with
+  an attractive border crop (pulls pests into a trap) — a field-scale
+  agricultural application of infochemical signaling, used widely
+  across East Africa
+- The field has moved from "one signal, one receiver" toward
+  **community-level** questions: who else is listening, and what
+  happens when many species are signaling at once?
+
+**Full circle: push-pull is being used in exactly the smallholder
+African farming systems this week's story opened with.**
+
+::: {.notes}
+~2 min close. Push-pull closes the loop back to the cassava story's
+African agricultural context. The "community-level" framing is a
+natural opening to mention current research directions in this space
+if you want to bring in your own information-theory framework here -
+optional, your call on how much to foreground it.
+:::

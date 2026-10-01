@@ -1,0 +1,88 @@
+## The Cassava Mealybug {background-color="#1B4332"}
+
+*La cochenille du manioc*
+
+::: {.notes}
+Opening story, ~7-8 min. Hook, then crisis, then the search, then the
+release, then the outcome, then explicit bridge to "indirect
+resistance" / tritrophic interactions as today's theme.
+:::
+
+## Nigeria, 1979 {.hook}
+
+<!-- TODO: image of cassava fields / mealybug damage. -->
+
+> **A 31-year-old Swiss entomologist arrives in West Africa for a new
+> job. He walks straight into a crisis that threatens famine for
+> tens of millions of people. What is it — and what does he do about
+> it?**
+>
+> *Un entomologiste suisse de 31 ans arrive en Afrique de l'Ouest pour
+> un nouveau poste. Il tombe en plein milieu d'une crise qui menace
+> la famine pour des dizaines de millions de personnes. Qu'est-ce que
+> c'est — et que fait-il ?*
+
+⏳ Think, 45 seconds — talk to your neighbor.
+
+::: {.notes}
+Let guesses land before the reveal. ~1.5 min including setup.
+:::
+
+## Cassava feeds hundreds of millions
+
+- Cassava (*Manihot esculenta*) is a staple crop across much of
+  sub-Saharan Africa — calorie-dense, drought-tolerant, grows in
+  poor soil
+- In the early 1970s, a new pest appears: the **cassava mealybug**
+  (*Phenacoccus manihoti*), accidentally introduced from South
+  America
+- Africa's cassava had **never evolved with this insect** — by the
+  late 1970s, yield losses of up to 80% in some regions, and a
+  famine threat across the entire cassava belt
+
+::: {.notes}
+~1.5 min. Direct structural echo of Week 3's phylloxera story: a
+naive host (African cassava) meets a well-adapted invasive pest with
+zero coevolutionary history behind it.
+:::
+
+## Hans Rudolf Herren's idea
+
+- Herren, at the International Institute of Tropical Agriculture
+  (IITA, Nigeria), reasons: if the mealybug is from South America,
+  its **natural enemies** should be there too
+- He searches Central and South America for an insect that
+  specifically controls the mealybug back home
+- He finds a tiny parasitoid wasp, **_Anagyrus lopezi_**, native to
+  Paraguay, that lays its eggs inside mealybugs
+
+::: {.notes}
+~1.5 min. This is classical biological control: instead of
+engineering the plant's own defense (last week's whole topic), import
+the pest's own enemy from its native range.
+:::
+
+## The release — and the outcome
+
+- *Anagyrus lopezi* is mass-reared and released across the African
+  cassava belt starting in 1981 — one of the largest classical
+  biological control efforts ever attempted
+- The wasp establishes and spreads **on its own**, tracking the
+  mealybug across the continent without further human help
+- Within about a decade, the mealybug is permanently suppressed —
+  an estimated **20+ million lives** saved from famine; Herren
+  receives the 1995 World Food Prize
+
+**Bridge to today: Herren didn't make cassava fight back directly —
+he recruited a third party to do the fighting. That's exactly what
+plants do too, every day, with chemistry instead of airplanes.**
+
+::: {.notes}
+~2 min close. Explicit bridge into "indirect resistance" / tritrophic
+interactions: recruiting a natural enemy of the herbivore, rather
+than resisting the herbivore directly, is this week's whole theme -
+Herren's program is a human-engineered version of exactly what
+HIPV-signaling plants do chemically later in this lecture.
+Source: Herren, H.R. and Neuenschwander, P. (1991). Biological
+control of cassava pests in Africa. Annual Review of Entomology.
+:::

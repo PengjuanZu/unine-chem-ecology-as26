@@ -1,0 +1,35 @@
+---
+title: "Tritrophic Interactions"
+subtitle: "Interactions Tritrophiques"
+# TODO: add topic-image: "images/your-file.jpg" once you have a photo
+# for this week's title slide (see README.md "Adding pictures to a
+# slide" for the convention). Without it, the title text just takes
+# the full width - that's an intentional, safe fallback.
+format:
+  revealjs:
+    theme: [default, ../../styles/forest-theme.scss]
+    slide-number: c/t
+    transition: fade
+    chalkboard: false
+    embed-resources: true
+    center: false
+    margin: 0.04
+    template-partials:
+      - ../../title-slide.html
+    title-slide-attributes:
+      data-background-color: "#1B4332"
+---
+
+{{< include _learninggoals.qmd >}}
+
+{{< include _agenda.qmd >}}
+
+{{< include _cassava.qmd >}}
+
+{{< include _naturalenemies.qmd >}}
+
+{{< include _recruitment.qmd >}}
+
+{{< include _hipvresearch.qmd >}}
+
+{{< include _synthesis.qmd >}}
