@@ -6,6 +6,8 @@
 Transition, ~5 sec.
 :::
 
+<!--
+
 ## Two strategies, same logic as last week
 
 Recall Week 3's constitutive vs. induced axis — plants recruit
@@ -64,3 +66,5 @@ synomone) gets its mechanism: HIPVs are synomones precisely because
 both the plant (fewer herbivores) and the recruited enemy (easier
 meal) benefit.
 :::
+
+-->

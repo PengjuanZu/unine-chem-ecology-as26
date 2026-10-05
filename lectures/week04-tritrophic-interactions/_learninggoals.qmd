@@ -6,9 +6,6 @@ By the end of today, you can:
 
 - Explain indirect resistance: recruiting a third party (a natural
   enemy of the herbivore) instead of fighting the herbivore directly
-- Recognize and name the main guilds of natural enemies (predators,
-  parasitoids, pathogens), in English and French
-- Distinguish two ways plants recruit natural enemies: standing
-  **rewards** (food, shelter) vs. conditional **signals** (HIPVs)
-- Describe the classic HIPV discovery experiment and trace how the
-  field has developed since
+- Give examples of tritrophic interactions
+- Explain how plants can actively recruit natural enemies of herbivores
+- Describe the classic HIPV discovery experiment and learn how to design experiment to test your hypothesis

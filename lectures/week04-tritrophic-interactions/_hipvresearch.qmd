@@ -1,11 +1,14 @@
 ## The HIPV Story {background-color="#1B4332"}
 
+<!--
 *L'histoire des COPV (composés organiques volatils induits par les herbivores)*
 
 ::: {.notes}
 Transition, ~5 sec.
 :::
+-->
 
+<!-- 
 ## The discovery experiment
 
 - Turlings, Tumlinson & Lewis (1990, *Science*): maize seedlings,
@@ -17,8 +20,7 @@ Transition, ~5 sec.
 - Wasps flew overwhelmingly toward **caterpillar-damaged** plants —
   mechanical damage alone wasn't enough to attract them
 
-**This is Week 1's Story 2 — now you have the actual experiment
-behind it.**
+
 
 ::: {.notes}
 ~2 min. Direct callback to Week 1's Fraenkel/Turlings story -
@@ -43,6 +45,8 @@ discussion of herbivore-specific induction - it's not the wound, it's
 a molecule in the herbivore's own saliva that gives it away.
 :::
 
+--> 
+
 ## Where the research went next
 
 - **Priming**: plants exposed to HIPVs from a damaged *neighbor*
@@ -58,7 +62,7 @@ a molecule in the herbivore's own saliva that gives it away.
   **community-level** questions: who else is listening, and what
   happens when many species are signaling at once?
 
-**Full circle: push-pull is being used in exactly the smallholder
+**Push-pull is being used in exactly the smallholder
 African farming systems this week's story opened with.**
 
 ::: {.notes}
@@ -68,3 +72,4 @@ natural opening to mention current research directions in this space
 if you want to bring in your own information-theory framework here -
 optional, your call on how much to foreground it.
 :::
+
