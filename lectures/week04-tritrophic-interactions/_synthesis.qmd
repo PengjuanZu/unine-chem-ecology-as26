@@ -1,0 +1,22 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+- Indirect resistance recruits a third party instead of fighting the
+  herbivore directly <br>
+  <!--
+  *La résistance indirecte recrute un tiers plutôt que de combattre
+  l'herbivore directement* -->
+- Natural enemies fall into different guilds — predators, parasitoids,
+  (pathogens) 
+  
+- Plants recruit them two ways: rewards or induced signals (HIPVs)<br>
+
+- HIPVs are a important discovery for both foundamental science and practical applications <br>
+  <!-- 
+  *Les COPV sont une réponse chimique précise, aujourd'hui appliquée
+  à l'échelle agricole* -->
+
+
+
+::: {.notes}
+~1.5 min. Close warmly, bridge to Week 5. End of session.
+:::

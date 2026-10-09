@@ -1,0 +1,70 @@
+## Recruiting Your Own Bodyguards {background-color="#1B4332"}
+
+*Recruter ses propres gardes du corps*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+<!--
+
+## Two strategies, same logic as last week
+
+Recall Week 3's constitutive vs. induced axis — plants recruit
+natural enemies the same two ways:
+
+| | **Reward** (standing investment) | **Signal** (conditional, on attack) |
+|---|---|---|
+| What the plant gives | Food and/or shelter, continuously | A volatile "help" signal, only when attacked |
+| Who's paid, and by what | The enemy, directly, by the plant | Nobody directly — the enemy is paid by *eating the herbivore* |
+| Timing | Always on | Induced |
+
+::: {.notes}
+~1.5 min. This is the single most important conceptual link of the
+day - indirect resistance has its own constitutive/induced split,
+exactly parallel to Week 3's direct-resistance framework.
+:::
+
+## Reward-based recruitment: examples
+
+- **Extrafloral nectar** — sugar-rich nectar produced *outside* the
+  flower (not for pollinators), specifically to feed ants or
+  parasitoid wasps that then patrol and defend the plant
+- **Food bodies** — e.g., Beltian bodies on acacia, nutrient-rich
+  structures grown purely to feed resident ant colonies
+- **Domatia** — small shelters on leaves that house predatory mites,
+  which then control herbivorous mites nearby
+
+**The plant pays rent, continuously, for a standing bodyguard
+service — whether or not it's currently under attack.**
+
+::: {.notes}
+~1.5 min. Ant-acacia mutualism is a classic, vivid example if you
+want to add a photo - ants get housing (domatia in thorns) AND food
+(Beltian bodies) and in return attack anything that touches the
+plant, including trimming back competing vegetation.
+:::
+
+## Signal-based recruitment: HIPVs
+
+- **Herbivore-induced plant volatiles (HIPVs)** — recall Week 1's
+  Fraenkel/Turlings maize story, and Week 3's "Chemical resistance:
+  induced examples" slide
+- Only released when the plant is actually being eaten — a specific
+  volatile blend that distinguishes *herbivore damage* from ordinary
+  mechanical wounding
+- The receiving parasitoid or predator isn't paid by the plant at
+  all — it's hunting for its own food (the herbivore), and the plant
+  just made that herbivore much easier to find
+
+**Cheap when unattacked, but the enemy has to actually be listening
+nearby — no guaranteed bodyguard, just an SOS broadcast.**
+
+::: {.notes}
+~2 min. This is where the course's own classification (Week 2's
+synomone) gets its mechanism: HIPVs are synomones precisely because
+both the plant (fewer herbivores) and the recruited enemy (easier
+meal) benefit.
+:::
+
+-->

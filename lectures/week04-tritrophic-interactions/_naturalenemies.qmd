@@ -1,0 +1,85 @@
+## Today: Plant Indirect Resistance {background-color="#1B4332"}
+
+##
+![](images/PlantResistance.png){width="40%"}
+
+## Meet the Natural Enemies {background-color="#1B4332"}
+
+*À la rencontre des ennemis naturels*
+
+::: {.notes}
+Transition, ~5 sec. Bridges from "Herren found ONE natural enemy" to
+"there are whole guilds of them, and you need to be able to recognize
+them" - sets up the activity.
+:::
+
+<!-- 
+
+## Activity: Best Observer {.hook}
+
+TODO: assemble a slide deck or printed cards of the 8-10
+organisms below, photos only, no names - students identify guild +
+name (EN and FR) for as many as they can in the time limit. Score:
+1 point per correct guild, 1 point per correct name. "Best Observer"
+= highest score, small prize/bragging rights.
+
+> **You'll see photos of 8-10 organisms found in a field or garden.
+> For each one: predator, parasitoid, or pathogen — and can you name
+> it, in English and French?**
+>
+> *Vous allez voir des photos de 8 à 10 organismes trouvés dans un
+> champ ou un jardin. Pour chacun : prédateur, parasitoïde, ou
+> pathogène — et pouvez-vous le nommer, en anglais et en français ?*
+
+⏳ 8 minutes, work in pairs. Highest score wins "Best Observer."
+
+::: {.notes}
+~8-9 min with reveal/discussion. Groups of 2 keep it fast; competitive
+framing ("Best Observer") raises engagement. Reveal answers together
+afterward using the reference slide below.
+:::
+
+-->
+
+<!--
+
+## Three guilds
+
+- **Predators** — free-living, eat many prey over a lifetime<br>
+  *Prédateurs — libres, mangent de nombreuses proies au cours de leur vie*
+- **Parasitoids** — develop in or on a single host, eventually
+  killing it (mostly wasps and flies)<br>
+  *Parasitoïdes — se développent sur ou dans un seul hôte, qu'ils
+  finissent par tuer*
+- **Pathogens** — microorganisms (fungi, bacteria, viruses,
+  nematodes) that cause disease in the pest<br>
+  *Pathogènes — micro-organismes qui provoquent une maladie chez le
+  ravageur*
+
+::: {.notes}
+~1.5 min. Anagyrus lopezi from the opening story is a parasitoid -
+name that explicitly as the first example of the second guild.
+:::
+
+## Reference: who's who
+
+::: {.small-text}
+| Organism | Guild | English | Français |
+|---|---|---|---|
+| *Coccinellidae* | Predator | Ladybird / ladybug | Coccinelle |
+| *Chrysopidae* | Predator | Green lacewing | Chrysope |
+| *Syrphidae* (larva) | Predator | Hoverfly | Syrphe |
+| *Carabidae* | Predator | Ground beetle | Carabe |
+| *Anagyrus lopezi* | Parasitoid | Parasitoid wasp (cassava mealybug) | Guêpe parasitoïde |
+| *Trichogramma* spp. | Parasitoid | Egg parasitoid wasp | Trichogramme |
+| Tachinidae | Parasitoid | Parasitoid fly | Mouche tachinaire |
+| *Beauveria bassiana* | Pathogen | Entomopathogenic fungus | Champignon entomopathogène |
+:::
+
+::: {.notes}
+~1 min, shown after the activity to self-score. Trichogramma and
+Beauveria are both widely sold commercially for biocontrol - worth
+mentioning if time allows.
+:::
+
+-->

@@ -1,0 +1,12 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+| | |
+|---|---|
+| 🌍 The cassava mealybug & the man who saved 20 million lives | *La cochenille du manioc* |
+| 🔍 Activity: Best Observer — meet the natural enemies | *Activité : le meilleur observateur* |
+| 🤝 How plants recruit natural enemies: reward vs. signal | *Comment les plantes recrutent leurs alliés* |
+| 🌽 The HIPV story: discovery and what came after | *L'histoire des COPV* |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::
