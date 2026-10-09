@@ -1,7 +1,7 @@
 ---
 title: "Plant-Pollinator Interactions"
 subtitle: "Interactions Plante-Pollinisateur"
-# TODO: add topic-image: "images/your-file.jpg" once you have a photo
+topic-image: "images/BeeFlower.jpg"
 # for this week's title slide (see README.md "Adding pictures to a
 # slide" for the convention). Without it, the title text just takes
 # the full width - that's an intentional, safe fallback.

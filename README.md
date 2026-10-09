@@ -317,6 +317,29 @@ paragraph, anything) in one of three utility classes:
 `.text-left`, `.text-center`, and `.text-right` all work the same way;
 default alignment (no wrapper) is left.
 
+**Shrinking text that doesn't fit** — two utility classes, for two
+different situations:
+```markdown
+::: {.small-text}
+A paragraph, a list, or a small table that just needs to be a touch
+smaller to fit the slide.
+:::
+```
+```markdown
+::: {.compact-table}
+| A wide table | with many columns |
+|---|---|
+| that needs to shrink | a lot to fit one slide |
+:::
+```
+`.small-text` (70% size) is the general-purpose one — use it for any
+block, including an ordinary 2-3 column table. `.compact-table` (42%
+size, plus tighter cell padding) is specifically for *wide* tables
+(many columns, e.g. a full-semester schedule) that need much more
+aggressive shrinking — it's usually too small for anything else.
+Reach for `.small-text` first; only use `.compact-table` once a table
+genuinely doesn't fit even at `.small-text` size.
+
 **Citing a shared value** (e.g. the instructor's `author_Zu` metadata
 from `_quarto.yml`) — only works in body text, never in front matter:
 ```markdown

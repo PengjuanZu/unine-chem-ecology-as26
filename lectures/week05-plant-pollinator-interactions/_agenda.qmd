@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| 🌸 Why pollination matters: selfing, outcrossing, pollination agents | *Pourquoi la pollinisation compte* |
-| 🏪 The flower as a marketplace: signals, cues, and rewards | *La fleur, un marché* |
-| ♟️ The game: honesty, deception, robbing, nursery pollination, the evolutionary dance | *Le jeu entre plantes et pollinisateurs* |
+| Pollination matters: selfing, outcrossing, pollination agents | *La pollinisation compte* |
+| The flower as a marketplace: signals and rewards | *La fleur, un marché* |
+| The game: honesty, deception, and more | *Le jeu entre plantes et pollinisateurs* |
 | ☕ The caffeine story | *L'histoire de la caféine* |
 
 ::: {.notes}

@@ -6,12 +6,7 @@ By the end of today, you can:
 
 - Explain why cross-pollination matters, and how plants balance it
   against the reliability of self-pollination
-- Describe the flower as a marketplace: distinguish signal from
-  reward, and signal from cue
-- Give examples of floral rewards beyond nectar, and explain what
-  each one actually costs the plant
-- Explain the plant-pollinator "game" — honest signals, deception,
-  nectar robbing, and nursery pollination — and how it plays out over
+- Describe the flower as a marketplace: signal (vs. cue) & reward
+- Explain the plant-pollinator "game" — honest, cheating — and how it plays out over
   both micro- and macroevolutionary time
-- Use the caffeine-in-nectar story to explain how even a genuine
-  reward can double as manipulation
+
