@@ -32,8 +32,8 @@ format:
 
 {{< include _directresistance.qmd >}}
 
-{{< include _tolerance.qmd >}}
-
 {{< include _herbivorecountermeasures.qmd >}}
+
+{{< include _tolerance.qmd >}}
 
 {{< include _synthesis.qmd >}}

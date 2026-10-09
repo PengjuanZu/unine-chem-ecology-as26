@@ -1,7 +1,7 @@
 ## Synthesis · Synthèse {background-color="#1B4332"}
 
-- Plants defend herbivores with
-  **direct resistance** (physical or chemical, constitutive or
+::: {.small-text}
+- Plants defend herbivores with **direct resistance** (physical or chemical, constitutive or
   induced) or **tolerance** (accept the damage, absorb the cost)<br>
   *Les plantes se défendent
   sur place — par résistance directe (physique ou chimique,
@@ -17,8 +17,8 @@
   lose catastrophically<br>
   *L'histoire coévolutive compte : un hôte naïf face à un ennemi bien
   adapté peut subir des pertes catastrophiques*
+:::
 
-**Next week: indirect resistance — plants that call in outside help.**
 
 ::: {.notes}
 ~1.5 min. Close warmly, bridge to Week 4. End of session.

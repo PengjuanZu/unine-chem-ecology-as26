@@ -2,7 +2,7 @@
 
 *Contre-mesures des insectes*
 
-![](images/Herbivore.png){width="80%" fig-align="center"}
+![](images/Herbivore.png){width="80%" .nostretch fig-align="center"}
 
 ::: {.notes}
 Transition, ~5 sec. Every plant defense in the last section has a
@@ -13,7 +13,7 @@ are for.
 :::
 
 ## Evolutionary arms race
-![](images/coevolution.png){width="80%" fig-align="center"}
+![](images/coevolution.png){width="70%" .nostretch fig-align="center"}
 
 
 ## Insect Countermeasures to plant direct resistance
@@ -23,13 +23,14 @@ are for.
 - Hijacking host metabolism
 
 ## Specialized behavior 
-**Vein-cutting / trenching**
-![(Dussourd 2017)](images/CuttingLatex.png){width="90%" fig-align="center"}
+Vein-cutting / trenching
+
+![(Dussourd 2017)](images/CuttingLatex.png){width="60%" .nostretch fig-align="center"}
 
 
 
 ## Specialized behavior
-Wandering larvae lay silk mats on the trichomes and remove their tips by biting
+> Wandering larvae lay silk mats on the trichomes and remove their tips by biting
 
 ![](images/silk_trichrome.png){width="100%" fig-align="center"}
 
@@ -40,17 +41,11 @@ literally a behavioral countermeasure engineered around one specific
 plant defense structure (latex canals).
 :::
 
-## 2. Detoxification
-
-- General xenobiotic-processing enzymes — **cytochrome P450s**,
-  glutathione S-transferases, esterases — break toxins down into
-  harmless (or less harmful) byproducts
-- Swallowtail butterfly caterpillars (*Papilio* spp.) carry
-  specialized P450 enzymes (CYP6B family) that specifically detoxify
-  furanocoumarins from their host plants
-- Some *Brassica* specialists neutralize glucosinolates by
-  redirecting their breakdown toward a less-toxic product instead of
+## Detoxification
+> Some *Brassica* specialists breakdown glucosinolates toward a non-toxic product instead of
   the toxic one the plant "intends"
+
+![](images/Glucosinolate_sequ.png){width="70%" fig-align="center"}
 
 ::: {.notes}
 ~1.5 min. The glucosinolate example ties back to the
@@ -58,13 +53,18 @@ Brussels-sprouts/TAS2R38 story again - now from the insect's
 counter-adaptation side.
 :::
 
-## 3. Sequestration
+## Sequestration
 
-- Instead of breaking a toxin down, some herbivores **store it
+![](images/Manduca.png){width="70%" fig-align="center"}
+
+## Sequestration
+> Some herbivores **store it
   unmodified** in their own tissues
-- Monarch caterpillars sequester milkweed **cardenolides** — the
-  adult butterfly stays toxic/emetic to bird predators for life
-- The plant's allomone (defends the plant, harms the herbivore)
+
+![](images/manduca_parasi.png){width="50%" fig-align="center"}
+
+
+> The plant's allomone (defends the plant, generally harms herbivore)
   becomes the **herbivore's own allomone** against its predators —
   the exact same molecule, doing the same job, one trophic level up
 
@@ -74,18 +74,17 @@ this is a clean example of a molecule's "who benefits" classification
 flipping depending on which relationship you're looking at.
 :::
 
-## 4. Hijacking host metabolism
+## Hijacking host metabolism
+![](images/leaf galing reprogram.png){width="70%" fig-align="center"}
 
+
+<!--
 - **Gall-forming insects** manipulate the plant's own growth hormones
   (cytokinins, auxins) to build a nutrient-rich, protective structure
   — the plant's own developmental machinery, redirected for the
   insect's benefit
-- Some caterpillars' saliva contains **effector molecules** (e.g.
-  glucose oxidase) that actively **suppress** the plant's induced
-  defense response while feeding — turning down the jasmonic-acid
-  alarm from the inside
-- Conceptually similar to how many plant pathogens use effector
-  proteins to disable host immunity
+
+-->
 
 ::: {.notes}
 ~1.5 min. This is the most sophisticated countermeasure category -
@@ -95,14 +94,10 @@ own signaling before it fully activates.
 
 ## The arms race continues
 
-Every plant defense in this week's framework — physical, chemical,
-constitutive, induced, even tolerance — has been met with a herbivore
-counter-adaptation somewhere. Neither side "wins" permanently.
+Plant defense <---> herbivore counter-adaptation
 
-**This is exactly what happened with phylloxera and European
-grapevines — except the vines had no counter-adaptation ready at
-all. Coevolution takes time; introduce a novel enemy (or a novel
-host) and that history simply isn't there yet.**
+**Coevolution takes time. In the case of phylloxera and European
+grapevines, a novel enemy is introduced but the coevolution history isn't there yet. **
 
 ::: {.notes}
 ~1.5 min close. Full-circle callback to the opening story. Sets up
