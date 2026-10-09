@@ -21,4 +21,9 @@ Taught by Prof. Pengjuan Zu.
   The cassava mealybug and Hans Rudolf Herren, natural enemy guilds, how
   plants recruit them (reward vs. HIPV), and the HIPV discovery story.
 
+- [**Week 5 — Plant-Pollinator Interactions**](lectures/week05-plant-pollinator-interactions/index.qmd)
+  Selfing vs. cross-pollination, the flower as a marketplace (signals, cues,
+  and rewards), the honesty/deception/robbing/nursery-pollination spectrum,
+  pollinator syndromes, and the caffeine-in-nectar story.
+
 *(Add new weeks here as the course grows — see `README.md` for the workflow.)*

@@ -1,0 +1,124 @@
+## The Game Between Plants and Pollinators {background-color="#1B4332"}
+
+*Le jeu entre plantes et pollinisateurs*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## Most signals are honest — but not all
+
+- Most flowers advertise truthfully: strong signal usually means a
+  real reward, since pollinators learn fast and abandon unreliable
+  flowers
+- But roughly a **third of orchid species** offer no reward at all,
+  and still get pollinated, through deception
+
+::: {.notes}
+~1 min. Sets up deception as the exception, not the rule - most of
+the marketplace really is honest.
+:::
+
+## Three kinds of deception
+
+- **Food deception** — mimicking a rewarding flower's signal while
+  offering nothing
+- **Sexual deception** — recall Week 1's *Ophrys* orchid story:
+  mimicking a female insect's pheromone (and appearance) to trick
+  males into pseudocopulation
+- **Brood-site deception** — mimicking rotting flesh or fungus (e.g.
+  *Arum*, carrion flowers) to lure egg-laying flies or beetles, who
+  leave empty-handed
+
+**Same course, same trick as Week 1 — now you have the category it
+belongs to.**
+
+::: {.notes}
+~1.5 min. Direct callback to Week 1's Darwin/Coleman Ophrys story -
+students already know the example, this names the general phenomenon
+it's part of.
+:::
+
+## Nectar robbing
+
+- A visitor bypasses the flower's normal entrance — often biting a
+  hole at the base of a long corolla tube — and takes nectar without
+  touching the reproductive parts at all
+- The robber benefits; the plant gets nothing (no pollen moved) and
+  loses the nectar it paid for
+- **Primary robbers** make the hole; **secondary robbers** just reuse
+  one already made by someone else
+- Bumblebees robbing long tubular flowers (e.g. *Linaria*, comfrey)
+  are a classic example
+
+::: {.notes}
+~1.5 min. Nectar robbing is essentially cheating the marketplace -
+worth framing explicitly as the reward-side mirror of signal
+deception.
+:::
+
+## Nursery pollination: the ultimate loyalty program
+
+- Some plants don't just pay with nectar — they offer a **brood
+  site**: a safe place for the pollinator's own offspring to develop
+- **Yucca & yucca moths**: the moth actively packs pollen onto the
+  stigma, then lays eggs in the ovary; larvae eat *some* (not all) of
+  the developing seeds
+- **Figs & fig wasps**: equally obligate — the wasp pollinates while
+  laying eggs inside the fig; often one wasp species per fig species,
+  a product of extremely tight coevolution
+
+::: {.notes}
+~1.5 min. These are textbook examples of obligate mutualism -
+neither species can reproduce without the other, a very different
+relationship from the generalist nectar/pollen economy most of today
+has covered.
+:::
+
+## The evolutionary dance: microevolution
+
+- Within a single population, local pollinator preference can shift
+  flower color, shape, scent, or reward over a handful of generations
+- Different populations of the same species, visited by different
+  pollinator communities, can drift toward different floral traits —
+  a geographic mosaic of selection
+
+## The evolutionary dance: macroevolution
+
+- Over longer timescales, **shifts in pollinator** can drive
+  speciation itself
+- Classic case: *Aquilegia* (columbine) — spur length and color shift
+  repeatedly as lineages move from bee to hummingbird to hawkmoth
+  pollination, each shift associated with a new species
+- Pollinator-driven floral divergence is considered one of the major
+  engines of angiosperm diversity
+
+::: {.notes}
+~1.5 min. Micro- and macroevolution aren't two different phenomena -
+macroevolutionary patterns (new species) are just microevolutionary
+shifts (trait change under pollinator-driven selection) accumulated
+and fixed over longer time.
+:::
+
+## Pollinator syndromes
+
+Convergent suites of floral traits that predict the likely pollinator:
+
+| Pollinator | Color | Scent | Shape/reward |
+|---|---|---|---|
+| Bee | Blue/purple/yellow, UV patterns | Moderate | Landing platform |
+| Bird | Red | Little to none | Tubular, copious dilute nectar |
+| Moth | White/pale | Strong, sweet, nocturnal | Long tube, nectar-rich |
+| Fly/carrion | Dull purple-brown | Foul | Flat or trap-shaped |
+| Bat | Dull | Strong, musty, nocturnal | Robust, copious nectar |
+
+**A useful predictor — but not a perfect one.** Real visitation is
+often more generalist than the syndrome predicts; this is a genuine,
+ongoing debate in the field, not settled textbook fact.
+
+::: {.notes}
+~2 min. Worth being honest about the controversy (Waser et al. 1996,
+"Generalization in pollination systems," pushed back hard on rigid
+syndrome thinking) - matches the course's broader habit of flagging
+open questions rather than presenting everything as settled.
+:::

@@ -1,0 +1,77 @@
+## Why Pollination Matters {background-color="#1B4332"}
+
+*Pourquoi la pollinisation compte*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## A problem plants can't solve by moving
+
+- Plants are rooted in place — but reproduction needs pollen to
+  travel from anther to stigma
+- Two basic options: **self-pollination** (pollen fertilizes the same
+  individual) or **cross-pollination** (pollen moves between
+  individuals)
+- Neither option is free — each comes with a genetic and ecological
+  trade-off
+
+::: {.notes}
+~1 min. Set up the trade-off before naming it explicitly on the next
+slide.
+:::
+
+## Selfing vs. outcrossing
+
+| | **Self-pollination** | **Cross-pollination** |
+|---|---|---|
+| Reliability | Guaranteed — no vector or mate needed | Depends on a vector reaching a compatible mate |
+| Genetic diversity | Low — risk of inbreeding depression | High — more robust, adaptable offspring |
+| Cost | Cheap, reproductive assurance | Costly: must attract and pay a vector |
+
+- Many plants actively **avoid** self-pollination: anthers and
+  stigma maturing at different times (dichogamy), spatial separation
+  within the flower (herkogamy), or outright genetic
+  self-incompatibility
+- ~90% of flowering plant species rely at least partly on an animal
+  vector for cross-pollination
+
+::: {.notes}
+~2 min. The mechanisms preventing selfing are worth naming even
+briefly - they show how strongly most plants are investing in
+outcrossing despite the cost and unreliability of needing a vector.
+:::
+
+## Pollination agents: abiotic
+
+- **Wind** (anemophily) — grasses, conifers, oaks: huge quantities of
+  small, light pollen, inconspicuous flowers, no reward needed at all
+- **Water** (hydrophily) — rare, mostly aquatic plants (e.g.
+  *Vallisneria*)
+- Abiotic pollination is a numbers game: no signaling, no reward, just
+  massive overproduction to compensate for how inefficient it is
+
+::: {.notes}
+~1 min. Useful contrast point: abiotic pollination needs none of the
+signal/reward machinery the rest of today is about, precisely because
+it doesn't rely on an organism that has to be persuaded.
+:::
+
+## Pollination agents: biotic
+
+- **Insects** (entomophily) — bees, flies, beetles, moths, butterflies
+- **Birds** (ornithophily) — hummingbirds, sunbirds
+- **Bats** (chiropterophily), and more rarely other mammals and even
+  some reptiles
+- An estimated **87% of flowering plant species** depend on animal
+  pollinators — and animal pollination underpins roughly a third of
+  global food crop production by value
+
+**Attracting and rewarding a mobile animal is expensive — which is
+exactly why the rest of today is about how plants pay for it.**
+
+::: {.notes}
+~1.5 min. Bridge directly into "the flower as a marketplace." The 87%
+figure is from Ollerton, Winfree & Tarrant (2011) - worth citing if
+asked.
+:::

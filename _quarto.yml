@@ -16,6 +16,8 @@ website:
         text: "Week 3 — Plant-Herbivore Interactions"
       - href: lectures/week04-tritrophic-interactions/index.qmd
         text: "Week 4 — Tritrophic Interactions"
+      - href: lectures/week05-plant-pollinator-interactions/index.qmd
+        text: "Week 5 — Plant-Pollinator Interactions"
   page-footer: "Prof. Pengjuan Zu · University of Neuchâtel"
 
 metadata:

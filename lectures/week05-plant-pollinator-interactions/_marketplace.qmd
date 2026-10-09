@@ -1,0 +1,109 @@
+## The Flower Is a Marketplace {background-color="#1B4332"}
+
+*La fleur, un marché*
+
+::: {.notes}
+Transition, ~5 sec.
+:::
+
+## Signal vs. reward
+
+- **Signal** — the advertisement: color, shape, scent, pattern. It
+  tells a pollinator *where* something is and *what to expect*
+- **Reward** — the actual payment: nectar, pollen, and more. It's
+  what the pollinator is really there for
+- Like a shop sign vs. the goods on the shelf — most of the time the
+  sign should tell the truth, or customers stop coming back
+
+::: {.notes}
+~1 min. Sets up the marketplace framing used for the rest of the
+section.
+:::
+
+## Signal vs. cue
+
+Recall Week 2's infochemical classification — the same distinction
+applies here, just scaled up to multi-sensory flower traits:
+
+- A **signal** evolved *specifically because* it influences receiver
+  behavior, to the signaler's benefit — floral color and scent evolved
+  to attract pollinators
+- A **cue** is incidental information a receiver exploits, that did
+  *not* evolve for that communicative purpose — e.g. a pollinator
+  using overall plant vigor or leaf greenness (a byproduct of
+  photosynthesis) as an indirect hint about flower quality
+
+**A cue being opportunistically exploited is the same logic as a
+kairomone — just not phrased in those terms.**
+
+::: {.notes}
+~1.5 min. Direct conceptual callback to Week 2 - a cue, like a
+kairomone, benefits only the receiver and didn't evolve for that
+receiver's benefit; a signal, like most floral traits, evolved
+specifically to communicate.
+:::
+
+## What is color?
+
+- Pigments: **anthocyanins** (red/purple/blue), **carotenoids**
+  (yellow/orange/red), **flavonoids** (including UV-absorbing
+  patterns invisible to us but visible to bees)
+- Many flowers carry **nectar guides** — patterns (often UV) that
+  point a pollinator straight to the reward, like a runway light
+- A long-distance signal: visible well before a pollinator is close
+  enough to smell or touch the flower
+
+::: {.notes}
+~1 min. Worth mentioning bee color vision doesn't include red the way
+ours does, but does extend into UV - which is exactly why nectar
+guides often only show up in UV photography.
+:::
+
+## What is volatile?
+
+- Floral scent: terpenoids, benzenoids/phenylpropanoids, fatty-acid
+  derivatives, released from specialized tissue (osmophores)
+- Same biosynthetic toolkit as the HIPVs from Weeks 1-4 — different
+  ecological job: attraction instead of defense or enemy-recruitment
+- Works at long range (attraction) and close range (confirming
+  species identity once a pollinator has landed)
+
+::: {.notes}
+~1 min. Nice full-circle chemistry point: these are often literally
+the same compound classes the course has already covered for plant
+defense, just redeployed for a different purpose.
+:::
+
+## What is nectar?
+
+- Mostly a sugar solution — sucrose, glucose, fructose, in ratios
+  that vary by pollinator: bird flowers tend to be sucrose-rich, bee
+  flowers more balanced
+- Also contains amino acids, lipids, and sometimes secondary
+  metabolites (today's caffeine story is exactly this)
+- The primary caloric reward — what most pollinators are actually
+  working for
+
+## What is pollen?
+
+- The male gametophyte — but also a genuine **reward**, especially
+  for bees, which collect it as a protein and lipid source for larvae
+- A real cost for the plant: pollen given away as food is pollen that
+  can't go on to fertilize another flower
+
+## Other rewards
+
+- **Oils** — collected by specialist oil-bees (e.g. in Malpighiaceae)
+- **Resins** — used by some bees for nest construction
+- **Fragrance itself** — male orchid bees collect floral scent
+  compounds to build their own mating displays
+- **Warmth** — some flowers (e.g. *Arum*) generate heat
+  (thermogenesis), rewarding visitors with a warm refuge
+- **Brood sites** — a nursery for the pollinator's own offspring
+  (today's "game" section)
+
+::: {.notes}
+~1.5 min. Don't over-explain each - they're here to show the reward
+menu is much larger than "nectar and pollen." Brood sites set up the
+nursery pollination slide coming up.
+:::

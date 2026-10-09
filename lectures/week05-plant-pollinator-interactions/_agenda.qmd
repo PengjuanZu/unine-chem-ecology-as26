@@ -1,0 +1,12 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+| | |
+|---|---|
+| 🌸 Why pollination matters: selfing, outcrossing, pollination agents | *Pourquoi la pollinisation compte* |
+| 🏪 The flower as a marketplace: signals, cues, and rewards | *La fleur, un marché* |
+| ♟️ The game: honesty, deception, robbing, nursery pollination, the evolutionary dance | *Le jeu entre plantes et pollinisateurs* |
+| ☕ The caffeine story | *L'histoire de la caféine* |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::

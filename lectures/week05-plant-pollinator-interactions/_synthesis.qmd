@@ -1,0 +1,27 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+- Pollination is a trade-off: reliable but low-diversity selfing vs.
+  costly but high-diversity outcrossing, delivered by abiotic or
+  biotic agents<br>
+  *La pollinisation est un compromis entre autofécondation fiable et
+  fécondation croisée coûteuse*
+- The flower runs a marketplace — signals (color, scent) advertise
+  rewards (nectar, pollen, and more), and not every advertisement is
+  honest<br>
+  *La fleur gère un marché — signaux et récompenses, pas toujours
+  honnêtes*
+- The plant-pollinator relationship spans a spectrum from deception,
+  through robbing, to the tightest obligate mutualisms — and it
+  reshapes species over both short and long evolutionary time<br>
+  *La relation plante-pollinisateur va de la tromperie au mutualisme
+  le plus étroit*
+- Even a genuine reward can double as manipulation — caffeine in
+  nectar doesn't cheat the bee, it just makes sure the bee doesn't
+  forget<br>
+  *Même une vraie récompense peut aussi être une manipulation*
+
+**Next week: [TODO - next topic].**
+
+::: {.notes}
+~1.5 min. Close warmly, bridge to Week 6. End of session.
+:::
