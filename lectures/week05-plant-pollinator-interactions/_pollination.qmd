@@ -54,7 +54,7 @@ outcrossing despite the cost and unreliability of needing a vector.
 :::  {.column width="45%"}
 
 ![](images/windP.png){width="42%" .nostretch} 
-![](images/Walnut.png){width="35%" .nostretch}
+![](images/Walnut.jpg){width="35%" .nostretch}
 
 ![](images/Vallisnaria.jpg){width="50%" .nostretch fig-align="center"}
 :::
@@ -69,7 +69,7 @@ outcrossing despite the cost and unreliability of needing a vector.
 - ~87% of flowering plant species rely at least partly on an animal
   vector for pollination (Ollerton, Winfree & Tarrant, 2011)
 
-![](images/Pollinators.png){width="50%" .nostretch fig-align="center"}
+![](images/Pollinators.png){width="50%" .nostretch}
 
 ## Pollinator diversity
 - Relative importance of different animal pollinator groups of most important 101 food crops (Klein et al., 2007):

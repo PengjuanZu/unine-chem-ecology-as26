@@ -266,6 +266,25 @@ letterbox), `cover` (fill the slide, may crop), or a percentage like
 specifically, see the one-line `topic-image-style` override documented
 in `styles/forest-theme.scss`.
 
+**Cropping an image** (e.g. keeping just the top half of a figure) —
+without ever touching the source file:
+```markdown
+![](images/file.jpg){width="60%" style="aspect-ratio: W/H;" .trim-top}
+```
+`W/H` is the aspect ratio of the region you want to *keep*, not the
+part you're cropping away — e.g. to keep the top 50% of a 2733×3328
+image, use `2733/1664` (half the original height). `.trim-top`,
+`.trim-bottom`, and `.trim-center` control which part of the image
+survives the crop; `width=` still controls the on-slide size as
+usual, independently of the crop itself.
+
+Plain `height="60%"` on an image does **not** reliably achieve this —
+percentage height only resolves when every ancestor has a *definite*
+height, and a `.column`/slide body is just auto-sized by its content,
+so the browser treats the percentage as unset. `aspect-ratio` doesn't
+have that problem, which is why the crop is expressed that way
+instead.
+
 **Two-column layout:**
 ```markdown
 :::: {.columns}

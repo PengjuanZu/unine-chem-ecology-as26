@@ -91,6 +91,36 @@ html, body {
   max-width: 100%;
 }
 
+// Crop an image to a specific region, in the .qmd itself, without
+// ever touching the source file. Plain `height="60%"` on an <img>
+// does NOT reliably work for this (percentage height only resolves
+// when every ancestor has a *definite* height - a .column/slide body
+// is just auto-sized, so the browser treats it as unset) - instead,
+// pick the fraction you want to KEEP via aspect-ratio, which doesn't
+// have that problem, and let object-fit: cover do the cropping.
+// Usage - keep the top 50% of a 1416x1394 image (so a 1416x697 box):
+//   ![](images/a.jpg){style="aspect-ratio: 1416/697;" .trim-top}
+// .trim-top/-bottom/-center control which part of the image survives
+// the crop; width/height attributes control the box's on-slide size
+// as usual and are independent of the crop itself.
+.reveal .trim-top,
+.reveal .trim-bottom,
+.reveal .trim-center {
+  object-fit: cover;
+}
+
+.reveal .trim-top {
+  object-position: top;
+}
+
+.reveal .trim-bottom {
+  object-position: bottom;
+}
+
+.reveal .trim-center {
+  object-position: center;
+}
+
 // Nested bullets (sub-points under a top-level list item) render a
 // size smaller, so the hierarchy is visible at a glance.
 .reveal ul ul,
