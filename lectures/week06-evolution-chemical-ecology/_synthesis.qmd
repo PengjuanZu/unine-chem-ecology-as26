@@ -1,0 +1,14 @@
+## Synthesis · Synthèse {background-color="#1B4332"}
+
+<!-- TODO: placeholder - replace once there's real content to
+synthesize. -->
+
+- TODO
+- TODO
+- TODO
+
+**Next week: [TODO - next topic].**
+
+::: {.notes}
+~1.5 min. Close warmly, bridge to Week 7. End of session.
+:::

@@ -21,4 +21,7 @@ Taught by Prof. Pengjuan Zu.
   The cassava mealybug and Hans Rudolf Herren, natural enemy guilds, how
   plants recruit them (reward vs. HIPV), and the HIPV discovery story.
 
+- [**Week 6 — Evolution and Chemical Ecology Across Scales**](lectures/week06-evolution-chemical-ecology/index.qmd)
+  *(Skeleton only - awaiting a detailed outline before content is written.)*
+
 *(Add new weeks here as the course grows — see `README.md` for the workflow.)*

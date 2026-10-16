@@ -1,0 +1,14 @@
+## Today · Aujourd'hui {background-color="#1B4332"}
+
+<!-- TODO: placeholder agenda - replace once there's a real outline
+for this week. -->
+
+| | |
+|---|---|
+| TODO | TODO |
+| TODO | TODO |
+| TODO | TODO |
+
+::: {.notes}
+Roadmap slide — one line per block. ~30 sec.
+:::

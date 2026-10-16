@@ -1,0 +1,13 @@
+## Learning Goals {background-color="#1B4332"}
+
+*Objectifs d'apprentissage*
+
+<!-- TODO: placeholder goals - replace once there's a real outline
+for this week. Kept broad/generic on purpose so the deck still
+renders cleanly in the meantime. -->
+
+By the end of today, you can:
+
+- TODO
+- TODO
+- TODO
