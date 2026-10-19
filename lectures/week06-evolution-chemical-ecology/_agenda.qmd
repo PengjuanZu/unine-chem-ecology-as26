@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| 🐄 Why does selection sometimes fail? | *Pourquoi la sélection échoue-t-elle parfois ?* |
-| 📐 Heritability and the breeder's equation | *L'héritabilité et l'équation du sélectionneur* |
-| 🌸 Heritability of floral volatiles | *Héritabilité des composés volatils floraux* |
-| 🧪 Microevolution in action: pollinator-driven selection experiments | *Microévolution en action* |
+| Heritability and the breeder's equation | *L'héritabilité et l'équation du sélectionneur* |
+| Heritability of floral volatiles | *Héritabilité des composés volatils floraux* |
+| Microevolution in action: insect-driven selection experiments | *Microévolution en action* |
+| Why does selection sometimes fail? | *Pourquoi la sélection échoue-t-elle parfois ?* |
 
 ::: {.notes}
 Roadmap slide — one line per block. ~30 sec.

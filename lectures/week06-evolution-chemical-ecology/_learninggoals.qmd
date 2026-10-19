@@ -4,12 +4,20 @@
 
 By the end of today, you can:
 
-- Explain what heritability (h²) actually measures, and why a trait
+- Explain what heritability (h²) measures, and why a trait
   needs it to respond to selection (the breeder's equation, R = h²S)
-- Distinguish two different reasons selection can fail to change a
-  trait: low heritability vs. an unfavorable correlation/trade-off
+- Understand experimental evolution studies and interpret scientific figures and results
+- Explain why sometimes selection can fail to change a
+  trait
+
+
+
+::: {.notes}
+ low heritability vs. an unfavorable correlation/trade-off
   with another trait
-- Describe heritability of floral volatiles and what it reveals about
-  the microevolutionary potential of floral scent
-- Connect short-generation experimental evolution (pollinator-driven
+Connect short-generation experimental evolution (pollinator-driven
   selection) to what heritability predicts should (or shouldn't) happen
+
+- Understand what heritability of floral volatiles and the genetic architecture (G-matrix) with other traits reveal about
+  the microevolutionary potential of plant traits
+:::

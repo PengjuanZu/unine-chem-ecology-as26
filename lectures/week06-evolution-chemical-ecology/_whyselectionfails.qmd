@@ -127,12 +127,138 @@ an open, actively-studied question rather than settled fact.
 | Example today | Dairy fertility (h² ≈ 0.04) | Dairy fertility × yield; tomato flavor × fruit size |
 | Direction | Only ever stalls progress | Can help (positive) *or* hurt (negative) |
 
-**Bridge to today: before we can ask whether floral scent can evolve
-under pollinator selection, we need to know which of these two traps
-it falls into — if either.**
+::: {.notes}
+~1 min. Two clean diagnostic categories from agriculture - now hand
+the framework to the students and ask them to apply it somewhere
+closer to home: chemical ecology.
+:::
+
+## Now you try it: four chemical ecology cases {.hook}
+
+*À vous d'essayer : quatre cas en écologie chimique*
+
+For each case, decide: **low heritability**, **genetic
+correlation/pleiotropy**, **ecological trade-off**, or something the
+two-category framework doesn't fully capture?
+
+1. **Glucosinolates in *Brassica*** — after just 3 generations of
+   divergent artificial selection for leaf glucosinolate content,
+   high- and low-selected lines had clearly diverged — but the
+   high-defense lines also produced fewer flowers and seeds per fruit.
+2. **Pheromone blend ratios in moths** — the ratio of two components
+   in a sex pheromone blend rarely evolves independently, because
+   both compounds are made by the same desaturase/reductase enzyme
+   steps in one biosynthetic pathway.
+3. **Floral scent in wild tobacco (*Nicotiana attenuata*)** — its
+   night-time scent (dominated by benzyl acetone) attracts pollinating
+   hawkmoths — but the *same* hawkmoth species also uses that scent to
+   decide where to lay eggs, and the larvae then eat the plant.
+4. **Cyanogenesis in white clover (*Trifolium repens*)** — populations
+   are a patchwork of cyanogenic and non-cyanogenic plants that has
+   persisted for decades, not swept to fixation either way.
+
+⏳ Discuss in pairs, 3 minutes.
 
 ::: {.notes}
-~1.5 min close. Sets up the heritability-of-floral-volatiles section
+~1 min to set up, ~3 min discussion. Deliberately mixes one case that
+is genuinely ambiguous/combined (case 1) and one that breaks the
+two-bucket framework entirely (case 4), so students have to notice the
+framework isn't exhaustive, not just pattern-match keywords.
+:::
+
+## Reveal: case 1 - glucosinolates {.smaller}
+
+**Both at once.** Glucosinolate content *does* respond readily to
+selection - real, substantial additive genetic variance, confirmed
+across *Brassica* and *Arabidopsis*. But the high-glucosinolate lines
+paid a measurable reproductive cost (fewer flowers/seeds per fruit) -
+a genuine correlated trade-off between defense and reproduction
+riding on top of a trait that is otherwise a textbook "selection
+works" case.
+
+**Not a failure of heritability - a cost that heritable selection
+exposed.**
+
+::: {.notes}
+Source: divergent selection experiments on foliar glucosinolate
+content in *Brassica rapa* (3-generation direct response, documented
+fitness cost in flower/seed number); corroborating heritability and
+QTL work in *Brassica oleracea* (highly heritable aliphatic
+glucosinolate level, allelic variation at ~4 loci, including a
+MAM-locus region).
+:::
+
+## Reveal: case 2 - moth pheromones {.smaller}
+
+**Genetic correlation / pleiotropy.** When two pheromone components
+share upstream biosynthetic enzymes, a mutation that shifts one
+compound's abundance often shifts the other too - the blend *ratio*
+is the functional signal (it's what distinguishes one species/race
+from another to a male's antennae), so it can't easily be tuned one
+compound at a time. This is a textbook case of pathway-level genetic
+constraint in chemical communication, documented across several moth
+systems (e.g. divergent pheromone races linked to shared
+desaturase-pathway variants).
+
+**Same mechanism as dairy yield/fertility - just enzymes instead of
+whole-organism physiology.**
+
+## Reveal: case 3 - wild tobacco scent {.smaller}
+
+**Ecological trade-off, not a genetic one.** The scent (plus nectar)
+that pulls in pollinating hawkmoths is read by the *same* insect
+species for a second decision - where to oviposit - so one signal
+serves two audiences with opposing consequences for the plant. A
+California population with unusually low benzyl acetone, in a
+high-herbivory area, hints that local herbivore pressure can shift
+where the plant sits on this trade-off.
+
+**The cost isn't paid through genetics (correlation) or physiology
+(resource allocation) - it's paid because one signal is read by
+multiple receivers with different interests.**
+
+::: {.notes}
+Source: Kessler, Baldwin and colleagues on *Nicotiana attenuata*
+floral scent (benzyl acetone as dominant night scent, hawkmoth
+pollination) and an eLife study manipulating scent and nectar jointly,
+finding both increase pollinator-mediated outcrossing *and* hawkmoth
+oviposition (nectar the stronger driver of the two). Caveat for
+students: most direct evidence manipulates scent and nectar together,
+not benzyl acetone alone - flag this as how real chemical ecology
+data often arrives bundled, not cleanly separated.
+:::
+
+## Reveal: case 4 - clover cyanogenesis {.smaller}
+
+**Breaks the two-category framework.** This isn't selection failing -
+it's selection pulling in *different directions in different places*
+(spatially varying selection) and staying there: cyanogenic plants are
+better defended against herbivores/slugs, but the same cyanide-release
+pathway damages the plant's own tissue after frost, so cold sites
+favor non-cyanogenic plants. Neither allele wins everywhere, so the
+polymorphism persists rather than going to fixation.
+
+**A reminder: "heritability" and "correlation" aren't the only reasons
+a trait doesn't evolve toward one fixed optimum - the optimum itself
+can vary across the landscape.**
+
+::: {.notes}
+Classic case (Jones 1973 and extensive follow-up work) - genuinely
+well-established, safe to present with confidence. Good moment to
+explicitly say: today's two-category framework is a teaching
+simplification, not the full story - flag it before moving to the
+dedicated heritability content so students don't over-apply the
+framework later.
+:::
+
+## Bridge to today
+
+**Before we can ask whether floral scent can evolve under pollinator
+selection, we need to know which of these traps it falls into - if
+any.**
+
+::: {.notes}
+~1 min close. Sets up the heritability-of-floral-volatiles section
 directly: does floral scent have enough heritable variance to respond
 to pollinator-mediated selection, and are different scent components
 positively or negatively correlated with each other?
