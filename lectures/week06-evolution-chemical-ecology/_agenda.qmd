@@ -1,13 +1,11 @@
 ## Today · Aujourd'hui {background-color="#1B4332"}
 
-<!-- TODO: placeholder agenda - replace once there's a real outline
-for this week. -->
-
 | | |
 |---|---|
-| TODO | TODO |
-| TODO | TODO |
-| TODO | TODO |
+| 🐄 Why does selection sometimes fail? | *Pourquoi la sélection échoue-t-elle parfois ?* |
+| 📐 Heritability and the breeder's equation | *L'héritabilité et l'équation du sélectionneur* |
+| 🌸 Heritability of floral volatiles | *Héritabilité des composés volatils floraux* |
+| 🧪 Microevolution in action: pollinator-driven selection experiments | *Microévolution en action* |
 
 ::: {.notes}
 Roadmap slide — one line per block. ~30 sec.

@@ -24,8 +24,11 @@ format:
 
 {{< include _agenda.qmd >}}
 
-<!-- TODO: content sections go here once there's an outline to build
-from - see _learninggoals.qmd and _agenda.qmd for the placeholder
-structure waiting to be filled in. -->
+{{< include _whyselectionfails.qmd >}}
+
+<!-- TODO: remaining sections, still awaiting content -
+- Heritability of floral volatiles (your New Phytologist paper)
+- Microevolution in action: Schiestl lab pollinator-driven selection
+  experiments -->
 
 {{< include _synthesis.qmd >}}

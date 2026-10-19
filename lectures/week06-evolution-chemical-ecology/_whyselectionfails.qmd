@@ -1,0 +1,139 @@
+## Why Does Selection Sometimes Fail? {background-color="#1B4332"}
+
+*Pourquoi la sélection échoue-t-elle parfois ?*
+
+::: {.notes}
+Opening story, ~10 min total. Hook, then the heritability reveal,
+then the breeder's equation, then the correlated-response twist, then
+a second contrasting case (tomato flavor), then bridge explicitly to
+today's heritability-of-floral-volatiles content.
+:::
+
+## A paradox in the dairy barn {.hook}
+
+<!-- TODO: image of a dairy cow / breeding records chart. -->
+
+> **For over 50 years, dairy breeders selected cows as hard as
+> possible for one thing: milk yield. It worked spectacularly — yield
+> climbed and climbed. But fertility — how easily a cow gets
+> pregnant again — got steadily *worse* over the same period, even
+> though breeders wanted good fertility too. Why would a trait move
+> backwards under deliberate selection?**
+>
+> *Pendant plus de 50 ans, les éleveurs laitiers ont sélectionné les
+> vaches aussi fort que possible pour une seule chose : la production
+> de lait. Cela a très bien fonctionné — le rendement n'a cessé
+> d'augmenter. Mais la fertilité — la facilité avec laquelle une
+> vache retombe gestante — s'est constamment dégradée sur la même
+> période, alors que les éleveurs voulaient aussi une bonne fertilité.
+> Pourquoi un caractère reculerait-il sous l'effet d'une sélection
+> délibérée ?*
+
+⏳ Think, 45 seconds — talk to your neighbor.
+
+::: {.notes}
+Let guesses land before the reveal. ~2 min including setup.
+:::
+
+## Reveal: two very different numbers
+
+- **Milk yield**: heritability h² ≈ 0.25-0.40 — high. Decades of
+  selection produced exactly what the breeder's equation predicts: a
+  large, sustained response
+- **Fertility** (e.g. daughter pregnancy rate): heritability h² ≈
+  0.01-0.10, sometimes cited as low as **4%** — there's almost no
+  additive genetic variance to select on at all
+- Even under intense, sustained selection pressure, a trait with
+  h² near zero simply **cannot respond** — the raw material isn't
+  there
+
+::: {.notes}
+~1.5 min. This alone already explains why fertility barely improved
+even when breeders started actively selecting for it in the
+mid-1990s.
+:::
+
+## The breeder's equation
+
+> **R = h² × S**
+>
+> Response to selection = heritability × selection differential
+
+- **S** (how hard you select) is entirely under the breeder's
+  control
+- **h²** is not — it's a property of the trait, in that population,
+  in that environment
+- Push S as hard as you want: if h² ≈ 0, R ≈ 0 regardless
+
+::: {.notes}
+~1.5 min. This is the single equation that makes the rest of today's
+material legible - keep it visible/referenced for the floral volatile
+heritability discussion later.
+:::
+
+## But fertility didn't just stagnate — it got *worse*
+
+- Low heritability alone only predicts **no progress**, not active
+  decline
+- The missing piece: milk yield and fertility are **negatively
+  genetically correlated** — the same genes that push yield up tend
+  to push fertility down
+- One widely cited analysis attributes roughly **75% of a 37-day
+  increase** in "days open" (time to successful rebreeding) to the
+  *correlated* side-effect of selecting for yield — not a direct
+  attack on fertility at all
+
+**Selecting hard on one trait can drag a genetically correlated trait
+along with it — for better or for worse.**
+
+::: {.notes}
+~2 min. This is the conceptual heart of today's "trade-offs" theme -
+a correlated response can be positive (a free lunch: both traits
+improve together) or negative (a trade-off: you can't have both).
+Source: standard animal-breeding literature on Holstein fertility
+decline, e.g. the Journal of Dairy Science 100-Year Review.
+:::
+
+## A second case that looks the same, but isn't
+
+- **Tomato flavor** also "failed" under 20th-century breeding — flavor
+  compounds declined as shelf-life and fruit size were selected for
+- But this is **not** a low-heritability story — flavor compounds
+  have real, measurable genetic variance
+- Instead: a **resource-allocation trade-off** — bigger fruit dilutes
+  a fixed pool of sugars and volatiles across more water and biomass,
+  lowering concentration per unit weight
+
+**Same observed outcome (breeding failed to deliver the trait), two
+completely different causes.**
+
+::: {.notes}
+~2 min. Deliberately placed right after the dairy case for contrast.
+Whether a trade-off comes from shared genes (pleiotropy, as in dairy
+fertility) or from a tight physiological/resource constraint acting
+on otherwise-independent traits (as in tomato flavor), the practical
+consequence for a breeder - or for natural selection - is the same:
+you cannot just add up selection on each trait separately. Klee and
+colleagues have argued volatile compounds specifically may not share
+the same yield trade-off that sugar content does - worth flagging as
+an open, actively-studied question rather than settled fact.
+:::
+
+## Two reasons selection can fail
+
+| | **Low heritability** | **Correlation / trade-off** |
+|---|---|---|
+| The problem | Not enough additive genetic variance to select on | Selecting trait A moves trait B too |
+| Example today | Dairy fertility (h² ≈ 0.04) | Dairy fertility × yield; tomato flavor × fruit size |
+| Direction | Only ever stalls progress | Can help (positive) *or* hurt (negative) |
+
+**Bridge to today: before we can ask whether floral scent can evolve
+under pollinator selection, we need to know which of these two traps
+it falls into — if either.**
+
+::: {.notes}
+~1.5 min close. Sets up the heritability-of-floral-volatiles section
+directly: does floral scent have enough heritable variance to respond
+to pollinator-mediated selection, and are different scent components
+positively or negatively correlated with each other?
+:::
