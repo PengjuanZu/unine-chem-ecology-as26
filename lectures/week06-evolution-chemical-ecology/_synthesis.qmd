@@ -3,11 +3,12 @@
 <!-- TODO: placeholder - replace once there's real content to
 synthesize. -->
 
-- TODO
-- TODO
-- TODO
+- Phenotypic Variance = Genetic Variance + Environment Variance
+- The breeder's equation, R = h²S
+- Sometimes selection can fail to change a
+  trait due to low heritability, genetic coorelation or other trade-offs
 
-**Next week: [TODO - next topic].**
+**Next week: Discussion Session 1 (group activity)**
 
 ::: {.notes}
 ~1.5 min. Close warmly, bridge to Week 7. End of session.
